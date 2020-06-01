@@ -1,5 +1,5 @@
 # Arma3Map
-Tool to display Arma 3 maps in a web browser using Leaflet.
+Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leaflet](https://leafletjs.com/).
 
 # Supported maps
 
@@ -14,6 +14,9 @@ Content under
 # How to use
 
 ## Base map
+
+Each map have a js file that provides informations to configure Leaflet:
+`https://jetelain.github.io/Arma3Map/maps/[mapname].js`
 
 ```html
 <!DOCTYPE html>
