@@ -7,6 +7,11 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | -------------------- | --------------------------- | --------------------- |
 | <a href="tanoa.html"><img src="maps/tanoa/0/0/0.png" width="200" height="200" /></a> | <a href="taunus.html"><img src="maps/taunus/0/0/0.png" width="200" height="200" /></a> | <a href="kujari.html"><img src="maps/kujari/0/0/0.png" width="200" height="200" /></a> |
 
+| [Altis](altis.html)  | 
+| -------------------- | 
+| <a href="altis.html"><img src="maps/altis/0/0/0.png" width="200" height="200" /></a> | 
+
+
 Content under 
 - [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive, X-CAM Taunus Dev Team.
 - [Arma Public Licence-Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; Temppa.

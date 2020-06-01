@@ -19,7 +19,14 @@ function InitMap(mapInfos) {
 
         L.control.scale({ maxWidth: 200, imperial: false }).addTo(map);
 
-L.control.gridMousePosition().addTo(map);
+		L.control.gridMousePosition().addTo(map);
 		
+		if (window.location.hash == '#cities' ) 
+		{
+			$.each(mapInfos.cities, function(index, city){
+				
+				L.marker([city.y, city.x]).addTo(map).bindPopup(city.name);
+			});
+		}
     });
 }
