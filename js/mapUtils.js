@@ -429,3 +429,10 @@ L.Map.addInitHook(function () {
 L.control.gridMousePosition = function (options) {
     return new L.Control.GridMousePosition(options);
 };
+
+var Arma3Map = {
+
+    Maps: {}
+
+
+};

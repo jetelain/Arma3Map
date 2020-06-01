@@ -1,4 +1,4 @@
-﻿InitMap({
+﻿Arma3Map.Maps.taunus = {
     CRS: MGRS_CRS(0.013832, 0.013828, 284),
     tilePattern: '/maps/taunus/{z}/{x}/{y}.png',
     maxZoom: 5,
@@ -7,4 +7,4 @@
     attribution: '&copy; Bohemia Interactive, X-Cam-Taunus team',
     tileSize: 284,
     center: [10000,10000]
-});
+};

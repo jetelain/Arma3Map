@@ -1,7 +1,6 @@
 # Arma3Map
 Tool to display Arma 3 maps in a web browser using Leaflet.
 
-
 # Supported maps
 [Tanoa](tanoa.html)
 
@@ -11,10 +10,12 @@ Tool to display Arma 3 maps in a web browser using Leaflet.
 
 <a href="taunus.html"><img src="maps/taunus/0/0/0.png" width="200" height="200" /></a>
 
+Content under [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive, X-CAM Taunus Dev Team.
+
+
 # How to use
 
-- Include the required JavaScript and CSS files
-- Before including map js file, define a `IniMap` function that will get map informations
+## Base map
 
 ```html
 <!DOCTYPE html>
@@ -35,10 +36,12 @@ Tool to display Arma 3 maps in a web browser using Leaflet.
     </script>
     <script src="https://jetelain.github.io/Arma3Map/js/mapUtils.js">
     </script>
+    <script src="https://jetelain.github.io/Arma3Map/maps/tanoa.js">
+    </script>
     <script>
-// Define a InitMap function, it will callbacked by the .js file on the map with relevant data
-function InitMap(mapInfos) {
     $(function () {
+        var mapInfos = Arma3Map.Maps.tanoa;
+
         // Create map control
         var map = L.map('map', { 
             minZoom: mapInfos.minZoom, 
@@ -64,11 +67,14 @@ function InitMap(mapInfos) {
         // (optional) Add mouse grid position
         L.control.gridMousePosition().addTo(map);
     });
-}
-    </script>
-    <script src="https://jetelain.github.io/Arma3Map/maps/tanoa.js">
     </script>
 </body>
 </html>
 
 ```
+
+## Leaflet
+
+Once you have the base map, you can use all Leaflet features and plugins.
+
+In Leaflet APIs, the latitude will be the northing in meters, and the longitude the easting in meters (x=lon, y=lat).
