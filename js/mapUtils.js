@@ -390,3 +390,42 @@ function toCoord(num) {
 function toGrid(latlng) {
     return toCoord(latlng.lng) + " - " + toCoord(latlng.lat);
 }
+
+
+L.Control.GridMousePosition = L.Control.extend({
+  options: {
+    position: 'topright'
+  },
+
+  onAdd: function (map) {
+    this._container = L.DomUtil.create('div', 'leaflet-grid-mouseposition');
+    L.DomEvent.disableClickPropagation(this._container);
+    map.on('mousemove', this._onMouseMove, this);
+    this._container.innerHTML='';
+    return this._container;
+  },
+
+  onRemove: function (map) {
+    map.off('mousemove', this._onMouseMove)
+  },
+
+  _onMouseMove: function (e) {
+    this._container.innerHTML = toGrid(e.latlng);
+  }
+
+});
+
+L.Map.mergeOptions({
+    positionControl: false
+});
+
+L.Map.addInitHook(function () {
+    if (this.options.positionControl) {
+        this.positionControl = new L.Control.GridMousePosition();
+        this.addControl(this.positionControl);
+    }
+});
+
+L.control.gridMousePosition = function (options) {
+    return new L.Control.GridMousePosition(options);
+};

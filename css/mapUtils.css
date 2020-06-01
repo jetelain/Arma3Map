@@ -1,0 +1,10 @@
+.leaflet-container .leaflet-grid-mouseposition {
+  background-color: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 0 5px #bbb;
+  padding: 5px;
+  margin:20px;
+  color: #000;
+  font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+  width: 80px;
+  text-align:center;
+}
