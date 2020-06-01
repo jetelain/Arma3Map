@@ -2,16 +2,14 @@
 Tool to display Arma 3 maps in a web browser using Leaflet.
 
 # Supported maps
-[Tanoa](tanoa.html)
 
-<a href="tanoa.html"><img src="maps/tanoa/0/0/0.png" width="200" height="200" /></a>
+| [Tanoa](tanoa.html)  | [X-CAM Taunus](taunus.html) | [Kujari](kujari.html) |
+| -------------------- | --------------------------- | --------------------- |
+| <a href="tanoa.html"><img src="maps/tanoa/0/0/0.png" width="200" height="200" /></a> | <a href="taunus.html"><img src="maps/taunus/0/0/0.png" width="200" height="200" /></a> | <a href="kujari.html"><img src="maps/kujari/0/0/0.png" width="200" height="200" /></a> |
 
-[X-CAM Taunus](taunus.html)
-
-<a href="taunus.html"><img src="maps/taunus/0/0/0.png" width="200" height="200" /></a>
-
-Content under [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive, X-CAM Taunus Dev Team.
-
+Content under 
+- [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive, X-CAM Taunus Dev Team.
+- [Arma Public Licence-Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; Temppa.
 
 # How to use
 
