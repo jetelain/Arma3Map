@@ -6,7 +6,7 @@
     defaultZoom: 2,
     attribution: '&copy; Bohemia Interactive, Temppa',
     tileSize: 226,
-    center: [8000,8000],
+    center: [8200,8200],
 	cities:[
 		{name:"Kouble Maimatara",x:9160.2,y:9029.38},
 		{name:"Samari",x:6684.1,y:8867.83},
