@@ -7,9 +7,9 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | -------------------- | --------------------------- | --------------------- |
 | <a href="tanoa.html"><img src="maps/tanoa/0/0/0.png" width="200" height="200" /></a> | <a href="taunus.html"><img src="maps/taunus/0/0/0.png" width="200" height="200" /></a> | <a href="kujari.html"><img src="maps/kujari/0/0/0.png" width="200" height="200" /></a> |
 
-| [Altis](altis.html)  | [Malden](malden.html)  | 
-| -------------------- | -------------------- | 
-| <a href="altis.html"><img src="maps/altis/0/0/0.png" width="200" height="200" /></a> | <a href="malden.html"><img src="maps/malden/0/0/0.png" width="200" height="200" /></a> | 
+| [Altis](altis.html)  | [Malden](malden.html)  | [Island Panthera](panthera3.html)  | 
+| -------------------- | -------------------- | -------------------- | 
+| <a href="altis.html"><img src="maps/altis/0/0/0.png" width="200" height="200" /></a> | <a href="malden.html"><img src="maps/malden/0/0/0.png" width="200" height="200" /></a> | <a href="panthera3.html"><img src="maps/panthera3/0/0/0.png" width="200" height="200" /></a> |
 
 
 Content under 
