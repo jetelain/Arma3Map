@@ -1,4 +1,5 @@
-﻿Arma3Map.Maps.taunus = {
+﻿Arma3Map.Maps.taunus =
+Arma3Map.Maps.xcam_taunus = {
     CRS: MGRS_CRS(0.013832, 0.013828, 284),
     tilePattern: '/maps/taunus/{z}/{x}/{y}.png',
     maxZoom: 5,
