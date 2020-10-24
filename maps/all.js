@@ -58,6 +58,47 @@ Arma3Map.Maps.altis = { // 0.00683
 		{name:"Molos",x:26943.9,y:23170.7}
 	]
 };
+Arma3Map.Maps.enoch = {
+    CRS: MGRS_CRS(0.02735, 0.02735, 356),
+    tilePattern: '/maps/enoch/{z}/{x}/{y}.png',
+    maxZoom: 4,
+    minZoom: 0,
+    defaultZoom: 2,
+    attribution: '&copy; Bohemia Interactive',
+    tileSize: 356,
+    center: [7100,7100],
+	cities: [
+		{name:"Gliniska",x:4992.62,y:9921.74},
+		{name:"Lukow",x:3529.65,y:11966.5},
+		{name:"Radacz",x:4007.78,y:7939.91},
+		{name:"Sobótka",x:6256.94,y:10252.9},
+		{name:"Bielawa",x:1573.45,y:9677.45},
+		{name:"Olszanka",x:4819.03,y:7674.13},
+		{name:"Brena",x:6617.63,y:11211},
+		{name:"Nidek",x:6128.89,y:8013.34},
+		{name:"Adamów",x:3076.31,y:6851.26},
+		{name:"Topolin",x:1858.82,y:7330.87},
+		{name:"Muratyn",x:4567.5,y:6384.4},
+		{name:"Lipina",x:5941.87,y:6820.01},
+		{name:"Zapadlisko",x:8058.25,y:8711.76},
+		{name:"Huta",x:5141.47,y:5472.78},
+		{name:"Kolembrody",x:8416.95,y:11981.9},
+		{name:"Radunin",x:7298.38,y:6491.9},
+		{name:"Tarnow",x:9328.31,y:10904.8},
+		{name:"Zalesie",x:896.08,y:5536.12},
+		{name:"Lembork",x:8680.47,y:6635.7},
+		{name:"Roztoka",x:7695.28,y:5317.47},
+		{name:"Borek",x:9807.49,y:8495.07},
+		{name:"Nadbór",x:6109.5,y:3983.17},
+		{name:"Grabin",x:10666.2,y:11025.6},
+		{name:"Karlin",x:10072.7,y:6956.96},
+		{name:"Sitnik",x:11502.3,y:9573.01},
+		{name:"Polana",x:3279.61,y:2132.15},
+		{name:"Gieraltów",x:11240,y:4380.37},
+		{name:"Dolnik",x:11312.4,y:655.73}
+	]
+};
+Arma3Map.Maps.tem_kujari =
 Arma3Map.Maps.kujari = {
     CRS: MGRS_CRS(0.01374, 0.01373, 226),
     tilePattern: '/maps/kujari/{z}/{x}/{y}.png',

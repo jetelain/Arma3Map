@@ -1,4 +1,5 @@
-﻿Arma3Map.Maps.kujari = {
+﻿Arma3Map.Maps.tem_kujari =
+Arma3Map.Maps.kujari = {
     CRS: MGRS_CRS(0.01374, 0.01373, 226),
     tilePattern: '/maps/kujari/{z}/{x}/{y}.png',
     maxZoom: 5,
