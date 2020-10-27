@@ -1,5 +1,5 @@
-﻿Arma3Map.Maps.tem_kujari =
-Arma3Map.Maps.kujari = {
+﻿Arma3Map.Maps.kujari = 
+Arma3Map.Maps.tem_kujari = {
     CRS: MGRS_CRS(0.01374, 0.01373, 226),
     tilePattern: '/maps/kujari/{z}/{x}/{y}.png',
     maxZoom: 5,
@@ -8,6 +8,9 @@ Arma3Map.Maps.kujari = {
     attribution: '&copy; Bohemia Interactive, Temppa',
     tileSize: 226,
     center: [8200,8200],
+	worldSize: 16384,
+	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=1726494027',
+	preview: 'https://steamuserimages-a.akamaihd.net/ugc/817876755344089889/060649AC2661DC4AD8742D91F32948756C92BA81/',
 	cities:[
 		{name:"Kouble Maimatara",x:9160.2,y:9029.38},
 		{name:"Samari",x:6684.1,y:8867.83},

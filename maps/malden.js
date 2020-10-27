@@ -7,6 +7,9 @@
     attribution: '&copy; Bohemia Interactive',
     tileSize: 186,
     center: [7000,7000],
+	worldSize: 12800,
+	dlc: 'https://store.steampowered.com/app/639600/Arma_3_Malden/',
+	preview: 'https://arma3.com/assets/img/post/images/arma3_dlc_malden_screenshot_02.jpg',
 	cities: [
 		{name:"Chapoi",x:5835.55,y:3529.72},
 		{name:"Cancon",x:5404.27,y:2796.07},

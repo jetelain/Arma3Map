@@ -7,6 +7,9 @@
     attribution: '&copy; Bohemia Interactive',
     tileSize: 213,
     center: [7000,7000],
+	worldSize: 15360,
+	dlc: 'https://store.steampowered.com/app/395180/Arma_3_Apex/',
+	preview:'https://arma3.com/assets/img/post/images/arma3_tanoa_screenshot_01.jpg',
 	cities: [
 		{name:"Lami",x:7941.7,y:7663.32},
 		{name:"Lifou",x:7080.21,y:8004.08},

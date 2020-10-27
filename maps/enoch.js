@@ -7,6 +7,9 @@
     attribution: '&copy; Bohemia Interactive',
     tileSize: 356,
     center: [7100,7100],
+	worldSize: 12800,
+	dlc: 'https://store.steampowered.com/app/1021790/Arma_3_Contact/',
+	preview: 'https://arma3.com/assets/img/contact/livonia/arma3_contact_livonia_10.jpg',
 	cities: [
 		{name:"Gliniska",x:4992.62,y:9921.74},
 		{name:"Lukow",x:3529.65,y:11966.5},

@@ -9,6 +9,7 @@
     center: [10000,10000],
 	worldSize: 20480,
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=909547724',
+	preview: 'https://steamuserimages-a.akamaihd.net/ugc/802047834669984115/B54A39FE0B3350947D02881DE9B8DC2D1271056C/',
 	cities: [
 		{name:"Amir",x:7289.22,y:4374.29},
 		{name:"Morut",x:9355.33,y:8279.88},

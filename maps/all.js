@@ -1,4 +1,4 @@
-Arma3Map.Maps.altis = { // 0.00683
+Arma3Map.Maps.altis = {
     CRS: MGRS_CRS(0.006839, 0.006836, 212),
     tilePattern: '/maps/altis/{z}/{x}/{y}.png',
     maxZoom: 6,
@@ -7,6 +7,8 @@ Arma3Map.Maps.altis = { // 0.00683
     attribution: '&copy; Bohemia Interactive',
     tileSize: 212,
     center: [15000,15000],
+	worldSize: 30720,
+	preview: 'https://arma3.com/assets/img/screenshots/large/arma3_screenshot_38.jpg',
 	cities: [
 		{name:"Therisa",x:10618.9,y:12237.3},
 		{name:"Zaros",x:9091.81,y:11961.9},
@@ -67,6 +69,9 @@ Arma3Map.Maps.enoch = {
     attribution: '&copy; Bohemia Interactive',
     tileSize: 356,
     center: [7100,7100],
+	worldSize: 12800,
+	dlc: 'https://store.steampowered.com/app/1021790/Arma_3_Contact/',
+	preview: 'https://arma3.com/assets/img/contact/livonia/arma3_contact_livonia_10.jpg',
 	cities: [
 		{name:"Gliniska",x:4992.62,y:9921.74},
 		{name:"Lukow",x:3529.65,y:11966.5},
@@ -98,8 +103,8 @@ Arma3Map.Maps.enoch = {
 		{name:"Dolnik",x:11312.4,y:655.73}
 	]
 };
-Arma3Map.Maps.tem_kujari =
-Arma3Map.Maps.kujari = {
+Arma3Map.Maps.kujari = 
+Arma3Map.Maps.tem_kujari = {
     CRS: MGRS_CRS(0.01374, 0.01373, 226),
     tilePattern: '/maps/kujari/{z}/{x}/{y}.png',
     maxZoom: 5,
@@ -108,6 +113,9 @@ Arma3Map.Maps.kujari = {
     attribution: '&copy; Bohemia Interactive, Temppa',
     tileSize: 226,
     center: [8200,8200],
+	worldSize: 16384,
+	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=1726494027',
+	preview: 'https://steamuserimages-a.akamaihd.net/ugc/817876755344089889/060649AC2661DC4AD8742D91F32948756C92BA81/',
 	cities:[
 		{name:"Kouble Maimatara",x:9160.2,y:9029.38},
 		{name:"Samari",x:6684.1,y:8867.83},
@@ -172,6 +180,69 @@ Arma3Map.Maps.kujari = {
 		{name:"Biri Boula",x:935.8,y:15336.9}
 	]
 };
+Arma3Map.Maps.lythium = {
+    CRS: MGRS_CRS(0.013985, 0.01398, 287),
+    tilePattern: '/maps/lythium/{z}/{x}/{y}.png',
+    maxZoom: 5,
+    minZoom: 0,
+    defaultZoom: 2,
+    attribution: '&copy; Bohemia Interactive, GreenBeret &amp; FFAA MOD Team',
+    tileSize: 287,
+    center: [10000,10000],
+	worldSize: 20480,
+	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=909547724',
+	preview: 'https://steamuserimages-a.akamaihd.net/ugc/802047834669984115/B54A39FE0B3350947D02881DE9B8DC2D1271056C/',
+	cities: [
+		{name:"Amir",x:7289.22,y:4374.29},
+		{name:"Morut",x:9355.33,y:8279.88},
+		{name:"AbiValley",x:3087.5,y:8113.09},
+		{name:"Benamair",x:6768.79,y:2610.34},
+		{name:"Mafaraz",x:5194.27,y:10304.8},
+		{name:"LoboRiberBed",x:10959,y:5531.27},
+		{name:"GreenCampBase",x:10961.5,y:7538.25},
+		{name:"Orcarif",x:11443.1,y:6525.97},
+		{name:"Zhapir",x:4945.76,y:11804.3},
+		{name:"Limari",x:10649,y:10200.7},
+		{name:"MikisFob",x:9691.02,y:11369.6},
+		{name:"Kinduf",x:11278,y:2877.98},
+		{name:"Bramar",x:12020.6,y:8565.2},
+		{name:"Shegara",x:12599.3,y:4876.31},
+		{name:"MozaratDeath",x:3757.01,y:498.684},
+		{name:"Zregurat",x:10801,y:1372.59},
+		{name:"Kunara",x:8051.66,y:12977.8},
+		{name:"Zagun",x:9863.6,y:384.169},
+		{name:"Karift",x:3911.91,y:12881.5},
+		{name:"PuestoCrow",x:13750.5,y:9331.58},
+		{name:"Shoran",x:5876.39,y:14311.7},
+		{name:"IbanCampBase",x:14007.9,y:3424.07},
+		{name:"Tunkuf",x:9560.26,y:14248.4},
+		{name:"Bagdir",x:12911.7,y:616.875},
+		{name:"PelotonCampBase",x:15112.7,y:4367.2},
+		{name:"Mayankel",x:1353.61,y:14253.3},
+		{name:"Orfar",x:15920.4,y:3012.99},
+		{name:"Afsher",x:16660.5,y:6871.91},
+		{name:"Kandar",x:8105.99,y:16550.7},
+		{name:"Limar",x:2662.97,y:16142.1},
+		{name:"KindufFactory",x:15049.4,y:532.488},
+		{name:"Arobster",x:16966.8,y:5829},
+		{name:"Ramir",x:12616,y:15188.6},
+		{name:"Nefer",x:5675.04,y:17506.7},
+		{name:"PuestoVulcan",x:5017.97,y:17488.1},
+		{name:"Razbula",x:17440.7,y:9419.54},
+		{name:"MartinFob",x:3812.69,y:17822.4},
+		{name:"Offar",x:17663.7,y:2829.22},
+		{name:"KalaeNoowi",x:12494.7,y:17738.8},
+		{name:"Doran",x:7771.74,y:19272.1},
+		{name:"Teruk",x:19267.6,y:3362.29},
+		{name:"Anyakar",x:19071.6,y:10494.8},
+		{name:"Yemara",x:20092,y:6252.23},
+		{name:"Zarath",x:17692.4,y:14515.7},
+		{name:"Alfaraz",x:11039.7,y:20261.7},
+		{name:"Kamir",x:17755.3,y:17915},
+		{name:"Afarat",x:16320.5,y:20142.7},
+		{name:"Morar",x:19834.4,y:19895.3}
+	]
+};
 Arma3Map.Maps.malden = {
     CRS: MGRS_CRS(0.01448, 0.01448, 186),
     tilePattern: '/maps/malden/{z}/{x}/{y}.png',
@@ -181,6 +252,9 @@ Arma3Map.Maps.malden = {
     attribution: '&copy; Bohemia Interactive',
     tileSize: 186,
     center: [7000,7000],
+	worldSize: 12800,
+	dlc: 'https://store.steampowered.com/app/639600/Arma_3_Malden/',
+	preview: 'https://arma3.com/assets/img/post/images/arma3_dlc_malden_screenshot_02.jpg',
 	cities: [
 		{name:"Chapoi",x:5835.55,y:3529.72},
 		{name:"Cancon",x:5404.27,y:2796.07},
@@ -210,6 +284,9 @@ Arma3Map.Maps.panthera3 = {
     attribution: '&copy; IceBreakr, Bohemia Interactive',
     tileSize: 287,
     center: [5000,5000],
+	worldSize: 10240,
+	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=708278910',
+	preview: 'https://steamuserimages-a.akamaihd.net/ugc/1645462536950287343/D285A6C9F6BCE01915D137FE64B21BF8F50CFF34/',
 	cities: [
 		{name:"Kobarid",x:3217.66,y:3344.35},
 		{name:"Tarvisio",x:3321.08,y:6670.45},
@@ -248,6 +325,9 @@ Arma3Map.Maps.tanoa = {
     attribution: '&copy; Bohemia Interactive',
     tileSize: 213,
     center: [7000,7000],
+	worldSize: 15360,
+	dlc: 'https://store.steampowered.com/app/395180/Arma_3_Apex/',
+	preview:'https://arma3.com/assets/img/post/images/arma3_tanoa_screenshot_01.jpg',
 	cities: [
 		{name:"Lami",x:7941.7,y:7663.32},
 		{name:"Lifou",x:7080.21,y:8004.08},
@@ -321,6 +401,9 @@ Arma3Map.Maps.xcam_taunus = {
     attribution: '&copy; Bohemia Interactive, X-Cam-Taunus team',
     tileSize: 284,
     center: [10000,10000],
+	worldSize: 20480,
+	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=836147398',
+	preview: 'https://steamuserimages-a.akamaihd.net/ugc/186170815318139964/D4EFA2579A0204D809EB34E50533DDA7542B07AC/',
 	cities: [
 		{name:"Rettershof",x:4621.5,y:4847.22},
 		{name:"Fischbach",x:4866.22,y:3856.88},

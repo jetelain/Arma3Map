@@ -8,6 +8,9 @@ Arma3Map.Maps.xcam_taunus = {
     attribution: '&copy; Bohemia Interactive, X-Cam-Taunus team',
     tileSize: 284,
     center: [10000,10000],
+	worldSize: 20480,
+	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=836147398',
+	preview: 'https://steamuserimages-a.akamaihd.net/ugc/186170815318139964/D4EFA2579A0204D809EB34E50533DDA7542B07AC/',
 	cities: [
 		{name:"Rettershof",x:4621.5,y:4847.22},
 		{name:"Fischbach",x:4866.22,y:3856.88},

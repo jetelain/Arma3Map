@@ -1,4 +1,4 @@
-﻿Arma3Map.Maps.altis = { // 0.00683
+﻿Arma3Map.Maps.altis = {
     CRS: MGRS_CRS(0.006839, 0.006836, 212),
     tilePattern: '/maps/altis/{z}/{x}/{y}.png',
     maxZoom: 6,
@@ -7,6 +7,8 @@
     attribution: '&copy; Bohemia Interactive',
     tileSize: 212,
     center: [15000,15000],
+	worldSize: 30720,
+	preview: 'https://arma3.com/assets/img/screenshots/large/arma3_screenshot_38.jpg',
 	cities: [
 		{name:"Therisa",x:10618.9,y:12237.3},
 		{name:"Zaros",x:9091.81,y:11961.9},

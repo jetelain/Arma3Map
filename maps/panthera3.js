@@ -7,6 +7,9 @@ Arma3Map.Maps.panthera3 = {
     attribution: '&copy; IceBreakr, Bohemia Interactive',
     tileSize: 287,
     center: [5000,5000],
+	worldSize: 10240,
+	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=708278910',
+	preview: 'https://steamuserimages-a.akamaihd.net/ugc/1645462536950287343/D285A6C9F6BCE01915D137FE64B21BF8F50CFF34/',
 	cities: [
 		{name:"Kobarid",x:3217.66,y:3344.35},
 		{name:"Tarvisio",x:3321.08,y:6670.45},

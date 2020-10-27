@@ -360,6 +360,10 @@
 
 }(this, document));
 
+/**
+ * 
+ * Author: jetelain
+ */
 function MGRS_CRS(factorx, factory, tileWidth) {
     return L.extend({}, L.CRS.Simple, {
         projection: L.Projection.LonLat,
@@ -379,29 +383,61 @@ function MGRS_CRS(factorx, factory, tileWidth) {
     });
 }
 
-function toCoord(num) {
-    if (num <= 0) {
-        return "0000";
-    }
-    var numText = "00000" + num.toFixed(0);
-    return numText.substr(numText.length - 5, 4);
+/**
+ * Arma3 Maps data and utility functions
+ *
+ * Author: jetelain
+ */
+var Arma3Map = {
+
+    Maps: {},
+	
+	toCoord: function (num, precision) {
+		if (precision === undefined || precision > 5) {
+			precision = 4;
+		}
+		if (num <= 0) {
+			return '0'.repeat(precision);
+		}
+		var numText = "00000" + num.toFixed(0);
+		return numText.substr(numText.length - 5, precision);
+	},
+
+	toGrid: function (latlng, precision) {
+		return Arma3Map.toCoord(latlng.lng, precision) + " - " + Arma3Map.toCoord(latlng.lat, precision);
+	},
+	
+	bearing : function (latlng1, latlng2) {
+		return ((Math.atan2(latlng2.lng - latlng1.lng, latlng2.lat - latlng1.lat) * 180 / Math.PI) + 360) % 360;
+	}
+
+};
+
+function toCoord(num) { // backward compatibility
+    return Arma3Map.toCoord(num, 4);
 }
 
-function toGrid(latlng) {
-    return toCoord(latlng.lng) + " - " + toCoord(latlng.lat);
+function toGrid(latlng) { // backward compatibility
+	return Arma3Map.toGrid(e.latlng, 4);
 }
 
-
+/**
+ * Display mouse MGRS coordinates on map
+ *
+ * Author: jetelain
+ */
 L.Control.GridMousePosition = L.Control.extend({
   options: {
-    position: 'topright'
+    position: 'topright',
+	precision: 4
   },
 
   onAdd: function (map) {
     this._container = L.DomUtil.create('div', 'leaflet-grid-mouseposition');
     L.DomEvent.disableClickPropagation(this._container);
     map.on('mousemove', this._onMouseMove, this);
-    this._container.innerHTML='';
+	var placeHolder = '0'.repeat(this.options.precision);
+    this._container.innerHTML = placeHolder + ' - ' + placeHolder;
     return this._container;
   },
 
@@ -410,29 +446,86 @@ L.Control.GridMousePosition = L.Control.extend({
   },
 
   _onMouseMove: function (e) {
-    this._container.innerHTML = toGrid(e.latlng);
+    this._container.innerHTML = Arma3Map.toGrid(e.latlng, this.options.precision);
   }
 
-});
-
-L.Map.mergeOptions({
-    positionControl: false
-});
-
-L.Map.addInitHook(function () {
-    if (this.options.positionControl) {
-        this.positionControl = new L.Control.GridMousePosition();
-        this.addControl(this.positionControl);
-    }
 });
 
 L.control.gridMousePosition = function (options) {
     return new L.Control.GridMousePosition(options);
 };
 
-var Arma3Map = {
+/**
+ * Display a bootstrap button on map
+ *
+ * Author: jetelain
+ */
+L.Control.OverlayButton = L.Control.extend({
+    options: {
+        position: 'bottomright',
+        baseClassName: 'btn',
+        className: 'btn-outline-secondary',
+        content: '',
+        click: null
+    },
 
-    Maps: {}
+    _previousClass: '',
 
+    onAdd: function (map) {
+        this._previousClass = this.options.className;
+        this._container = L.DomUtil.create('button', this.options.baseClassName + ' ' + this.options.className);
+        L.DomEvent.disableClickPropagation(this._container);
+        this._container.innerHTML = this.options.content;
+        if (this.options.click) {
+            $(this._container).on('click', this.options.click);
+        }
+        return this._container;
+    },
 
+    onRemove: function (map) {
+
+    },
+
+    j: function () {
+        return $(this._container);
+    },
+
+    setClass: function (name) {
+        $(this._container).removeClass(this._previousClass);
+        $(this._container).addClass(name);
+        this._previousClass = name;
+    }
+});
+
+L.control.overlayButton = function (options) {
+    return new L.Control.OverlayButton(options);
+};
+
+/**
+ * Display an arbitrary div on map
+ *
+ * Author: jetelain
+ */
+L.Control.OverlayDiv = L.Control.extend({
+    options: {
+        position: 'bottomright',
+        content: ''
+    },
+
+    _previousClass: '',
+
+    onAdd: function (map) {
+        this._container = L.DomUtil.create('div', '');
+        L.DomEvent.disableClickPropagation(this._container);
+        $(this._container).append(this.options.content);
+        return this._container;
+    },
+
+    onRemove: function (map) {
+
+    }
+});
+
+L.control.overlayDiv = function (options) {
+    return new L.Control.OverlayDiv(options);
 };
