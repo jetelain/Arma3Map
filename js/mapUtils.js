@@ -418,7 +418,7 @@ function toCoord(num) { // backward compatibility
 }
 
 function toGrid(latlng) { // backward compatibility
-	return Arma3Map.toGrid(e.latlng, 4);
+	return Arma3Map.toGrid(latlng, 4);
 }
 
 /**
