@@ -8,6 +8,7 @@
     tileSize: 186,
     center: [7000,7000],
 	worldSize: 12800,
+	title:'Malden',
 	dlc: 'https://store.steampowered.com/app/639600/Arma_3_Malden/',
 	preview: 'https://arma3.com/assets/img/post/images/arma3_dlc_malden_screenshot_02.jpg',
 	cities: [

@@ -9,6 +9,7 @@ Arma3Map.Maps.xcam_taunus = {
     tileSize: 284,
     center: [10000,10000],
 	worldSize: 20480,
+	title: 'Taunus',
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=836147398',
 	preview: 'https://steamuserimages-a.akamaihd.net/ugc/186170815318139964/D4EFA2579A0204D809EB34E50533DDA7542B07AC/',
 	cities: [

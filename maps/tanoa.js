@@ -8,6 +8,7 @@
     tileSize: 213,
     center: [7000,7000],
 	worldSize: 15360,
+	title:'Tanoa',
 	dlc: 'https://store.steampowered.com/app/395180/Arma_3_Apex/',
 	preview:'https://arma3.com/assets/img/post/images/arma3_tanoa_screenshot_01.jpg',
 	cities: [

@@ -8,6 +8,7 @@
     tileSize: 212,
     center: [15000,15000],
 	worldSize: 30720,
+	title: 'Altis',
 	preview: 'https://arma3.com/assets/img/screenshots/large/arma3_screenshot_38.jpg',
 	cities: [
 		{name:"Therisa",x:10618.9,y:12237.3},

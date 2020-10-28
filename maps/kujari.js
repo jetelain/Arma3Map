@@ -9,6 +9,7 @@ Arma3Map.Maps.tem_kujari = {
     tileSize: 226,
     center: [8200,8200],
 	worldSize: 16384,
+	title: 'Kujari',
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=1726494027',
 	preview: 'https://steamuserimages-a.akamaihd.net/ugc/817876755344089889/060649AC2661DC4AD8742D91F32948756C92BA81/',
 	cities:[

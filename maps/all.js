@@ -8,6 +8,7 @@
     tileSize: 212,
     center: [15000,15000],
 	worldSize: 30720,
+	title: 'Altis',
 	preview: 'https://arma3.com/assets/img/screenshots/large/arma3_screenshot_38.jpg',
 	cities: [
 		{name:"Therisa",x:10618.9,y:12237.3},
@@ -70,6 +71,7 @@ Arma3Map.Maps.enoch = {
     tileSize: 356,
     center: [7100,7100],
 	worldSize: 12800,
+	title: 'Linovia',
 	dlc: 'https://store.steampowered.com/app/1021790/Arma_3_Contact/',
 	preview: 'https://arma3.com/assets/img/contact/livonia/arma3_contact_livonia_10.jpg',
 	cities: [
@@ -114,6 +116,7 @@ Arma3Map.Maps.tem_kujari = {
     tileSize: 226,
     center: [8200,8200],
 	worldSize: 16384,
+	title: 'Kujari',
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=1726494027',
 	preview: 'https://steamuserimages-a.akamaihd.net/ugc/817876755344089889/060649AC2661DC4AD8742D91F32948756C92BA81/',
 	cities:[
@@ -190,6 +193,7 @@ Arma3Map.Maps.lythium = {
     tileSize: 287,
     center: [10000,10000],
 	worldSize: 20480,
+	title: 'Lythium',
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=909547724',
 	preview: 'https://steamuserimages-a.akamaihd.net/ugc/802047834669984115/B54A39FE0B3350947D02881DE9B8DC2D1271056C/',
 	cities: [
@@ -253,6 +257,7 @@ Arma3Map.Maps.malden = {
     tileSize: 186,
     center: [7000,7000],
 	worldSize: 12800,
+	title:'Malden',
 	dlc: 'https://store.steampowered.com/app/639600/Arma_3_Malden/',
 	preview: 'https://arma3.com/assets/img/post/images/arma3_dlc_malden_screenshot_02.jpg',
 	cities: [
@@ -285,6 +290,7 @@ Arma3Map.Maps.panthera3 = {
     tileSize: 287,
     center: [5000,5000],
 	worldSize: 10240,
+	title:'Island Panthera',
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=708278910',
 	preview: 'https://steamuserimages-a.akamaihd.net/ugc/1645462536950287343/D285A6C9F6BCE01915D137FE64B21BF8F50CFF34/',
 	cities: [
@@ -326,6 +332,7 @@ Arma3Map.Maps.tanoa = {
     tileSize: 213,
     center: [7000,7000],
 	worldSize: 15360,
+	title:'Tanoa',
 	dlc: 'https://store.steampowered.com/app/395180/Arma_3_Apex/',
 	preview:'https://arma3.com/assets/img/post/images/arma3_tanoa_screenshot_01.jpg',
 	cities: [
@@ -402,6 +409,7 @@ Arma3Map.Maps.xcam_taunus = {
     tileSize: 284,
     center: [10000,10000],
 	worldSize: 20480,
+	title: 'Taunus',
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=836147398',
 	preview: 'https://steamuserimages-a.akamaihd.net/ugc/186170815318139964/D4EFA2579A0204D809EB34E50533DDA7542B07AC/',
 	cities: [

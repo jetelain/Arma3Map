@@ -8,6 +8,7 @@
     tileSize: 356,
     center: [7100,7100],
 	worldSize: 12800,
+	title: 'Linovia',
 	dlc: 'https://store.steampowered.com/app/1021790/Arma_3_Contact/',
 	preview: 'https://arma3.com/assets/img/contact/livonia/arma3_contact_livonia_10.jpg',
 	cities: [

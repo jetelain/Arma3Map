@@ -8,6 +8,7 @@ Arma3Map.Maps.panthera3 = {
     tileSize: 287,
     center: [5000,5000],
 	worldSize: 10240,
+	title:'Island Panthera',
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=708278910',
 	preview: 'https://steamuserimages-a.akamaihd.net/ugc/1645462536950287343/D285A6C9F6BCE01915D137FE64B21BF8F50CFF34/',
 	cities: [
