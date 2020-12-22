@@ -15,6 +15,10 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | -------------------- | -------------------- | -------------------- | 
 | <a href="enoch.html"><img src="maps/enoch/0/0/0.png" width="200" height="200" /></a> | <a href="lythium.html"><img src="maps/lythium/0/0/0.png" width="200" height="200" /></a> |  <a href="vt7.html"><img src="maps/vt7/0/0/0.png" width="200" height="200" /></a> |
 
+| [Stratis](stratis.html)  | 
+| -------------------- | 
+| <a href="stratis.html"><img src="maps/stratis/0/0/0.png" width="200" height="200" /></a> | 
+
 Content under 
 - [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive.
 - Taunus: [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; X-CAM Taunus Dev Team.
@@ -90,3 +94,9 @@ Each map have a js file that provides informations to configure Leaflet:
 Once you have the base map, you can use all Leaflet features and plugins.
 
 In Leaflet APIs, the latitude will be the northing in meters, and the longitude the easting in meters (x=lon, y=lat).
+
+# See also
+
+My projects powered by Arma3Map :
+- https://maps.plan-ops.fr/ : Prepare tactical maps, share them in real time, and import them into Arma 3 (you can host your own server using https://github.com/jetelain/Arma3TacMap)
+- https://ctab.plan-ops.fr/ : Commander tablet in real time on your mobile device. Extension of the cTab mod (https://github.com/jetelain/cTab)
