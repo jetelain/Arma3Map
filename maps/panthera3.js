@@ -10,7 +10,7 @@ Arma3Map.Maps.panthera3 = {
 	worldSize: 10240,
 	title:'Island Panthera',
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=708278910',
-	preview: 'https://steamuserimages-a.akamaihd.net/ugc/1645462536950287343/D285A6C9F6BCE01915D137FE64B21BF8F50CFF34/',
+	preview: 'https://steamuserimages-a.akamaihd.net/ugc/1644340994752114301/2809473865C7FA31A048817352D7CAB8D1E71B10/',
 	cities: [
 		{name:"Kobarid",x:3217.66,y:3344.35},
 		{name:"Tarvisio",x:3321.08,y:6670.45},
