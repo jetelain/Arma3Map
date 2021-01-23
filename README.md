@@ -15,9 +15,9 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | -------------------- | -------------------- | -------------------- | 
 | <a href="enoch.html"><img src="maps/enoch/0/0/0.png" width="200" height="200" /></a> | <a href="lythium.html"><img src="maps/lythium/0/0/0.png" width="200" height="200" /></a> |  <a href="vt7.html"><img src="maps/vt7/0/0/0.png" width="200" height="200" /></a> |
 
-| [Stratis](stratis.html)  | 
-| -------------------- | 
-| <a href="stratis.html"><img src="maps/stratis/0/0/0.png" width="200" height="200" /></a> | 
+| [Stratis](stratis.html) | | [Uzbin Valley](uzbin.html) | 
+| -------------------- | -------------------- | 
+| <a href="stratis.html"><img src="maps/stratis/0/0/0.png" width="200" height="200" /></a> | <a href="uzbin.html"><img src="maps/uzbin/0/0/0.png" width="200" height="200" /></a> | 
 
 Content under 
 - [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive.
@@ -25,6 +25,7 @@ Content under
 - Kujari: [Arma Public Licence-Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; Temppa.
 - Lythium : Unspecified Licence. &copy; GreenBeret &amp; FFAA MOD Team
 - Virolahti - Valtatie 7: [Arma Public Licence-Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; furean.
+- Uzbin Valley : Unspecified Licence. &copy; Dark, Max.
 
 # How to use
 
