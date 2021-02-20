@@ -11,13 +11,13 @@ namespace MakeTiles
     class Program
     {
 
-        const int tileSize = 284;
+        const int tileSize = 287;
 
         static void Main(string[] args)
         {
             var zoomLevel = 5;
 
-            using (var img = SixLabors.ImageSharp.Image.Load(@"D:\Julien\Pictures\taunus.png"))
+            using (var img = SixLabors.ImageSharp.Image.Load(@"C:\Users\Julien\source\repos\jetelain\Arma3Map\MapExporter\BuildFullMap\bin\Debug\netcoreapp3.1\map.png"))
             {
                 while (img.Width >= tileSize)
                 {

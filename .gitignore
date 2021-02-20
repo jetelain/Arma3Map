@@ -5,3 +5,9 @@
 obj
 bin
 .vs
+*.exe
+*.dll
+*.pdb
+/@arma3MapExporter/*.xml
+/MapExporter/packages
+*.pbo

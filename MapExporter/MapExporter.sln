@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildFullMap", "BuildFullMa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeTiles", "MakeTiles\MakeTiles.csproj", "{E3910E42-03DD-4FFA-A0B4-F916B9CB429B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapExportExtension", "MapExportExtension\MapExportExtension.csproj", "{6BB79BFF-FF6D-4BCE-8C56-540C069B3260}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,10 +29,10 @@ Global
 		{E3910E42-03DD-4FFA-A0B4-F916B9CB429B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3910E42-03DD-4FFA-A0B4-F916B9CB429B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3910E42-03DD-4FFA-A0B4-F916B9CB429B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA70FE97-37EB-4965-8A91-C7821657DC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA70FE97-37EB-4965-8A91-C7821657DC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA70FE97-37EB-4965-8A91-C7821657DC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA70FE97-37EB-4965-8A91-C7821657DC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB79BFF-FF6D-4BCE-8C56-540C069B3260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB79BFF-FF6D-4BCE-8C56-540C069B3260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB79BFF-FF6D-4BCE-8C56-540C069B3260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB79BFF-FF6D-4BCE-8C56-540C069B3260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

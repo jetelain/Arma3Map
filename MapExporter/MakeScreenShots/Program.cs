@@ -32,7 +32,7 @@ namespace ConsoleApp4
             Rectangle bounds = Screen.PrimaryScreen.Bounds;
             using (Bitmap bitmap = new Bitmap(bounds.Width, bounds.Height))
             {
-                for(int i =0; i< 190; ++i)
+                for(int i =0; i< 400; ++i)
                 {
                     using (Graphics g = Graphics.FromImage(bitmap))
                     {
