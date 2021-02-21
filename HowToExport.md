@@ -4,7 +4,7 @@ Note: You need a computer with at least 8 GB of memory (exporter will need up to
 
 1. Download Export mod on Workshop : https://steamcommunity.com/sharedfiles/filedetails/?id=2403150951
 
-2. Launch Arma3 with CBA_A3, ACE, the Export mod and all additonal mods required for map to export
+2. Disable Battleye, Launch Arma3 with CBA_A3, ACE, the Export mod and all additonal mods required for map to export. 
 
 3. Ensures that Arma 3 has 1920x1080 resolution, Format Auto, and Normal size UI.
 
