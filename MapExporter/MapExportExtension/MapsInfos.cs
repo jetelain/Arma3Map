@@ -8,7 +8,6 @@ namespace MapExportExtension
 {
 	public class MapInfos
 	{
-		public string fullMapTile { get; set; }
 		public string worldName { get; set; }
 		public string tilePattern { get; set; }
 		public int maxZoom { get; set; }

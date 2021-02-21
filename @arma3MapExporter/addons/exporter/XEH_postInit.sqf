@@ -25,16 +25,28 @@ a3me_calibrate =
 	private _deltaY = 500;
 	private _w = 1000;
 	private _h = 1000;
+
+	private _zoom1 = getNumber (configFile >> "CfgWorlds" >> worldName >> "Grid" >> "Zoom1" >> "zoomMax");
+	private _zoom = _zoom1;
+
 	private _control = (findDisplay 12) displayCtrl 51;
-
-	private _zoom = getNumber (configFile >> "CfgWorlds" >> worldName >> "Grid" >> "Zoom1" >> "zoomMax") * 1.01; // FIXME: does not work on all maps...
-
 	_control ctrlMapAnimAdd [0, _zoom, [_deltaX,_deltaY]];
 	ctrlMapAnimCommit _control;
 	sleep 0.1;
 
 	private _posA = _control ctrlMapWorldToScreen [0,0];
 	private _posB = _control ctrlMapWorldToScreen [_w,_h];
+
+	_zoom = ((_posB select 0) - (_posA select 0)) / 0.5 * _zoom;
+
+	_control ctrlMapAnimAdd [0, _zoom, [_deltaX,_deltaY]];
+	ctrlMapAnimCommit _control;
+	sleep 0.1;
+
+	_posA = _control ctrlMapWorldToScreen [0,0];
+	_posB = _control ctrlMapWorldToScreen [_w,_h];
+
+	INFO_2("zoom=%1 dx=%2", _zoom, (_posB select 0) - (_posA select 0));
 
 	private _args = [
 		[safeZoneX, safeZoneY, safeZoneW, safeZoneH],
@@ -49,7 +61,6 @@ a3me_calibrate =
 
 	[_zoom, _deltaX, _deltaY, _h, _w]
 };
-
 
 a3me_screenShotLoop = 
 {
@@ -79,6 +90,9 @@ a3me_screenShotLoop =
 };
 
 a3me_export = {
+
+	systemChat "Taking screenshots...";
+
 	INFO("Export");
 
 	private _center = getArray (configFile >> "CfgWorlds" >> worldName >> "centerPosition");
@@ -94,6 +108,9 @@ a3me_export = {
 	"mapExportExtension" callExtension ["start", [worldName, worldSize, _cities, _center, _title]];
 
 	(call a3me_calibrate) call a3me_screenShotLoop;
+
+	systemChat "Generate tiles...";
+	sleep 0.2;
 
 	INFO("Stop");
 	"mapExportExtension" callExtension ["stop", [worldName, worldSize]];

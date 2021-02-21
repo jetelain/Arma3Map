@@ -96,6 +96,10 @@ Once you have the base map, you can use all Leaflet features and plugins.
 
 In Leaflet APIs, the latitude will be the northing in meters, and the longitude the easting in meters (x=lon, y=lat).
 
+# How to help
+
+- [Export map for Arma3Map](HowToExport.md)
+
 # See also
 
 My projects powered by Arma3Map :
