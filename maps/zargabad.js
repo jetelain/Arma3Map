@@ -1,0 +1,51 @@
+Arma3Map.Maps.zargabad = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 259),
+  "worldName": "zargabad",
+  "tilePattern": "/maps/zargabad/{z}/{x}/{y}.png",
+  "maxZoom": 4,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 259,
+  "center": [
+    4096,
+    4096
+  ],
+  "worldSize": 8192.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Zargabad",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Zargabad",
+      "x": 4071.37,
+      "y": 4183.32
+    },
+    {
+      "name": "Yarum",
+      "x": 4154.24,
+      "y": 3592.65
+    },
+    {
+      "name": "Nango",
+      "x": 2823.53,
+      "y": 5022.13
+    },
+    {
+      "name": "Hazar Bagh",
+      "x": 3943.51,
+      "y": 5957.63
+    },
+    {
+      "name": "Shahbaz",
+      "x": 3528.11,
+      "y": 1932.74
+    },
+    {
+      "name": "Azizayt",
+      "x": 1929.89,
+      "y": 4652.94
+    }
+  ]
+};

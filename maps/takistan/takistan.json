@@ -1,0 +1,170 @@
+{
+  "worldName": "takistan",
+  "tilePattern": "/maps/takistan/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 202,
+  "center": [
+    6400,
+    6400
+  ],
+  "worldSize": 12800.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Takistan",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Loy Manara",
+      "x": 8622.05,
+      "y": 2454.22
+    },
+    {
+      "name": "Jaza",
+      "x": 9009.33,
+      "y": 1871.97
+    },
+    {
+      "name": "Sultansafe",
+      "x": 6578.67,
+      "y": 1955.22
+    },
+    {
+      "name": "Huzrutimam",
+      "x": 5932.74,
+      "y": 1245.22
+    },
+    {
+      "name": "Chardarakht",
+      "x": 10528.8,
+      "y": 2429.22
+    },
+    {
+      "name": "Timurkalay",
+      "x": 8888.11,
+      "y": 5181.47
+    },
+    {
+      "name": "Chak Chak",
+      "x": 4375.92,
+      "y": 754.72
+    },
+    {
+      "name": "Kakaru",
+      "x": 5313.46,
+      "y": 4740.72
+    },
+    {
+      "name": "Anar",
+      "x": 6030.72,
+      "y": 5659.43
+    },
+    {
+      "name": "Sakhe",
+      "x": 3588.99,
+      "y": 4284.47
+    },
+    {
+      "name": "Garmarud",
+      "x": 9128.25,
+      "y": 6864.95
+    },
+    {
+      "name": "Feruz Abad",
+      "x": 5072.71,
+      "y": 6158.22
+    },
+    {
+      "name": "Garmsar",
+      "x": 10603.6,
+      "y": 6410.72
+    },
+    {
+      "name": "Falar",
+      "x": 6063.8,
+      "y": 7256.97
+    },
+    {
+      "name": "Imarat",
+      "x": 8238.39,
+      "y": 7847.22
+    },
+    {
+      "name": "Landay",
+      "x": 1950.86,
+      "y": 349.72
+    },
+    {
+      "name": "Jilavur",
+      "x": 2537.21,
+      "y": 5026.47
+    },
+    {
+      "name": "Shukurkalay",
+      "x": 1529.11,
+      "y": 3582.72
+    },
+    {
+      "name": "Ravanay",
+      "x": 11539.2,
+      "y": 8318.97
+    },
+    {
+      "name": "Bastam",
+      "x": 5989.99,
+      "y": 8977.47
+    },
+    {
+      "name": "Chaman",
+      "x": 571.8,
+      "y": 2810.97
+    },
+    {
+      "name": "Khushab",
+      "x": 1444.14,
+      "y": 5732.22
+    },
+    {
+      "name": "Gospandi",
+      "x": 3626.58,
+      "y": 8510.97
+    },
+    {
+      "name": "Mulladost",
+      "x": 2009.21,
+      "y": 7675.97
+    },
+    {
+      "name": "Rasman",
+      "x": 6092.15,
+      "y": 11018.7
+    },
+    {
+      "name": "Nagara",
+      "x": 3057.78,
+      "y": 9808.44
+    },
+    {
+      "name": "Karachinar",
+      "x": 12243.5,
+      "y": 10420.3
+    },
+    {
+      "name": "Zavarak",
+      "x": 9951.81,
+      "y": 11651.3
+    },
+    {
+      "name": "Shamali",
+      "x": 4078.33,
+      "y": 11844.2
+    },
+    {
+      "name": "Nur",
+      "x": 1890.7,
+      "y": 11867.5
+    }
+  ]
+}
