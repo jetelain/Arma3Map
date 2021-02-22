@@ -1,0 +1,51 @@
+Arma3Map.Maps.mcn_hazarkot = {
+  CRS: MGRS_CRS(0.063, 0.063, 323),
+  "worldName": "mcn_hazarkot",
+  "tilePattern": "/maps/mcn_hazarkot/{z}/{x}/{y}.png",
+  "maxZoom": 3,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    2560,
+    2560
+  ],
+  "worldSize": 5120.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Hazar-Kot Valley",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Juy Dukhtar",
+      "x": 3214.58,
+      "y": 2266.82
+    },
+    {
+      "name": "Shirak",
+      "x": 3432.3,
+      "y": 3109.77
+    },
+    {
+      "name": "Ghorband",
+      "x": 2938.95,
+      "y": 1281.95
+    },
+    {
+      "name": "Daraz Gerd",
+      "x": 3773.66,
+      "y": 1365.72
+    },
+    {
+      "name": "Hazar-Kedh",
+      "x": 2096.72,
+      "y": 2533.76
+    },
+    {
+      "name": "Wazghar",
+      "x": 3822.39,
+      "y": 3902.96
+    }
+  ]
+};
