@@ -1,3 +1,4 @@
+Arma3Map.Maps.Chernarus_Winter =
 Arma3Map.Maps.chernarus_winter = {
   CRS: MGRS_CRS(0.01575, 0.01575, 242),
   "worldName": "chernarus_winter",
