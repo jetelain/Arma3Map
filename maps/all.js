@@ -3062,7 +3062,7 @@ Arma3Map.Maps.malden = {
 	]
 };
 Arma3Map.Maps.mcn_aliabad = {
-  CRS: MGRS_CRS(0.063, -0.063, 323),
+  CRS: MGRS_CRS(0.063, 0.063, 323),
   "worldName": "mcn_aliabad",
   "tilePattern": "/maps/mcn_aliabad/{z}/{x}/{y}.png",
   "maxZoom": 3,
