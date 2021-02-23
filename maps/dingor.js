@@ -5,17 +5,16 @@ Arma3Map.Maps.dingor = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/264967316443939319/67EA6F175F560F68883113741102B5A3F744F365/",
   "title": "Dingor v3.82",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=718649903",
   "cities": [
     {
       "name": "San Arulco",

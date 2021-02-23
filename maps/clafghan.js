@@ -5,17 +5,16 @@ Arma3Map.Maps.clafghan = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Nremik",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/146759339005552274/55DA4C74153C9FD0334EC0EAB7A6CC2083A4A793/",
   "title": "CLA Clafghan",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=761349672",
   "cities": [
     {
       "name": "Hysad",

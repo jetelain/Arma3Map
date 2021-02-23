@@ -5,17 +5,16 @@
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/284098101654284541/35BAC53DDEEFE4879AE62B378083AEDCDF81FCB4/",
   "title": "Isla Abramia v3.9",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=648775794",
   "cities": [
     {
       "name": "Yolandi",
@@ -953,17 +952,16 @@ Arma3Map.Maps.chongo = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 388,
   "center": [
     6144,
     6144
   ],
   "worldSize": 12288.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/951857305537522808/787DA6E69E94C92CAAFFE3B6F5DCAD510F772F08/",
   "title": "Chongo, Angola v1.30",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=1446500688",
   "cities": [
     {
       "name": "Komaria",
@@ -994,17 +992,16 @@ Arma3Map.Maps.clafghan = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Nremik",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/146759339005552274/55DA4C74153C9FD0334EC0EAB7A6CC2083A4A793/",
   "title": "CLA Clafghan",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=761349672",
   "cities": [
     {
       "name": "Hysad",
@@ -1130,17 +1127,16 @@ Arma3Map.Maps.dingor = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/264967316443939319/67EA6F175F560F68883113741102B5A3F744F365/",
   "title": "Dingor v3.82",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=718649903",
   "cities": [
     {
       "name": "San Arulco",
@@ -1491,17 +1487,16 @@ Arma3Map.Maps.dya = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CypeRevenge",
   "tileSize": 259,
   "center": [
     4096,
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/449609353435553333/FEF201D342764598DB95BC66441AC50621950A8F/",
   "title": "Diyala Iraq",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=680808574",
   "cities": [
     {
       "name": "Al Baiueia",
@@ -3067,23 +3062,22 @@ Arma3Map.Maps.malden = {
 	]
 };
 Arma3Map.Maps.mcn_aliabad = {
-  CRS: MGRS_CRS(0.063, 0.063, 323),
+  CRS: MGRS_CRS(0.063, -0.063, 323),
   "worldName": "mcn_aliabad",
   "tilePattern": "/maps/mcn_aliabad/{z}/{x}/{y}.png",
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Santa Fe",
   "tileSize": 323,
   "center": [
     2560,
     2560
   ],
   "worldSize": 5120.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/813307839684472115/5328EEA831CA9972A21F07C7E392CC9D1FB4F983/",
   "title": "Aliabad Region",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=918639806",
   "cities": [
     {
       "name": "Darshag",

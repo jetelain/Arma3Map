@@ -5,17 +5,16 @@ Arma3Map.Maps.dya = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CypeRevenge",
   "tileSize": 259,
   "center": [
     4096,
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/449609353435553333/FEF201D342764598DB95BC66441AC50621950A8F/",
   "title": "Diyala Iraq",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=680808574",
   "cities": [
     {
       "name": "Al Baiueia",

@@ -5,17 +5,16 @@ Arma3Map.Maps.chongo = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 388,
   "center": [
     6144,
     6144
   ],
   "worldSize": 12288.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/951857305537522808/787DA6E69E94C92CAAFFE3B6F5DCAD510F772F08/",
   "title": "Chongo, Angola v1.30",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=1446500688",
   "cities": [
     {
       "name": "Komaria",

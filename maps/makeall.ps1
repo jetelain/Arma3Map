@@ -4,7 +4,7 @@ Get-Content -Path $PSScriptRoot/*.js  -Encoding UTF8 | Set-Content $PSScriptRoot
 $js = Get-Content $PSScriptRoot/all.js
 $js = $js -replace 'Arma3Map\.Maps\.([a-z0-9_]+) *= *{', '"$1":{'
 $js = $js -replace 'Arma3Map\.Maps\.([a-z0-9_]+) =', ''
-$js = $js -replace 'CRS\: MGRS_CRS\([0-9\.]+, [0-9\.]+, [0-9\.]+\),', ''
+$js = $js -replace 'CRS\: MGRS_CRS\([\-0-9\.]+, [\-0-9\.]+, [\-0-9\.]+\),', ''
 $js = $js -replace '};', '},'
 $js[0] = '{'+$js[0];
 $js[$js.Length-1] = '}}';

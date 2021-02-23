@@ -5,17 +5,16 @@ Arma3Map.Maps.abramia = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/284098101654284541/35BAC53DDEEFE4879AE62B378083AEDCDF81FCB4/",
   "title": "Isla Abramia v3.9",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=648775794",
   "cities": [
     {
       "name": "Yolandi",

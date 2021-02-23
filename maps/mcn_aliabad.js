@@ -1,21 +1,20 @@
 Arma3Map.Maps.mcn_aliabad = {
-  CRS: MGRS_CRS(0.063, 0.063, 323),
+  CRS: MGRS_CRS(0.063, -0.063, 323),
   "worldName": "mcn_aliabad",
   "tilePattern": "/maps/mcn_aliabad/{z}/{x}/{y}.png",
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Santa Fe",
   "tileSize": 323,
   "center": [
     2560,
     2560
   ],
   "worldSize": 5120.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/813307839684472115/5328EEA831CA9972A21F07C7E392CC9D1FB4F983/",
   "title": "Aliabad Region",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=918639806",
   "cities": [
     {
       "name": "Darshag",
