@@ -5,17 +5,16 @@ Arma3Map.Maps.lingor3 = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/264967316443938891/8D4D014D2F2DC9E006B93E5B98CAF83A6DC7D089/",
   "title": "Lingor v3.9.5",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=718649903",
   "cities": [
     {
       "name": "San Arulco",

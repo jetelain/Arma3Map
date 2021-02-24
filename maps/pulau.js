@@ -5,17 +5,16 @@ Arma3Map.Maps.pulau = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Temppa",
   "tileSize": 388,
   "center": [
     6144,
     6144
   ],
   "worldSize": 12288.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/940572502834549857/72759DB799BBAD8038454943663C0293EE0308B9/",
   "title": "Pulau",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1423583812",
   "cities": [
     {
       "name": "Gurun airfield",

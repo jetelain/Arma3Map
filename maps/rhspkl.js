@@ -5,17 +5,16 @@ Arma3Map.Maps.rhspkl = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Red Hammer Studios",
   "tileSize": 259,
   "center": [
     4096,
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/777369301171821601/9BA72144DEE6C7FE0EAAB9685298676182012669/",
   "title": "Prei Khmaoch Luong",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=1978754337",
   "cities": [
     {
       "name": "Phoum Chek Yeak",

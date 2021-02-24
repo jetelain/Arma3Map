@@ -1913,17 +1913,16 @@ Arma3Map.Maps.fata = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Minimalaco &amp; Robster, ported by Androkiller™",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/806551261314847672/99B3DBB0D830A750EB10CFDF970329B2E501CC14/",
   "title": "PR FATA",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=909332315",
   "cities": [
     {
       "name": "Tottah",
@@ -2044,17 +2043,16 @@ Arma3Map.Maps.isladuala3 = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/258211138018451183/24B522CCA5B332FF6EE3EC6DC2B6BED84B22814A/",
   "title": "Isla Duala v3.9.5",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=714149065",
   "cities": [
     {
       "name": "Obmeya",
@@ -2370,7 +2368,7 @@ Arma3Map.Maps.khoramshahr = {
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, War is Hell",
   "tileSize": 323,
   "center": [
     2560,
@@ -2380,7 +2378,7 @@ Arma3Map.Maps.khoramshahr = {
   "preview": null,
   "dlc": null,
   "title": "Khoramshahr",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1866738558",
   "cities": []
 };
 Arma3Map.Maps.kujari = 
@@ -2468,17 +2466,16 @@ Arma3Map.Maps.kunduz = {
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, pvttunt",
   "tileSize": 323,
   "center": [
     2560,
     2560
   ],
   "worldSize": 5120.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/35242615976503410/522CF97EADBEBE94A5E1BE37CAB7D2683605D2A1/",
   "title": "Kunduz, Afghanistan",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=421620913",
   "cities": [
     {
       "name": "Tabeed",
@@ -2559,17 +2556,16 @@ Arma3Map.Maps.lingor3 = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/264967316443938891/8D4D014D2F2DC9E006B93E5B98CAF83A6DC7D089/",
   "title": "Lingor v3.9.5",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=718649903",
   "cities": [
     {
       "name": "San Arulco",
@@ -4155,17 +4151,16 @@ Arma3Map.Maps.pulau = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Temppa",
   "tileSize": 388,
   "center": [
     6144,
     6144
   ],
   "worldSize": 12288.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/940572502834549857/72759DB799BBAD8038454943663C0293EE0308B9/",
   "title": "Pulau",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1423583812",
   "cities": [
     {
       "name": "Gurun airfield",
@@ -4341,17 +4336,16 @@ Arma3Map.Maps.rhspkl = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Red Hammer Studios",
   "tileSize": 259,
   "center": [
     4096,
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/777369301171821601/9BA72144DEE6C7FE0EAAB9685298676182012669/",
   "title": "Prei Khmaoch Luong",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=1978754337",
   "cities": [
     {
       "name": "Phoum Chek Yeak",

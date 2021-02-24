@@ -5,7 +5,7 @@ Arma3Map.Maps.khoramshahr = {
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, War is Hell",
   "tileSize": 323,
   "center": [
     2560,
@@ -15,6 +15,6 @@ Arma3Map.Maps.khoramshahr = {
   "preview": null,
   "dlc": null,
   "title": "Khoramshahr",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1866738558",
   "cities": []
 };

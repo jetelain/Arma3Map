@@ -5,17 +5,16 @@ Arma3Map.Maps.fata = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Minimalaco &amp; Robster, ported by Androkiller™",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/806551261314847672/99B3DBB0D830A750EB10CFDF970329B2E501CC14/",
   "title": "PR FATA",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=909332315",
   "cities": [
     {
       "name": "Tottah",

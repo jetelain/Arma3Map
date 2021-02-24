@@ -5,17 +5,16 @@ Arma3Map.Maps.kunduz = {
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, pvttunt",
   "tileSize": 323,
   "center": [
     2560,
     2560
   ],
   "worldSize": 5120.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/35242615976503410/522CF97EADBEBE94A5E1BE37CAB7D2683605D2A1/",
   "title": "Kunduz, Afghanistan",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=421620913",
   "cities": [
     {
       "name": "Tabeed",

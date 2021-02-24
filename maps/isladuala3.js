@@ -5,17 +5,16 @@ Arma3Map.Maps.isladuala3 = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/258211138018451183/24B522CCA5B332FF6EE3EC6DC2B6BED84B22814A/",
   "title": "Isla Duala v3.9.5",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=714149065",
   "cities": [
     {
       "name": "Obmeya",
