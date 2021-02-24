@@ -12,7 +12,7 @@ Arma3Map.Maps.woodland_acr = {
     3840
   ],
   "worldSize": 7680.0,
-    "preview": "https://lh5.googleusercontent.com/tTh4EkwQaXLkg2HFmtbyu6gUp0M8oXfzmfVFLWgAW9wjwiNAwjpl97D9Xhm0y7wd1L1TT3YPSZGS4NIzTI-AtQPEocYl8J4CZcwJf-VB-WHISSS8=w1280",
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Bystrica",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1981964169",
   "cities": [

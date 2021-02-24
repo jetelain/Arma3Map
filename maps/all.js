@@ -205,7 +205,7 @@ Arma3Map.Maps.chernarus = {
     7680
   ],
   "worldSize": 15360.0,
-  "preview": "https://lh5.googleusercontent.com/7Ao9vYPPT5oiTLOJtgO4uaoaID3-TxDHT9MZulyAeunZVYPLWD0PkJxmTAeF94cX_xhCV5M7btJNwUTWNDQZMM9GtXXFOMPnGslgDyIlYix_vCpf=w1280",
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Chernarus (Autumn)",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
@@ -455,7 +455,7 @@ Arma3Map.Maps.chernarus_summer = {
     7680
   ],
   "worldSize": 15360.0,
-  "preview": "https://lh3.googleusercontent.com/ZEZlbI-l3y-w5dplkr8ZqQhn4pFaEnuGZZqc8fYv5T3WDygE2SYWR84WnIFsxBsu2PMQB69lOZ3KzxA3TZXCO2niW-xmIm8D406BBWkDfRwRFshT=w1280",
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Chernarus (Summer)",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
@@ -706,7 +706,7 @@ Arma3Map.Maps.chernarus_winter = {
     7680
   ],
   "worldSize": 15360.0,
-  "preview": "https://lh3.googleusercontent.com/XyATv9wF7e4-VDzwNiQWvWzK_K12fUy6ieFp415-FPGAbINtk1gQrUi4WSjv-6WnlbbzZVf1ix94QyNRxRxxTqWZbq9LH37vWpgKE0Q8DoLB6xRg=w1280",
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Chernarus (Winter)",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
@@ -1586,7 +1586,7 @@ Arma3Map.Maps.eden = {
     6400
   ],
   "worldSize": 12800.0,
-  "preview": "https://lh5.googleusercontent.com/VMdlJFtuU-9_iYl0-_vzMtmVMKm-ZW-cd4Vo5FeAXalxX-wiyMOUMoNLSiwG_mLFq1f6rMLFalw716O4UYYIOBwmVcbpRElK78oJTdotyZ9Gz9QB=w1280",
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Everon",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=853743366",
   "cities": [
@@ -6206,7 +6206,7 @@ Arma3Map.Maps.woodland_acr = {
     3840
   ],
   "worldSize": 7680.0,
-    "preview": "https://lh5.googleusercontent.com/tTh4EkwQaXLkg2HFmtbyu6gUp0M8oXfzmfVFLWgAW9wjwiNAwjpl97D9Xhm0y7wd1L1TT3YPSZGS4NIzTI-AtQPEocYl8J4CZcwJf-VB-WHISSS8=w1280",
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Bystrica",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1981964169",
   "cities": [

@@ -12,7 +12,7 @@ Arma3Map.Maps.eden = {
     6400
   ],
   "worldSize": 12800.0,
-  "preview": "https://lh5.googleusercontent.com/VMdlJFtuU-9_iYl0-_vzMtmVMKm-ZW-cd4Vo5FeAXalxX-wiyMOUMoNLSiwG_mLFq1f6rMLFalw716O4UYYIOBwmVcbpRElK78oJTdotyZ9Gz9QB=w1280",
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Everon",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=853743366",
   "cities": [

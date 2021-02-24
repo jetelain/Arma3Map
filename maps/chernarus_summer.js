@@ -12,7 +12,7 @@ Arma3Map.Maps.chernarus_summer = {
     7680
   ],
   "worldSize": 15360.0,
-  "preview": "https://lh3.googleusercontent.com/ZEZlbI-l3y-w5dplkr8ZqQhn4pFaEnuGZZqc8fYv5T3WDygE2SYWR84WnIFsxBsu2PMQB69lOZ3KzxA3TZXCO2niW-xmIm8D406BBWkDfRwRFshT=w1280",
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Chernarus (Summer)",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [

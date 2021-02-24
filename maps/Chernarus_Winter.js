@@ -13,7 +13,7 @@ Arma3Map.Maps.chernarus_winter = {
     7680
   ],
   "worldSize": 15360.0,
-  "preview": "https://lh3.googleusercontent.com/XyATv9wF7e4-VDzwNiQWvWzK_K12fUy6ieFp415-FPGAbINtk1gQrUi4WSjv-6WnlbbzZVf1ix94QyNRxRxxTqWZbq9LH37vWpgKE0Q8DoLB6xRg=w1280",
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Chernarus (Winter)",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
