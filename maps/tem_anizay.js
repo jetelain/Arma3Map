@@ -5,17 +5,16 @@ Arma3Map.Maps.tem_anizay = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Temppa",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/940584159678908417/3F95CE3CBF330A84F5B82814BC75B4DEA815BECC/",
   "title": "Anizay",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1537973181",
   "cities": [
     {
       "name": "Idak",

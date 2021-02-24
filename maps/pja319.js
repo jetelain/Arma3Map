@@ -5,16 +5,15 @@ Arma3Map.Maps.pja319 = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, GOS_Makhno",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/769400415047825732/503BB6F6209BF36A24BD39E5AEAE349141A1DC4C/",
   "title": "G.O.S N'Djenahoud",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=937515516",
   "cities": []
 };

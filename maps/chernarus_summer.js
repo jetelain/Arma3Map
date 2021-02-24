@@ -5,17 +5,16 @@ Arma3Map.Maps.chernarus_summer = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 242,
   "center": [
     7680,
     7680
   ],
   "worldSize": 15360.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://lh3.googleusercontent.com/ZEZlbI-l3y-w5dplkr8ZqQhn4pFaEnuGZZqc8fYv5T3WDygE2SYWR84WnIFsxBsu2PMQB69lOZ3KzxA3TZXCO2niW-xmIm8D406BBWkDfRwRFshT=w1280",
   "title": "Chernarus (Summer)",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Novy Sobor",

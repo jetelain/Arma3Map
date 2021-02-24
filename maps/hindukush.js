@@ -5,17 +5,16 @@ Arma3Map.Maps.hindukush = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CPL.Variable.A",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://www.armaholic.com/datas/users/hindu-kush-v10-3_4.jpg",
   "title": "Hindukush",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://www.armaholic.com/page.php?id=28913",
   "cities": [
     {
       "name": "Charikar",

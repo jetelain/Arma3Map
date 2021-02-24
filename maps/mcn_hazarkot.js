@@ -5,17 +5,16 @@ Arma3Map.Maps.mcn_hazarkot = {
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Santa Fe",
   "tileSize": 323,
   "center": [
     2560,
     2560
   ],
   "worldSize": 5120.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/802048725902059161/7FA86813624412633EE8C8F44AC65956F941CD62/",
   "title": "Hazar-Kot Valley",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=766294759",
   "cities": [
     {
       "name": "Juy Dukhtar",

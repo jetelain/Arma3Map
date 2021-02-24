@@ -5,17 +5,16 @@ Arma3Map.Maps.eden = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 202,
   "center": [
     6400,
     6400
   ],
   "worldSize": 12800.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://lh5.googleusercontent.com/VMdlJFtuU-9_iYl0-_vzMtmVMKm-ZW-cd4Vo5FeAXalxX-wiyMOUMoNLSiwG_mLFq1f6rMLFalw716O4UYYIOBwmVcbpRElK78oJTdotyZ9Gz9QB=w1280",
   "title": "Everon",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=853743366",
   "cities": [
     {
       "name": "Chotain",

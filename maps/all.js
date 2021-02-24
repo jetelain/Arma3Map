@@ -198,17 +198,16 @@ Arma3Map.Maps.chernarus = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 242,
   "center": [
     7680,
     7680
   ],
   "worldSize": 15360.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://lh5.googleusercontent.com/7Ao9vYPPT5oiTLOJtgO4uaoaID3-TxDHT9MZulyAeunZVYPLWD0PkJxmTAeF94cX_xhCV5M7btJNwUTWNDQZMM9GtXXFOMPnGslgDyIlYix_vCpf=w1280",
   "title": "Chernarus (Autumn)",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Novy Sobor",
@@ -449,17 +448,16 @@ Arma3Map.Maps.chernarus_summer = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 242,
   "center": [
     7680,
     7680
   ],
   "worldSize": 15360.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://lh3.googleusercontent.com/ZEZlbI-l3y-w5dplkr8ZqQhn4pFaEnuGZZqc8fYv5T3WDygE2SYWR84WnIFsxBsu2PMQB69lOZ3KzxA3TZXCO2niW-xmIm8D406BBWkDfRwRFshT=w1280",
   "title": "Chernarus (Summer)",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Novy Sobor",
@@ -701,17 +699,16 @@ Arma3Map.Maps.chernarus_winter = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 242,
   "center": [
     7680,
     7680
   ],
   "worldSize": 15360.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://lh3.googleusercontent.com/XyATv9wF7e4-VDzwNiQWvWzK_K12fUy6ieFp415-FPGAbINtk1gQrUi4WSjv-6WnlbbzZVf1ix94QyNRxRxxTqWZbq9LH37vWpgKE0Q8DoLB6xRg=w1280",
   "title": "Chernarus (Winter)",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Novy Sobor",
@@ -1582,17 +1579,16 @@ Arma3Map.Maps.eden = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 202,
   "center": [
     6400,
     6400
   ],
   "worldSize": 12800.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://lh5.googleusercontent.com/VMdlJFtuU-9_iYl0-_vzMtmVMKm-ZW-cd4Vo5FeAXalxX-wiyMOUMoNLSiwG_mLFq1f6rMLFalw716O4UYYIOBwmVcbpRElK78oJTdotyZ9Gz9QB=w1280",
   "title": "Everon",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=853743366",
   "cities": [
     {
       "name": "Chotain",
@@ -1737,17 +1733,16 @@ Arma3Map.Maps.esseker = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, RonhillUltra",
   "tileSize": 388,
   "center": [
     6144,
     6144
   ],
   "worldSize": 12288.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/447359296989353847/D76A954014C86963AA1A26A57148EAE000E11C98/",
   "title": "Esseker",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=498101407",
   "cities": [
     {
       "name": "Krupa",
@@ -1974,17 +1969,16 @@ Arma3Map.Maps.hindukush = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CPL.Variable.A",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://www.armaholic.com/datas/users/hindu-kush-v10-3_4.jpg",
   "title": "Hindukush",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://www.armaholic.com/page.php?id=28913",
   "cities": [
     {
       "name": "Charikar",
@@ -3133,17 +3127,16 @@ Arma3Map.Maps.mcn_hazarkot = {
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Santa Fe",
   "tileSize": 323,
   "center": [
     2560,
     2560
   ],
   "worldSize": 5120.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/802048725902059161/7FA86813624412633EE8C8F44AC65956F941CD62/",
   "title": "Hazar-Kot Valley",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=766294759",
   "cities": [
     {
       "name": "Juy Dukhtar",
@@ -3373,17 +3366,16 @@ Arma3Map.Maps.pja305 = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, GOS_Makhno",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/447359296987790269/440B7515840A2D5C0EBDC5DEE842370E0BF34AAA/",
   "title": "G.O.S N'Ziwasogo",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=694603075",
   "cities": [
     {
       "name": "Kasango Lunda",
@@ -3534,17 +3526,16 @@ Arma3Map.Maps.pja307 = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, GOS_Makhno",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/440605165239100552/457616CA3B88E64C08C068FB9623B4A6B8739C5D/",
   "title": "G.O.S Dariyah",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=701535490",
   "cities": [
     {
       "name": "Fan El Hisn",
@@ -3680,17 +3671,16 @@ Arma3Map.Maps.pja310 = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, GOS_Makhno",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/475500450719396827/5E57820A71BA3B936A36E85C966F7A3453E3108E/",
   "title": "G.O.S Al Rayak",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=648172507",
   "cities": [
     {
       "name": "Bakhdia",
@@ -4146,17 +4136,16 @@ Arma3Map.Maps.pja319 = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, GOS_Makhno",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/769400415047825732/503BB6F6209BF36A24BD39E5AEAE349141A1DC4C/",
   "title": "G.O.S N'Djenahoud",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=937515516",
   "cities": []
 };
 Arma3Map.Maps.pulau = {
@@ -5540,17 +5529,16 @@ Arma3Map.Maps.tem_anizay = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Temppa",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/940584159678908417/3F95CE3CBF330A84F5B82814BC75B4DEA815BECC/",
   "title": "Anizay",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1537973181",
   "cities": [
     {
       "name": "Idak",
@@ -6211,17 +6199,16 @@ Arma3Map.Maps.woodland_acr = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 242,
   "center": [
     3840,
     3840
   ],
   "worldSize": 7680.0,
-  "preview": null,
-  "dlc": null,
+    "preview": "https://lh5.googleusercontent.com/tTh4EkwQaXLkg2HFmtbyu6gUp0M8oXfzmfVFLWgAW9wjwiNAwjpl97D9Xhm0y7wd1L1TT3YPSZGS4NIzTI-AtQPEocYl8J4CZcwJf-VB-WHISSS8=w1280",
   "title": "Bystrica",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1981964169",
   "cities": [
     {
       "name": "Elektrozavodsk",

@@ -5,17 +5,16 @@ Arma3Map.Maps.woodland_acr = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 242,
   "center": [
     3840,
     3840
   ],
   "worldSize": 7680.0,
-  "preview": null,
-  "dlc": null,
+    "preview": "https://lh5.googleusercontent.com/tTh4EkwQaXLkg2HFmtbyu6gUp0M8oXfzmfVFLWgAW9wjwiNAwjpl97D9Xhm0y7wd1L1TT3YPSZGS4NIzTI-AtQPEocYl8J4CZcwJf-VB-WHISSS8=w1280",
   "title": "Bystrica",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1981964169",
   "cities": [
     {
       "name": "Elektrozavodsk",

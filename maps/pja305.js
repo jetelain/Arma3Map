@@ -5,17 +5,16 @@ Arma3Map.Maps.pja305 = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, GOS_Makhno",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/447359296987790269/440B7515840A2D5C0EBDC5DEE842370E0BF34AAA/",
   "title": "G.O.S N'Ziwasogo",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=694603075",
   "cities": [
     {
       "name": "Kasango Lunda",

@@ -5,17 +5,16 @@ Arma3Map.Maps.chernarus = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 242,
   "center": [
     7680,
     7680
   ],
   "worldSize": 15360.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://lh5.googleusercontent.com/7Ao9vYPPT5oiTLOJtgO4uaoaID3-TxDHT9MZulyAeunZVYPLWD0PkJxmTAeF94cX_xhCV5M7btJNwUTWNDQZMM9GtXXFOMPnGslgDyIlYix_vCpf=w1280",
   "title": "Chernarus (Autumn)",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Novy Sobor",

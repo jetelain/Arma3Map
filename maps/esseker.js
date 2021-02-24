@@ -5,17 +5,16 @@ Arma3Map.Maps.esseker = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, RonhillUltra",
   "tileSize": 388,
   "center": [
     6144,
     6144
   ],
   "worldSize": 12288.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/447359296989353847/D76A954014C86963AA1A26A57148EAE000E11C98/",
   "title": "Esseker",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=498101407",
   "cities": [
     {
       "name": "Krupa",

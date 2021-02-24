@@ -5,17 +5,16 @@ Arma3Map.Maps.pja310 = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, GOS_Makhno",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/475500450719396827/5E57820A71BA3B936A36E85C966F7A3453E3108E/",
   "title": "G.O.S Al Rayak",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=648172507",
   "cities": [
     {
       "name": "Bakhdia",

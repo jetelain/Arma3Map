@@ -6,17 +6,16 @@ Arma3Map.Maps.chernarus_winter = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 242,
   "center": [
     7680,
     7680
   ],
   "worldSize": 15360.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://lh3.googleusercontent.com/XyATv9wF7e4-VDzwNiQWvWzK_K12fUy6ieFp415-FPGAbINtk1gQrUi4WSjv-6WnlbbzZVf1ix94QyNRxRxxTqWZbq9LH37vWpgKE0Q8DoLB6xRg=w1280",
   "title": "Chernarus (Winter)",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Novy Sobor",

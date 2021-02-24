@@ -5,17 +5,16 @@ Arma3Map.Maps.pja307 = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, GOS_Makhno",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/440605165239100552/457616CA3B88E64C08C068FB9623B4A6B8739C5D/",
   "title": "G.O.S Dariyah",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=701535490",
   "cities": [
     {
       "name": "Fan El Hisn",
