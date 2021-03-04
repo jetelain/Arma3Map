@@ -5,17 +5,16 @@ Arma3Map.Maps.wl_rosche = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, WA Lancer",
   "tileSize": 242,
   "center": [
     7680,
     7680
   ],
   "worldSize": 15360.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/951840009308242815/BFA36499373F278FFC63E347254F879D287F1B2B/",
   "title": "Rosche, Germany (2.0)",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1527410521",
   "cities": [
     {
       "name": "Neumuhle",

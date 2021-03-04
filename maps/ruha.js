@@ -5,17 +5,16 @@ Arma3Map.Maps.ruha = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Temppa",
   "tileSize": 259,
   "center": [
     4096,
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/772852176391986561/93AAFA942B82064D2D282BA8A26FD011DFB9BE6B/",
   "title": "Ruha",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1368857262",
   "cities": [
     {
       "name": "Ruha",

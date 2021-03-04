@@ -2375,8 +2375,7 @@ Arma3Map.Maps.khoramshahr = {
     2560
   ],
   "worldSize": 5120.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1013817801418311335/2718C56F297D230886FAA648C200AF1F225D8DF6/",
   "title": "Khoramshahr",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1866738558",
   "cities": []
@@ -3173,17 +3172,16 @@ Arma3Map.Maps.mountains_acr = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 202,
   "center": [
     3200,
     3200
   ],
   "worldSize": 6400.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Takistan Mountains",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Chak Chak",
@@ -4446,17 +4444,16 @@ Arma3Map.Maps.ruha = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Temppa",
   "tileSize": 259,
   "center": [
     4096,
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/772852176391986561/93AAFA942B82064D2D282BA8A26FD011DFB9BE6B/",
   "title": "Ruha",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1368857262",
   "cities": [
     {
       "name": "Ruha",
@@ -4687,17 +4684,16 @@ Arma3Map.Maps.sangin_distirict_helmand_province = {
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, SmokeDog",
   "tileSize": 323,
   "center": [
     2560,
     2560
   ],
   "worldSize": 5120.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://www.armaholic.com/datas/users/sangin-version-400-2_4.jpg",
   "title": "Sangin Distirict Helmand Province",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://www.armaholic.com/page.php?id=30213",
   "cities": []
 };
 Arma3Map.Maps.sara = {
@@ -4707,17 +4703,16 @@ Arma3Map.Maps.sara = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Sahrani",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Corazol",
@@ -5159,17 +5154,16 @@ Arma3Map.Maps.seangola = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/922560083897885842/8CB04D6706833AC48D881961E9F17051F32C9566/",
   "title": "SE Angola 1974 v1.30",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1446500688",
   "cities": [
     {
       "name": "Tweehutte",
@@ -5218,17 +5212,16 @@ Arma3Map.Maps.takistan = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 202,
   "center": [
     6400,
     6400
   ],
   "worldSize": 12800.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Takistan",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Loy Manara",
@@ -5728,17 +5721,16 @@ Arma3Map.Maps.tem_suursaariv = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Temppa",
   "tileSize": 388,
   "center": [
     6144,
     6144
   ],
   "worldSize": 12288.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1461932937682655926/1CFAE4EC5C5DFC190D7F5EC806D69B618D54130A/",
   "title": "Suursaari",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1680294609",
   "cities": [
     {
       "name": "Kiiskinkylä",
@@ -5907,17 +5899,16 @@ Arma3Map.Maps.wl_rosche = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, WA Lancer",
   "tileSize": 242,
   "center": [
     7680,
     7680
   ],
   "worldSize": 15360.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/951840009308242815/BFA36499373F278FFC63E347254F879D287F1B2B/",
   "title": "Rosche, Germany (2.0)",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1527410521",
   "cities": [
     {
       "name": "Neumuhle",

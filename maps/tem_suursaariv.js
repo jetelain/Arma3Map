@@ -5,17 +5,16 @@ Arma3Map.Maps.tem_suursaariv = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Temppa",
   "tileSize": 388,
   "center": [
     6144,
     6144
   ],
   "worldSize": 12288.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1461932937682655926/1CFAE4EC5C5DFC190D7F5EC806D69B618D54130A/",
   "title": "Suursaari",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1680294609",
   "cities": [
     {
       "name": "Kiiskinkylä",

@@ -5,17 +5,16 @@ Arma3Map.Maps.seangola = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, IceBreakr",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/922560083897885842/8CB04D6706833AC48D881961E9F17051F32C9566/",
   "title": "SE Angola 1974 v1.30",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1446500688",
   "cities": [
     {
       "name": "Tweehutte",
