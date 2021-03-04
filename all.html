@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Malden</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/mapUtils.css" />
+</head>
+<body style=" margin:0;padding:0;border:0;">
+    <div class="map" id="map" style="width:80%; height:100vh; margin:0;padding:0;border:0;">
+    </div>
+    <div id="maplist" style="width:20%; height:100vh; margin:0;padding:0.5em;border:0; position:absolute; top:0px; right:0px; overflow-y:scroll;">
+		<p>Maps</p>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js">
+    </script>
+	<script src="https://unpkg.com/jquery@3.5.1/dist/jquery.min.js">
+    </script>
+    <script src="js/mapUtils.js">
+    </script>
+    <script src="js/defaultMap.js">
+    </script>
+    <script src="maps/all.js">
+    </script>
+    <script>
+
+		
+		var map = null;
+		
+		function setmap(mapInfos)
+		{
+			if ( map ) map.remove();
+		    map = L.map('map', {
+				minZoom: mapInfos.minZoom,
+				maxZoom: mapInfos.maxZoom,
+				crs: mapInfos.CRS
+			});
+			L.tileLayer('.'+mapInfos.tilePattern, {
+				attribution: mapInfos.attribution,
+				tileSize: mapInfos.tileSize
+			}).addTo(map);
+			map.setView(mapInfos.center, mapInfos.defaultZoom);
+			L.latlngGraticule().addTo(map);
+			L.control.scale({ maxWidth: 200, imperial: false }).addTo(map);
+			L.control.gridMousePosition().addTo(map);
+		}
+		
+		$(function(){
+		
+			setmap(Arma3Map.Maps.altis);
+		
+			Object.keys(Arma3Map.Maps).forEach(key => {
+			  var infos = Arma3Map.Maps[key];
+			  var card = $('<div class="card bg-dark text-white mb-3" style="max-height:150px; overflow:hidden;"><a href="#" class="text-white"><img src="'+infos.preview+'" class="card-img" alt="..."><div class="card-img-overlay"><h5 class="card-title" style="text-shadow: #000 1px 0 10px;">'+infos.title+'</h5></div></a></div>');
+			  card.click(function(){setmap(infos);});
+			  $(maplist).append(card);
+			  
+			});
+						
+		
+		
+		});
+    </script>
+</body>
+</html>

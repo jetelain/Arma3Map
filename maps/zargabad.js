@@ -5,17 +5,16 @@ Arma3Map.Maps.zargabad = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 259,
   "center": [
     4096,
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Zargabad",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Zargabad",

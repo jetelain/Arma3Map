@@ -5,17 +5,16 @@ Arma3Map.Maps.pabst_yellowstone = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, PabstMirror",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/933815998261825611/3C634843F16A312F00AC56433A02B0841CA2A011/",
   "title": "Yellowstone",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1412981204",
   "cities": [
     {
       "name": "Norris",

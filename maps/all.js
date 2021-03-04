@@ -3252,17 +3252,16 @@ Arma3Map.Maps.pabst_yellowstone = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, PabstMirror",
   "tileSize": 323,
   "center": [
     5120,
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/933815998261825611/3C634843F16A312F00AC56433A02B0841CA2A011/",
   "title": "Yellowstone",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1412981204",
   "cities": [
     {
       "name": "Norris",
@@ -4928,17 +4927,16 @@ Arma3Map.Maps.sara_dbe1 = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "United Sahrani",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Corazol",
@@ -5820,17 +5818,16 @@ Arma3Map.Maps.vt5 = {
   "maxZoom": 3,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Tonto-",
   "tileSize": 379,
   "center": [
     2999,
     2999
   ],
   "worldSize": 5999.62,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/440574088300417526/6E97C5E34A2C75BFEB1C8175FD18D9E6267EA4B6/",
   "title": "Vt5 - Suomi Finland",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=473885087",
   "cities": []
 };
 Arma3Map.Maps.vt7 = {
@@ -6304,17 +6301,16 @@ Arma3Map.Maps.zargabad = {
   "maxZoom": 4,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, CUP Team",
   "tileSize": 259,
   "center": [
     4096,
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Zargabad",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
   "cities": [
     {
       "name": "Zargabad",
