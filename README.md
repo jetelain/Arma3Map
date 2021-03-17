@@ -118,6 +118,8 @@ Content under
 - Rosche, Germany: [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; WA Lancer.
 - Sangin.v4: Unspecified License. &copy; SmokeDog.
 - Yellowstone: Unspecified License. &copy; PabstMirror.
+- Napd Island: Unspecified License. &copy; Momo & ANixon.
+- Napd Island (winter): Unspecified License. &copy; Momo & ANixon.
 
 # How to use
 
