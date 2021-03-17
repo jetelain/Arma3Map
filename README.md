@@ -68,9 +68,9 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="fata.html"><img src="maps/fata/0/0/0.png" width="200" height="200" /></a> | <a href="wl_rosche.html"><img src="maps/wl_rosche/0/0/0.png" width="200" height="200" /></a> | <a href="sangin_distirict_helmand_province.html"><img src="maps/sangin_distirict_helmand_province/0/0/0.png" width="200" height="200" /></a> |
 
-| [Yellowstone](pabst_yellowstone.html)                                                                        |
-| ------------------------------------------------------------------------------------------------------------ |
-| <a href="pabst_yellowstone.html"><img src="maps/pabst_yellowstone/0/0/0.png" width="200" height="200" /></a> |
+| [Yellowstone](pabst_yellowstone.html)                                                                        | [Napf Island A3](napf.html)                                                        | [NapfWinter Island A3](napfwinter.html)                                                        |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| <a href="pabst_yellowstone.html"><img src="maps/pabst_yellowstone/0/0/0.png" width="200" height="200" /></a> | <a href="napf.html"><img src="maps/napf/0/0/0.png" width="200" height="200" /></a> | <a href="napfwinter.html"><img src="maps/napfwinter/0/0/0.png" width="200" height="200" /></a> |
 
 Content under
 

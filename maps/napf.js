@@ -5,17 +5,16 @@ Arma3Map.Maps.napf = {
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Momo &amp; ANixon",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://www.armaholic.com/datas/users/napf-island-a3-version-11-update2-7_4.jpg",
   "title": "Napf Island A3",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1425442364",
   "cities": [
     {
       "name": "Bruderholz",
