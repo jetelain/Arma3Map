@@ -30,6 +30,8 @@ namespace MapExportExtension
         private static int OneWPx;
         private static int OneHPx;
 
+        private static bool IsHiRes;
+
         public static Image<Rgba32> FullImage { get; private set; }
 
         internal static void Message(string function, string[] args)
@@ -42,6 +44,9 @@ namespace MapExportExtension
                         ArmaSerializer.ParseMixedArray(args[2]), 
                         ArmaSerializer.ParseDoubleArray(args[3]),
                         ArmaSerializer.ParseString(args[4]));
+                    return;
+                case "histart":
+                    HiResStart();
                     return;
                 case "calibrate":
                     Calibrate(ArmaSerializer.ParseDoubleArray(args[0]),
@@ -59,6 +64,46 @@ namespace MapExportExtension
                 case "stop":
                     Stop();
                     return;
+                case "histop":
+                    HiResStop();
+                    return;
+                case "dispose":
+                    Dispose();
+                    return;
+            }
+        }
+
+        private static void Dispose()
+        {
+            if (FullImage != null)
+            {
+                FullImage.Dispose();
+                FullImage = null;
+            }
+            mapDataPath = null;
+            currentMap = null;
+            IsHiRes = false;
+        }
+
+        private static void HiResStop()
+        {
+            if (FullImage != null)
+            {
+                FullImage.SaveAsPng(Path.Combine(mapDataPath, $"{currentMap.worldName}-hires.png"));
+                using (FullImage)
+                {
+                    Split(FullImage, currentMap.maxZoom);
+                }
+            }
+        }
+
+        private static void HiResStart()
+        {
+            IsHiRes = true;
+            if (FullImage != null)
+            {
+                FullImage.Dispose();
+                FullImage = null;
             }
         }
 
@@ -69,15 +114,13 @@ namespace MapExportExtension
                 SplitFullImage();
                 FullImage = null;
             }
-            mapDataPath = null;
-            currentMap = null;
         }
 
         private static void SplitFullImage()
         {
             FullImage.SaveAsPng(Path.Combine(mapDataPath, $"{currentMap.worldName}.png"));
 
-            var zoomLevel = currentMap.maxZoom;
+            var zoomLevel = currentMap.maxZoom-1;
             using (FullImage)
             {
                 while (FullImage.Width >= currentMap.tileSize)
@@ -91,6 +134,7 @@ namespace MapExportExtension
 
         private static void Start(string worldName, double worldSize, object[] cities, double[] center, string title)
         {
+            IsHiRes = false;
             currentMap = new MapInfos()
             {
                 worldSize = worldSize,
@@ -132,11 +176,21 @@ namespace MapExportExtension
             OneHPx = (pxA.Y - pxB.Y);
 
             var fullWidthInitialPx = currentMap.worldSize * OneWPx / w;
-
             var fullHeightInitialPx = currentMap.worldSize * OneHPx / h;
-
             var fullSizeInitialPx = Math.Max(fullWidthInitialPx, fullHeightInitialPx);
 
+            if (IsHiRes)
+            {
+                CalibrateHiRes(fullWidthInitialPx, fullHeightInitialPx, fullSizeInitialPx);
+            }
+            else
+            {
+                CalibrateInitial(fullWidthInitialPx, fullHeightInitialPx, fullSizeInitialPx);
+            }
+        }
+
+        private static void CalibrateInitial(double fullWidthInitialPx, double fullHeightInitialPx, double fullSizeInitialPx)
+        {
             var tileSizePx = (int)Math.Ceiling(fullSizeInitialPx);
 
             int maxZoom = 0;
@@ -150,7 +204,7 @@ namespace MapExportExtension
             var fullSizePx = tileSizePx * (1 << maxZoom);
 
             currentMap.tileSize = tileSizePx;
-            currentMap.maxZoom = maxZoom;
+            currentMap.maxZoom = maxZoom+1;
             currentMap.defaultZoom = Math.Max(2, maxZoom / 2);
             currentMap.minZoom = 0;
 
@@ -166,6 +220,12 @@ namespace MapExportExtension
             WriteJavaScript(tileSizePx, json, coefWidth, coefHeight);
             WriteHtml();
 
+            FullImage = new Image<Rgba32>(null, fullSizePx, fullSizePx, new Rgba32(221, 221, 221));
+        }
+
+        private static void CalibrateHiRes(double fullWidthInitialPx, double fullHeightInitialPx, double fullSizeInitialPx)
+        {
+            var fullSizePx = currentMap.tileSize * (1 << currentMap.maxZoom);
             FullImage = new Image<Rgba32>(null, fullSizePx, fullSizePx, new Rgba32(221, 221, 221));
         }
 

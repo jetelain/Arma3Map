@@ -1,8 +1,8 @@
 #define COMPONENT exporter
 #include "\z\a3me\addons\main\script_mod.hpp"
 
-// #define DEBUG_MODE_FULL
-// #define DISABLE_COMPILE_CACHE
+ #define DEBUG_MODE_FULL
+ #define DISABLE_COMPILE_CACHE
 // #define DEBUG_SYNCHRONOUS
 // #define DEBUG_BACKEND
 
