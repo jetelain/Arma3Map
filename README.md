@@ -72,6 +72,11 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <a href="pabst_yellowstone.html"><img src="maps/pabst_yellowstone/0/0/0.png" width="200" height="200" /></a> | <a href="napf.html"><img src="maps/napf/0/0/0.png" width="200" height="200" /></a> | <a href="napfwinter.html"><img src="maps/napfwinter/0/0/0.png" width="200" height="200" /></a> |
 
+| [Chernarus 2020](cup_chernarus_a3.html)                                                                        | [Chernarus A3S](chernarus_a3s.html)                                                        | [Beketov](beketov.html)                                                        |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| <a href="cup_chernarus_a3.html"><img src="maps/cup_chernarus_a3/0/0/0.png" width="200" height="200" /></a> | <a href="chernarus_a3s.html"><img src="maps/chernarus_a3s/0/0/0.png" width="200" height="200" /></a> | <a href="beketov.html"><img src="maps/beketov/0/0/0.png" width="200" height="200" /></a> |
+
+
 Content under
 
 - [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive.
@@ -90,6 +95,8 @@ Content under
 - Chernarus (Autumn): [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; CUP Team.
 - Chernarus (Winter): [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; CUP Team.
 - Chernarus (Summer): [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; CUP Team.
+- Chernarus 2020: [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; CUP Team.
+- Chernarus A3S: Unspecified License. &copy; Hungry?.
 - Sahrani: [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; CUP Team.
 - United Sahrani: [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; CUP Team.
 - Takistan: [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; CUP Team.
@@ -118,8 +125,9 @@ Content under
 - Rosche, Germany: [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; WA Lancer.
 - Sangin.v4: Unspecified License. &copy; SmokeDog.
 - Yellowstone: Unspecified License. &copy; PabstMirror.
-- Napd Island: Unspecified License. &copy; Momo & ANixon.
-- Napd Island (winter): Unspecified License. &copy; Momo & ANixon.
+- Napf Island: Unspecified License. &copy; Momo & ANixon.
+- Napf Island (winter): Unspecified License. &copy; Momo & ANixon.
+- Beketov: Unspecified License. &copy; Dead_Kennedy, SenChi.
 
 # How to use
 

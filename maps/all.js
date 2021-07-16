@@ -191,6 +191,322 @@ Arma3Map.Maps.altis = {
 		{name:"Molos",x:26943.9,y:23170.7}
 	]
 };
+Arma3Map.Maps.beketov = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "beketov",
+  "tilePattern": "/maps/beketov/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive, Dead_Kennedy, SenChi",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/844843095184308985/E3832F7EF81A4B139FE3C146E80B15BCB7E92B58/",
+  "dlc": null,
+  "title": "Beketov",
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=743968516",
+  "cities": [
+    {
+      "name": "Malaevo",
+      "x": 3554.0,
+      "y": 4731.0
+    },
+    {
+      "name": "Troitsa",
+      "x": 661.0,
+      "y": 4371.0
+    },
+    {
+      "name": "Monakhovo",
+      "x": 683.173,
+      "y": 4929.29
+    },
+    {
+      "name": "Shpagino",
+      "x": 4622.0,
+      "y": 5388.0
+    },
+    {
+      "name": "Kaldykovo",
+      "x": 6404.5,
+      "y": 3185.7
+    },
+    {
+      "name": "Malye Kuptsy",
+      "x": 2638.17,
+      "y": 7215.92
+    },
+    {
+      "name": "2nd district",
+      "x": 7771.0,
+      "y": 4313.0
+    },
+    {
+      "name": "Kuzhadon",
+      "x": 3715.15,
+      "y": 7668.63
+    },
+    {
+      "name": "Shagrenevo",
+      "x": 2131.59,
+      "y": 7935.21
+    },
+    {
+      "name": "Bolshie Kuptsy",
+      "x": 6244.73,
+      "y": 6773.22
+    },
+    {
+      "name": "Kroopskoy st.",
+      "x": 8203.0,
+      "y": 4034.0
+    },
+    {
+      "name": "Mira ave.",
+      "x": 7742.0,
+      "y": 5436.0
+    },
+    {
+      "name": "Generala Lopatova st.",
+      "x": 8473.0,
+      "y": 3821.0
+    },
+    {
+      "name": "Nekrasova st.",
+      "x": 7956.0,
+      "y": 5632.0
+    },
+    {
+      "name": "Armanikha",
+      "x": 5683.37,
+      "y": 7814.67
+    },
+    {
+      "name": "BEKETOV",
+      "x": 8467.79,
+      "y": 4943.21
+    },
+    {
+      "name": "Lenina st.",
+      "x": 8402.0,
+      "y": 5098.0
+    },
+    {
+      "name": "Skotinino",
+      "x": 8210.9,
+      "y": 6265.46
+    },
+    {
+      "name": "Zaitsevo",
+      "x": 596.0,
+      "y": 8843.0
+    },
+    {
+      "name": "3rd district",
+      "x": 9003.0,
+      "y": 5752.0
+    },
+    {
+      "name": "Veremeevo",
+      "x": 9166.34,
+      "y": 7200.58
+    },
+    {
+      "name": "Zhukovo",
+      "x": 2403.31,
+      "y": 11028.3
+    },
+    {
+      "name": "Tarasovka",
+      "x": 11314.2,
+      "y": 423.352
+    },
+    {
+      "name": "Polshishkino",
+      "x": 4989.67,
+      "y": 12427.3
+    },
+    {
+      "name": "Gavrilovka",
+      "x": 12252.1,
+      "y": 7491.52
+    },
+    {
+      "name": "Groznovo",
+      "x": 13527.0,
+      "y": 6107.0
+    },
+    {
+      "name": "Sevastianovo",
+      "x": 11343.3,
+      "y": 9855.56
+    },
+    {
+      "name": "Karabatovo",
+      "x": 10073.4,
+      "y": 11343.8
+    },
+    {
+      "name": "Gumnishi",
+      "x": 4432.87,
+      "y": 13959.0
+    },
+    {
+      "name": "Kozlovo",
+      "x": 10766.0,
+      "y": 11397.1
+    },
+    {
+      "name": "Polivanovo",
+      "x": 1436.37,
+      "y": 14414.3
+    },
+    {
+      "name": "Karavayki",
+      "x": 15168.7,
+      "y": 1144.79
+    },
+    {
+      "name": "Galkino",
+      "x": 719.443,
+      "y": 14806.1
+    },
+    {
+      "name": "Shalaevo",
+      "x": 4194.96,
+      "y": 15052.3
+    },
+    {
+      "name": "Siukha",
+      "x": 12048.2,
+      "y": 11295.6
+    },
+    {
+      "name": "Kon'kovo",
+      "x": 3025.8,
+      "y": 15342.9
+    },
+    {
+      "name": "Vizovino",
+      "x": 16092.7,
+      "y": 2333.78
+    },
+    {
+      "name": "Yarovoe",
+      "x": 13064.9,
+      "y": 11310.5
+    },
+    {
+      "name": "Polevaya st.",
+      "x": 6229.0,
+      "y": 15661.0
+    },
+    {
+      "name": "Centralnaya st.",
+      "x": 5641.0,
+      "y": 16027.0
+    },
+    {
+      "name": "Pyr'evo",
+      "x": 16821.5,
+      "y": 2828.02
+    },
+    {
+      "name": "Omooteeschi",
+      "x": 16882.0,
+      "y": 1960.0
+    },
+    {
+      "name": "KRASNYE SELTSY",
+      "x": 6026.66,
+      "y": 16062.7
+    },
+    {
+      "name": "Michurina st.",
+      "x": 6181.0,
+      "y": 16238.0
+    },
+    {
+      "name": "Dorogino",
+      "x": 16268.0,
+      "y": 7130.0
+    },
+    {
+      "name": "Kulibino",
+      "x": 3045.11,
+      "y": 16679.7
+    },
+    {
+      "name": "Zhuzhelka",
+      "x": 6596.89,
+      "y": 17590.9
+    },
+    {
+      "name": "Naleskino",
+      "x": 19404.0,
+      "y": 3254.0
+    },
+    {
+      "name": "Sentsy",
+      "x": 5325.47,
+      "y": 18844.8
+    },
+    {
+      "name": "Ksenino",
+      "x": 5054.05,
+      "y": 19385.5
+    },
+    {
+      "name": "Kliuchishi",
+      "x": 20176.4,
+      "y": 6191.08
+    },
+    {
+      "name": "Imeni Parizhskoy Kommuny",
+      "x": 20029.3,
+      "y": 7417.87
+    },
+    {
+      "name": "Maloe Vorontsovo",
+      "x": 16032.6,
+      "y": 14667.2
+    },
+    {
+      "name": "Verhnee Vorontsovo",
+      "x": 16093.3,
+      "y": 15281.7
+    },
+    {
+      "name": "Studenets",
+      "x": 18100.6,
+      "y": 13622.1
+    },
+    {
+      "name": "Dubionki",
+      "x": 13615.2,
+      "y": 19283.3
+    },
+    {
+      "name": "Oblepikhino",
+      "x": 19338.0,
+      "y": 14029.0
+    },
+    {
+      "name": "Belokamenka",
+      "x": 14651.0,
+      "y": 20188.0
+    },
+    {
+      "name": "Arshavino",
+      "x": 17875.0,
+      "y": 17808.1
+    }
+  ]
+};
 Arma3Map.Maps.chernarus = {
   CRS: MGRS_CRS(0.01575, 0.01575, 242),
   "worldName": "chernarus",
@@ -208,6 +524,257 @@ Arma3Map.Maps.chernarus = {
   "preview": "https://steamuserimages-a.akamaihd.net/ugc/767236446983929084/E6866F24F7AD0E4175AE1488649161A0934D41E9/",
   "title": "Chernarus (Autumn)",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
+  "cities": [
+    {
+      "name": "Novy Sobor",
+      "x": 7123.63,
+      "y": 7774.63
+    },
+    {
+      "name": "Stary Sobor",
+      "x": 6169.01,
+      "y": 7793.67
+    },
+    {
+      "name": "Guglovo",
+      "x": 8431.08,
+      "y": 6703.19
+    },
+    {
+      "name": "Vyshnoye",
+      "x": 6561.91,
+      "y": 6078.77
+    },
+    {
+      "name": "Kabanino",
+      "x": 5300.71,
+      "y": 8645.9
+    },
+    {
+      "name": "Rogovo",
+      "x": 4770.96,
+      "y": 6835.26
+    },
+    {
+      "name": "Mogilevka",
+      "x": 7650.41,
+      "y": 5096.46
+    },
+    {
+      "name": "Gorka",
+      "x": 9616.06,
+      "y": 8914.38
+    },
+    {
+      "name": "Grishino",
+      "x": 5959.94,
+      "y": 10335.7
+    },
+    {
+      "name": "Shakhovka",
+      "x": 9728.64,
+      "y": 6567.3
+    },
+    {
+      "name": "Pogorevka",
+      "x": 4435.36,
+      "y": 6425.58
+    },
+    {
+      "name": "Pulkovo",
+      "x": 4950.82,
+      "y": 5627.1
+    },
+    {
+      "name": "Nadezhdino",
+      "x": 5876.66,
+      "y": 4696.93
+    },
+    {
+      "name": "Vybor",
+      "x": 3833.17,
+      "y": 8918.92
+    },
+    {
+      "name": "Polana",
+      "x": 10707.1,
+      "y": 8053.29
+    },
+    {
+      "name": "Staroye",
+      "x": 10212.5,
+      "y": 5385.04
+    },
+    {
+      "name": "Dubrovka",
+      "x": 10382.1,
+      "y": 9938.35
+    },
+    {
+      "name": "Pustoshka",
+      "x": 3070.23,
+      "y": 7940.48
+    },
+    {
+      "name": "Kozlovka",
+      "x": 4477.57,
+      "y": 4597.79
+    },
+    {
+      "name": "Pusta",
+      "x": 9127.18,
+      "y": 3954.47
+    },
+    {
+      "name": "Dolina",
+      "x": 11285.2,
+      "y": 6633.58
+    },
+    {
+      "name": "Gvozdno",
+      "x": 8614.62,
+      "y": 11890.3
+    },
+    {
+      "name": "Prigorodki",
+      "x": 8015.58,
+      "y": 3419.26
+    },
+    {
+      "name": "Drozhino",
+      "x": 3382.02,
+      "y": 4925.88
+    },
+    {
+      "name": "Sosnovka",
+      "x": 2539.26,
+      "y": 6358.71
+    },
+    {
+      "name": "Msta",
+      "x": 11333.8,
+      "y": 5421.4
+    },
+    {
+      "name": "Lopatino",
+      "x": 2750.0,
+      "y": 10005.0
+    },
+    {
+      "name": "Zelenogorsk",
+      "x": 2774.26,
+      "y": 5380.38
+    },
+    {
+      "name": "Orlovets",
+      "x": 12131.0,
+      "y": 7189.79
+    },
+    {
+      "name": "Berezino",
+      "x": 12014.0,
+      "y": 9090.84
+    },
+    {
+      "name": "Myshkino",
+      "x": 1998.18,
+      "y": 7355.13
+    },
+    {
+      "name": "Petrovka",
+      "x": 5016.45,
+      "y": 12490.8
+    },
+    {
+      "name": "Chernogorsk",
+      "x": 6731.21,
+      "y": 2554.13
+    },
+    {
+      "name": "Bor",
+      "x": 3326.74,
+      "y": 3886.73
+    },
+    {
+      "name": "Nizhnoye",
+      "x": 12824.9,
+      "y": 8097.7
+    },
+    {
+      "name": "Balota",
+      "x": 4527.58,
+      "y": 2465.32
+    },
+    {
+      "name": "Khelm",
+      "x": 12329.3,
+      "y": 10771.0
+    },
+    {
+      "name": "Krasnostav",
+      "x": 11224.3,
+      "y": 12274.5
+    },
+    {
+      "name": "Komarovo",
+      "x": 3664.31,
+      "y": 2499.0
+    },
+    {
+      "name": "Elektrozavodsk",
+      "x": 10313.7,
+      "y": 2159.41
+    },
+    {
+      "name": "Solnichniy",
+      "x": 13397.4,
+      "y": 6336.84
+    },
+    {
+      "name": "Kamyshovo",
+      "x": 12063.1,
+      "y": 3515.58
+    },
+    {
+      "name": "Tulga",
+      "x": 12802.5,
+      "y": 4369.49
+    },
+    {
+      "name": "Pavlovo",
+      "x": 1693.98,
+      "y": 3858.65
+    },
+    {
+      "name": "Kamenka",
+      "x": 1853.09,
+      "y": 2249.85
+    },
+    {
+      "name": "Olsha",
+      "x": 13331.0,
+      "y": 12900.0
+    }
+  ]
+};
+Arma3Map.Maps.chernarus_a3s = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 242),
+  "worldName": "chernarus_a3s",
+  "tilePattern": "/maps/chernarus_a3s/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive, Hungry?",
+  "tileSize": 242,
+  "center": [
+    7680,
+    7680
+  ],
+  "worldSize": 15360.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/776247000161823064/6AC11F9BC1DA6B8E68816018D9E7B84EF0BD323C/",
+  "dlc": null,
+  "title": "Chernarus A3S",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1280331888",
   "cities": [
     {
       "name": "Novy Sobor",

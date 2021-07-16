@@ -5,17 +5,17 @@ Arma3Map.Maps.chernarus_a3s = {
   "maxZoom": 6,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Hungry?",
   "tileSize": 242,
   "center": [
     7680,
     7680
   ],
   "worldSize": 15360.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/776247000161823064/6AC11F9BC1DA6B8E68816018D9E7B84EF0BD323C/",
   "dlc": null,
   "title": "Chernarus A3S",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1280331888",
   "cities": [
     {
       "name": "Novy Sobor",

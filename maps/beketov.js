@@ -5,17 +5,17 @@ Arma3Map.Maps.beketov = {
   "maxZoom": 6,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, Dead_Kennedy, SenChi",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/844843095184308985/E3832F7EF81A4B139FE3C146E80B15BCB7E92B58/",
   "dlc": null,
   "title": "Beketov",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=743968516",
   "cities": [
     {
       "name": "Malaevo",
