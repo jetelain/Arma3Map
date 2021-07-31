@@ -76,6 +76,10 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <a href="cup_chernarus_a3.html"><img src="maps/cup_chernarus_a3/0/0/0.png" width="200" height="200" /></a> | <a href="chernarus_a3s.html"><img src="maps/chernarus_a3s/0/0/0.png" width="200" height="200" /></a> | <a href="beketov.html"><img src="maps/beketov/0/0/0.png" width="200" height="200" /></a> |
 
+| [Saint Kapaulio](kapaulio.html)                                                            |
+| ------------------------------------------------------------------------------------------ | 
+| <a href="kapaulio.html"><img src="maps/kapaulio/0/0/0.png" width="200" height="200" /></a> | 
+
 
 Content under
 
@@ -128,6 +132,7 @@ Content under
 - Napf Island: Unspecified License. &copy; Momo & ANixon.
 - Napf Island (winter): Unspecified License. &copy; Momo & ANixon.
 - Beketov: Unspecified License. &copy; Dead_Kennedy, SenChi.
+- Saint Kapaulio: [EULA](https://steamcommunity.com/sharedfiles/filedetails/?id=939686262). &copy; {God-father}.
 
 # How to use
 
