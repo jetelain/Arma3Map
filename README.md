@@ -79,6 +79,10 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <a href="cam_lao_nam.html"><img src="maps/cam_lao_nam/0/0/0.png" width="200" height="200" /></a> | <a href="gulfcoast.html"><img src="maps/gulfcoast/0/0/0.png" width="200" height="200" /></a> | <a href="Placeholder.html"><img src="maps/Placeholder/0/0/0.png" width="200" height="200" /></a> |
 
+| [Saint Kapaulio](kapaulio.html)                                                            |
+| ------------------------------------------------------------------------------------------ | 
+| <a href="kapaulio.html"><img src="maps/kapaulio/0/0/0.png" width="200" height="200" /></a> | 
+
 
 Content under
 
@@ -131,6 +135,7 @@ Content under
 - Napf Island: Unspecified License. &copy; Momo & ANixon.
 - Napf Island (winter): Unspecified License. &copy; Momo & ANixon.
 - Beketov: Unspecified License. &copy; Dead_Kennedy, SenChi.
+- Saint Kapaulio: [EULA](https://steamcommunity.com/sharedfiles/filedetails/?id=939686262). &copy; {God-father}.
 
 # How to use
 

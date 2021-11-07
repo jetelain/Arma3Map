@@ -5,17 +5,17 @@ Arma3Map.Maps.kapaulio = {
   "maxZoom": 6,
   "minZoom": 0,
   "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
+  "attribution": "&copy; Bohemia Interactive, {God-father}",
   "tileSize": 323,
   "center": [
     10240,
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/775030106493200501/DAC5833B935F92CAD5EDA4E114778CA923E60757/",
   "dlc": null,
   "title": "Saint Kapaulio",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=939686262",
   "cities": [
     {
       "name": "Jappoli",
