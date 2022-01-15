@@ -83,9 +83,10 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | 
 | <a href="cam_lao_nam.html"><img src="maps/cam_lao_nam/0/0/0.png" width="200" height="200" /></a> | <a href="gulfcoast.html"><img src="maps/gulfcoast/0/0/0.png" width="200" height="200" /></a> | <a href="kapaulio.html"><img src="maps/kapaulio/0/0/0.png" width="200" height="200" /></a> 
 
-| [Sefrouramal](sefrouramal.html)                                                                              |
-| ------------------------------------------------------------------------------------------------------------ |
-| <a href="sefrouramal.html"><img src="maps/sefrouramal/0/0/0.png" width="200" height="200" /></a>             |
+|  [Sefrouramal](sefrouramal.html)                                                                         | [Vidda](blud_vidda.html)                                                        | [Kerama](kerama.html)                                                            |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | 
+| <a href="sefrouramal.html"><img src="maps/sefrouramal/0/0/0.png" width="200" height="200" /></a>   | <a href="blud_vidda.html"><img src="maps/blud_vidda/0/0/0.png" width="200" height="200" /></a> | <a href="kerama.html"><img src="maps/kerama/0/0/0.png" width="200" height="200" /></a> 
+
 
 Content under
 
