@@ -79,10 +79,13 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <a href="cam_lao_nam.html"><img src="maps/cam_lao_nam/0/0/0.png" width="200" height="200" /></a> | <a href="gulfcoast.html"><img src="maps/gulfcoast/0/0/0.png" width="200" height="200" /></a> | <a href="Placeholder.html"><img src="maps/Placeholder/0/0/0.png" width="200" height="200" /></a> |
 
-| [Saint Kapaulio](kapaulio.html)                                                            |
-| ------------------------------------------------------------------------------------------ | 
-| <a href="kapaulio.html"><img src="maps/kapaulio/0/0/0.png" width="200" height="200" /></a> | 
+| [Cam Lao Nam](cam_lao_nam.html)                                                                        | [GulfCoast](gulfcoast.html)                                                        | [Saint Kapaulio](kapaulio.html)                                                            |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | 
+| <a href="cam_lao_nam.html"><img src="maps/cam_lao_nam/0/0/0.png" width="200" height="200" /></a> | <a href="gulfcoast.html"><img src="maps/gulfcoast/0/0/0.png" width="200" height="200" /></a> | <a href="kapaulio.html"><img src="maps/kapaulio/0/0/0.png" width="200" height="200" /></a> 
 
+| [Sefrouramal](sefrouramal.html)                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+| <a href="sefrouramal.html"><img src="maps/sefrouramal/0/0/0.png" width="200" height="200" /></a>             |
 
 Content under
 
