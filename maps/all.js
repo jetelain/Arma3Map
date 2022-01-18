@@ -507,6 +507,112 @@ Arma3Map.Maps.beketov = {
     }
   ]
 };
+Arma3Map.Maps.blud_vidda = {
+  CRS: MGRS_CRS(0.023625, 0.023625, 291),
+  "worldName": "blud_vidda",
+  "tilePattern": "/maps/blud_vidda/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 291,
+  "center": [
+    6144,
+    6144
+  ],
+  "worldSize": 12288.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Vidda",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Skrukkedal",
+      "x": 457.86,
+      "y": 2549.25
+    },
+    {
+      "name": "Skrevedal Industripark",
+      "x": 2648.66,
+      "y": 2062.18
+    },
+    {
+      "name": "Skrevemo",
+      "x": 2761.64,
+      "y": 2348.45
+    },
+    {
+      "name": "Nordheimske Grubeselskab",
+      "x": 1882.5,
+      "y": 4466.94
+    },
+    {
+      "name": "Filledal",
+      "x": 5316.92,
+      "y": 1604.14
+    },
+    {
+      "name": "Rotevangen",
+      "x": 4548.0,
+      "y": 3834.88
+    },
+    {
+      "name": "Filledal Energi",
+      "x": 5769.17,
+      "y": 1162.49
+    },
+    {
+      "name": "Tokatun",
+      "x": 664.77,
+      "y": 6308.56
+    },
+    {
+      "name": "Kneggeli",
+      "x": 4621.41,
+      "y": 6025.99
+    },
+    {
+      "name": "Skranglavangen",
+      "x": 6377.66,
+      "y": 4413.45
+    },
+    {
+      "name": "Underslaget Industri",
+      "x": 6812.89,
+      "y": 4168.3
+    },
+    {
+      "name": "Luskedal",
+      "x": 6753.75,
+      "y": 7468.34
+    },
+    {
+      "name": "Nedre Luskedal",
+      "x": 7688.81,
+      "y": 6901.0
+    },
+    {
+      "name": "Skyggedalen",
+      "x": 10509.4,
+      "y": 6753.8
+    },
+    {
+      "name": "Snikesnoken Hyttetun",
+      "x": 8596.3,
+      "y": 10287.6
+    },
+    {
+      "name": "Skrangledal Bruk",
+      "x": 10740.0,
+      "y": 8030.02
+    },
+    {
+      "name": "Skranglefjell Energi",
+      "x": 10866.5,
+      "y": 9210.71
+    }
+  ]
+};
 Arma3Map.Maps.cam_lao_nam = {
   CRS: MGRS_CRS(0.01575, 0.01575, 323),
   "worldName": "cam_lao_nam",
@@ -3350,6 +3456,26 @@ Arma3Map.Maps.fata = {
     }
   ]
 };
+Arma3Map.Maps.gossi = {
+  CRS: MGRS_CRS(0.0039375, 0.0039375, 323),
+  "worldName": "gossi",
+  "tilePattern": "/maps/gossi/{z}/{x}/{y}.png",
+  "maxZoom": 7,
+  "minZoom": 0,
+  "defaultZoom": 3,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    40960,
+    40960
+  ],
+  "worldSize": 81920.0,
+  "preview": null,
+  "dlc": null,
+  "title": "GOSSI, Mali",
+  "steamWorkshop": null,
+  "cities": []
+};
 Arma3Map.Maps.gulfcoast = {
   CRS: MGRS_CRS(0.01575, 0.01575, 242),
   "worldName": "gulfcoast",
@@ -4324,6 +4450,67 @@ Arma3Map.Maps.kapaulio = {
       "name": "Sole",
       "x": 446.98,
       "y": 939.13
+    }
+  ]
+};
+Arma3Map.Maps.kerama = {
+  CRS: MGRS_CRS(0.0118125, 0.0118125, 242),
+  "worldName": "kerama",
+  "tilePattern": "/maps/kerama/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 242,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Les Veterans Kerama Islands",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Ryoushi Mura",
+      "x": 12558.3,
+      "y": 8395.9
+    },
+    {
+      "name": "Tsuribito Mura",
+      "x": 12484.6,
+      "y": 4633.26
+    },
+    {
+      "name": "Akatoshi",
+      "x": 10467.1,
+      "y": 11333.5
+    },
+    {
+      "name": "Black_mesa",
+      "x": 10084.9,
+      "y": 11745.0
+    },
+    {
+      "name": "Rejidensu Konami",
+      "x": 7943.8,
+      "y": 13057.5
+    },
+    {
+      "name": "Fujinwan Industrial Zone",
+      "x": 10299.2,
+      "y": 14902.7
+    },
+    {
+      "name": "Spec-Ops Base",
+      "x": 13092.7,
+      "y": 16341.0
+    },
+    {
+      "name": "Secret submarine base",
+      "x": 11506.2,
+      "y": 17330.9
     }
   ]
 };
