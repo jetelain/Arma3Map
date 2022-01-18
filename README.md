@@ -75,14 +75,18 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | [Chernarus 2020](cup_chernarus_a3.html)                                                                        | [Chernarus A3S](chernarus_a3s.html)                                                        | [Beketov](beketov.html)                                                        |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <a href="cup_chernarus_a3.html"><img src="maps/cup_chernarus_a3/0/0/0.png" width="200" height="200" /></a> | <a href="chernarus_a3s.html"><img src="maps/chernarus_a3s/0/0/0.png" width="200" height="200" /></a> | <a href="beketov.html"><img src="maps/beketov/0/0/0.png" width="200" height="200" /></a> |
+| [Cam Lao Nam](cam_lao_nam.html)                                                                        | [GulfCoast](gulfcoast.html)                                                        | [Beketov](Placeholder.html)                                                        |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| <a href="cam_lao_nam.html"><img src="maps/cam_lao_nam/0/0/0.png" width="200" height="200" /></a> | <a href="gulfcoast.html"><img src="maps/gulfcoast/0/0/0.png" width="200" height="200" /></a> | <a href="Placeholder.html"><img src="maps/Placeholder/0/0/0.png" width="200" height="200" /></a> |
 
 | [Cam Lao Nam](cam_lao_nam.html)                                                                        | [GulfCoast](gulfcoast.html)                                                        | [Saint Kapaulio](kapaulio.html)                                                            |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | 
 | <a href="cam_lao_nam.html"><img src="maps/cam_lao_nam/0/0/0.png" width="200" height="200" /></a> | <a href="gulfcoast.html"><img src="maps/gulfcoast/0/0/0.png" width="200" height="200" /></a> | <a href="kapaulio.html"><img src="maps/kapaulio/0/0/0.png" width="200" height="200" /></a> 
 
-| [Sefrouramal](sefrouramal.html)                                                                              |
-| ------------------------------------------------------------------------------------------------------------ |
-| <a href="sefrouramal.html"><img src="maps/sefrouramal/0/0/0.png" width="200" height="200" /></a>             |
+|  [Sefrouramal](sefrouramal.html)                                                                         | [Vidda](blud_vidda.html)                                                        | [Kerama](kerama.html)                                                            |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | 
+| <a href="sefrouramal.html"><img src="maps/sefrouramal/0/0/0.png" width="200" height="200" /></a>   | <a href="blud_vidda.html"><img src="maps/blud_vidda/0/0/0.png" width="200" height="200" /></a> | <a href="kerama.html"><img src="maps/kerama/0/0/0.png" width="200" height="200" /></a> 
+
 
 Content under
 
