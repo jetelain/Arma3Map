@@ -144,6 +144,7 @@ Content under
 - Beketov: Unspecified License. &copy; Dead_Kennedy, SenChi.
 - Saint Kapaulio: [EULA](https://steamcommunity.com/sharedfiles/filedetails/?id=939686262). &copy; {God-father}.
 - Mull of Kintyre: Unspecified License. &copy; Ice.
+- Scottish Highlands: Unspecified License. &copy; Big Jim.
 
 # How to use
 
