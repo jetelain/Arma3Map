@@ -87,6 +87,9 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | 
 | <a href="sefrouramal.html"><img src="maps/sefrouramal/0/0/0.png" width="200" height="200" /></a>   | <a href="blud_vidda.html"><img src="maps/blud_vidda/0/0/0.png" width="200" height="200" /></a> | <a href="kerama.html"><img src="maps/kerama/0/0/0.png" width="200" height="200" /></a> 
 
+|  [Mull of Kintyre](rof_mok.html)                                                                         | [Scottish Highlands](oski_corran.html)                                                                         |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| <a href="rof_mok.html"><img src="maps/rof_mok/0/0/0.png" width="200" height="200" /></a>  |  <a href="oski_corran.html"><img src="maps/oski_corran/0/0/0.png" width="200" height="200" /></a>   |
 
 Content under
 
@@ -140,6 +143,8 @@ Content under
 - Napf Island (winter): Unspecified License. &copy; Momo & ANixon.
 - Beketov: Unspecified License. &copy; Dead_Kennedy, SenChi.
 - Saint Kapaulio: [EULA](https://steamcommunity.com/sharedfiles/filedetails/?id=939686262). &copy; {God-father}.
+- Mull of Kintyre: Unspecified License. &copy; Ice.
+- Scottish Highlands: Unspecified License. &copy; Big Jim.
 
 # How to use
 
