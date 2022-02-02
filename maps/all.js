@@ -6148,6 +6148,52 @@ Arma3Map.Maps.napfwinter = {
     }
   ]
 };
+Arma3Map.Maps.oski_corran = {
+  CRS: MGRS_CRS(0.0234375, 0.0234375, 241),
+  "worldName": "oski_corran",
+  "tilePattern": "/maps/oski_corran/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 241,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Scottish Highlands",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Clovullin",
+      "x": 4530.58,
+      "y": 3587.94
+    },
+    {
+      "name": "Onich",
+      "x": 6461.95,
+      "y": 1777.22
+    },
+    {
+      "name": "Bunree",
+      "x": 6301.59,
+      "y": 3164.35
+    },
+    {
+      "name": "Corran",
+      "x": 6328.3,
+      "y": 3810.98
+    },
+    {
+      "name": "North Ballachulish",
+      "x": 9475.56,
+      "y": 724.24
+    }
+  ]
+};
 Arma3Map.Maps.pabst_yellowstone = {
   CRS: MGRS_CRS(0.0315, 0.0315, 323),
   "worldName": "pabst_yellowstone",
@@ -7336,6 +7382,67 @@ Arma3Map.Maps.rhspkl = {
       "name": "Phoum Srei Aphsok",
       "x": 4319.83,
       "y": 6804.02
+    }
+  ]
+};
+Arma3Map.Maps.rof_mok = {
+  CRS: MGRS_CRS(0.01171875, 0.01171875, 289),
+  "worldName": "rof_mok",
+  "tilePattern": "/maps/rof_mok/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 289,
+  "center": [
+    12288,
+    12288
+  ],
+  "worldSize": 24576.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Mull of Kintyre, Scotland",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Stewarton",
+      "x": 13195.9,
+      "y": 16499.9
+    },
+    {
+      "name": "Drumlemble",
+      "x": 9827.96,
+      "y": 16275.4
+    },
+    {
+      "name": "Campbeltown",
+      "x": 15789.8,
+      "y": 17057.3
+    },
+    {
+      "name": "Machrihanish",
+      "x": 7522.68,
+      "y": 17283.6
+    },
+    {
+      "name": "Southend",
+      "x": 12815.6,
+      "y": 5046.78
+    },
+    {
+      "name": "West Darlochan",
+      "x": 10040.2,
+      "y": 20189.9
+    },
+    {
+      "name": "Kilchenzie",
+      "x": 10946.0,
+      "y": 21554.7
+    },
+    {
+      "name": "Peninver",
+      "x": 19416.9,
+      "y": 21571.6
     }
   ]
 };
