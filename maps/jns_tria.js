@@ -12,10 +12,10 @@ Arma3Map.Maps.jns_tria = {
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/775115788664548220/6083A389BB320771BDE24958F18D34F0671E0668/",
   "dlc": null,
   "title": "Tria",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1914285758",
   "cities": [
     {
       "name": "Argracull Sawmill",

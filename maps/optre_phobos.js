@@ -15,6 +15,6 @@ Arma3Map.Maps.optre_phobos = {
   "preview": null,
   "dlc": null,
   "title": "Phobos",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=769440155",
   "cities": []
 };

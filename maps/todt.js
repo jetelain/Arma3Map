@@ -12,9 +12,9 @@ Arma3Map.Maps.todt = {
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/975478281513685453/78E0C07D15A2F726530F04D41605FAC98729F7F0/",
   "dlc": null,
   "title": "Todt",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1458210741",
   "cities": []
 };

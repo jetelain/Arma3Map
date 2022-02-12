@@ -4192,6 +4192,42 @@ Arma3Map.Maps.isladuala3 = {
     }
   ]
 };
+Arma3Map.Maps.jns_tria = {
+  CRS: MGRS_CRS(0.02475, 0.02475, 254),
+  "worldName": "jns_tria",
+  "tilePattern": "/maps/jns_tria/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 254,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/775115788664548220/6083A389BB320771BDE24958F18D34F0671E0668/",
+  "dlc": null,
+  "title": "Tria",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1914285758",
+  "cities": [
+    {
+      "name": "Argracull Sawmill",
+      "x": 3557.12,
+      "y": 3529.95
+    },
+    {
+      "name": "Soapy's Scrapyard",
+      "x": 2150.1,
+      "y": 3162.88
+    },
+    {
+      "name": "Tria",
+      "x": 3943.37,
+      "y": 1968.86
+    }
+  ]
+};
 Arma3Map.Maps.kapaulio = {
   CRS: MGRS_CRS(0.01575, 0.01575, 323),
   "worldName": "kapaulio",
@@ -6147,6 +6183,26 @@ Arma3Map.Maps.napfwinter = {
       "y": 3205.85
     }
   ]
+};
+Arma3Map.Maps.optre_phobos = {
+  CRS: MGRS_CRS(0.012375, 0.012375, 203),
+  "worldName": "optre_phobos",
+  "tilePattern": "/maps/optre_phobos/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 203,
+  "center": [
+    8192,
+    8192
+  ],
+  "worldSize": 16384.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Phobos",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=769440155",
+  "cities": []
 };
 Arma3Map.Maps.oski_corran = {
   CRS: MGRS_CRS(0.0234375, 0.0234375, 241),
@@ -8833,6 +8889,26 @@ Arma3Map.Maps.tem_suursaariv = {
       "y": 1054.06
     }
   ]
+};
+Arma3Map.Maps.todt = {
+  CRS: MGRS_CRS(0.02475, 0.02475, 254),
+  "worldName": "todt",
+  "tilePattern": "/maps/todt/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 254,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/975478281513685453/78E0C07D15A2F726530F04D41605FAC98729F7F0/",
+  "dlc": null,
+  "title": "Todt",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1458210741",
+  "cities": []
 };
 Arma3Map.Maps.uzbin = {
     CRS: MGRS_CRS(0.0233, 0.0233, 287),
