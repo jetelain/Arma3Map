@@ -48,17 +48,21 @@ a3me_export = {
 
 	systemChat "Taking screenshots for HiRes...";
 
-	INFO("Start");
+	if ( worldSize < 40960 ) then {
 
-	"mapExportExtension" callExtension ["histart", [worldName, worldSize]];
+		INFO("Start");
 
-	(_calibrateData call FUNC(recalibrate)) call FUNC(screenShotLoop);
+		"mapExportExtension" callExtension ["histart", [worldName, worldSize]];
 
-	systemChat "Generate tiles for HiRes...";
-	sleep 0.2;
+		(_calibrateData call FUNC(recalibrate)) call FUNC(screenShotLoop);
 
-	INFO("Stop");
-	"mapExportExtension" callExtension ["histop", [worldName, worldSize]];
+		systemChat "Generate tiles for HiRes...";
+		sleep 0.2;
+
+		INFO("Stop");
+		"mapExportExtension" callExtension ["histop", [worldName, worldSize]];
+
+	};
 
 	systemChat "It's done !";
 
