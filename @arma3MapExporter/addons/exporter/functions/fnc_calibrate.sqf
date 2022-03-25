@@ -10,6 +10,9 @@ private _w = _size;
 private _h = _size;
 
 private _zoom1 = getNumber (configFile >> "CfgWorlds" >> worldName >> "Grid" >> "Zoom1" >> "zoomMax");
+if ( _zoom1 < 0.001 ) then {
+	_zoom1 = 0.5;
+};
 private _zoom = _zoom1;
 
 private _control = (findDisplay 12) displayCtrl 51;
