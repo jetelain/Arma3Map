@@ -2,7 +2,7 @@ Arma3Map.Maps.deniland = {
   CRS: MGRS_CRS(0.007875, 0.007875, 323),
   "worldName": "deniland",
   "tilePattern": "/maps/deniland/{z}/{x}/{y}.png",
-  "maxZoom": 7,
+  "maxZoom": 6,
   "minZoom": 0,
   "defaultZoom": 3,
   "attribution": "&copy; Bohemia Interactive",
