@@ -86,7 +86,12 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 
 |  [Mull of Kintyre](rof_mok.html)                                                                         | [Scottish Highlands](oski_corran.html)                                                                         | [Deniland](deniland.html)                                                                         |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| <a href="rof_mok.html"><img src="maps/rof_mok/0/0/0.png" width="200" height="200" /></a>  |  <a href="oski_corran.html"><img src="maps/oski_corran/0/0/0.png" width="200" height="200" /></a>   |  <a href="oski_corran.html"><img src="maps/deniland/0/0/0.png" width="200" height="200" /></a>   |
+| <a href="rof_mok.html"><img src="maps/rof_mok/0/0/0.png" width="200" height="200" /></a>  |  <a href="oski_corran.html"><img src="maps/oski_corran/0/0/0.png" width="200" height="200" /></a>   |  <a href="deniland.html"><img src="maps/deniland/0/0/0.png" width="200" height="200" /></a>   |
+
+|  [Weferlingen](gm_weferlingen.html)                                                                    | 
+| ------------------------------------------------------------------------------------------------------ | 
+| <a href="gm_weferlingen.html"><img src="maps/gm_weferlingen/0/0/0.png" width="200" height="200" /></a> |  
+
 
 Content under
 
