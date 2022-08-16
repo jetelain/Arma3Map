@@ -2481,9 +2481,19 @@ Arma3Map.Maps.cup_chernarus_a3 = {
       "y": 5424.78
     },
     {
+      "name": "Severograd",
+      "x": 8238.12,
+      "y": 12645.1
+    },
+    {
       "name": "Orlovets",
       "x": 12131.0,
       "y": 7189.79
+    },
+    {
+      "name": "Ratnoe",
+      "x": 6210.14,
+      "y": 12759.3
     },
     {
       "name": "Berezino",
@@ -2521,6 +2531,11 @@ Arma3Map.Maps.cup_chernarus_a3 = {
       "y": 8097.7
     },
     {
+      "name": "Kalinovka",
+      "x": 7675.56,
+      "y": 13490.8
+    },
+    {
       "name": "Vavilovo",
       "x": 2339.08,
       "y": 11014.5
@@ -2529,6 +2544,11 @@ Arma3Map.Maps.cup_chernarus_a3 = {
       "name": "Balota",
       "x": 4527.58,
       "y": 2465.32
+    },
+    {
+      "name": "Polesovo",
+      "x": 5961.13,
+      "y": 13548.2
     },
     {
       "name": "Khelm",
@@ -2551,9 +2571,14 @@ Arma3Map.Maps.cup_chernarus_a3 = {
       "y": 2499.0
     },
     {
+      "name": "Arsenovo",
+      "x": 8548.14,
+      "y": 13915.4
+    },
+    {
       "name": "Novaya Petrovka",
-      "x": 3477.17,
-      "y": 12931.2
+      "x": 3520.59,
+      "y": 12975.5
     },
     {
       "name": "Zabolotye",
@@ -2581,9 +2606,24 @@ Arma3Map.Maps.cup_chernarus_a3 = {
       "y": 4369.49
     },
     {
+      "name": "Svergino",
+      "x": 9519.59,
+      "y": 13927.8
+    },
+    {
       "name": "Pavlovo",
       "x": 1693.98,
       "y": 3858.65
+    },
+    {
+      "name": "Kamensk",
+      "x": 6740.33,
+      "y": 14434.3
+    },
+    {
+      "name": "Skalka",
+      "x": 5723.22,
+      "y": 14500.5
     },
     {
       "name": "Sinystok",
@@ -2596,9 +2636,29 @@ Arma3Map.Maps.cup_chernarus_a3 = {
       "y": 5222.08
     },
     {
+      "name": "Nagornoe",
+      "x": 9298.66,
+      "y": 14673.0
+    },
+    {
+      "name": "Krasnoe",
+      "x": 6638.92,
+      "y": 15108.9
+    },
+    {
+      "name": "Stary Yar",
+      "x": 4997.14,
+      "y": 15011.3
+    },
+    {
       "name": "Kamenka",
       "x": 1853.09,
       "y": 2249.85
+    },
+    {
+      "name": "Cernaya Polana",
+      "x": 12062.0,
+      "y": 13778.8
     },
     {
       "name": "Tisy",
@@ -2606,9 +2666,44 @@ Arma3Map.Maps.cup_chernarus_a3 = {
       "y": 14799.5
     },
     {
+      "name": "Novodmitrovsk",
+      "x": 11434.8,
+      "y": 14441.3
+    },
+    {
       "name": "Olsha",
-      "x": 13331.0,
-      "y": 12900.0
+      "x": 13390.4,
+      "y": 12944.9
+    },
+    {
+      "name": "Svetloyarsk",
+      "x": 14014.5,
+      "y": 13286.6
+    },
+    {
+      "name": "Karmanovka",
+      "x": 12719.8,
+      "y": 14693.2
+    },
+    {
+      "name": "Turovo",
+      "x": 13643.5,
+      "y": 14117.8
+    },
+    {
+      "name": "Dobroye",
+      "x": 12984.3,
+      "y": 15056.4
+    },
+    {
+      "name": "Berezhki",
+      "x": 15105.6,
+      "y": 13863.8
+    },
+    {
+      "name": "Belaya Polyana",
+      "x": 14158.9,
+      "y": 14983.0
     }
   ]
 };
@@ -5055,6 +5150,228 @@ Arma3Map.Maps.gulfcoast = {
     }
   ]
 };
+Arma3Map.Maps.hellanmaa = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 259),
+  "worldName": "hellanmaa",
+  "tilePattern": "/maps/hellanmaa/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive, Temppa",
+  "tileSize": 259,
+  "center": [
+    4096,
+    4096
+  ],
+  "worldSize": 8192.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/766100671613747219/A8D5C8D5F0081C7B437BE8EC86320C64BAAFCF41/",
+  "dlc": null,
+  "title": "Hellanmaa",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1291778160",
+  "cities": [
+    {
+      "name": "Somppi",
+      "x": 3671.91,
+      "y": 4959.02
+    },
+    {
+      "name": "Hööpakka",
+      "x": 4477.26,
+      "y": 3097.97
+    },
+    {
+      "name": "Nyman",
+      "x": 3614.89,
+      "y": 2739.61
+    },
+    {
+      "name": "Kangas",
+      "x": 6379.1,
+      "y": 3631.21
+    },
+    {
+      "name": "Kokkila",
+      "x": 1744.55,
+      "y": 4381.99
+    },
+    {
+      "name": "Juusola",
+      "x": 5714.66,
+      "y": 2239.68
+    },
+    {
+      "name": "Koivikko",
+      "x": 3828.52,
+      "y": 6949.44
+    },
+    {
+      "name": "Troihari",
+      "x": 1433.23,
+      "y": 3019.2
+    },
+    {
+      "name": "Huhtala",
+      "x": 6889.9,
+      "y": 2647.93
+    },
+    {
+      "name": "Luoma",
+      "x": 6235.93,
+      "y": 6781.47
+    },
+    {
+      "name": "Taipale",
+      "x": 7214.69,
+      "y": 5550.09
+    },
+    {
+      "name": "Jankos industrial area",
+      "x": 2534.91,
+      "y": 970.66
+    },
+    {
+      "name": "Kettula",
+      "x": 5551.55,
+      "y": 901.966
+    },
+    {
+      "name": "Heikkola",
+      "x": 3696.09,
+      "y": 7763.39
+    },
+    {
+      "name": "Kouras metal",
+      "x": 5589.31,
+      "y": 673.45
+    },
+    {
+      "name": "Kontio",
+      "x": 7795.29,
+      "y": 3240.44
+    },
+    {
+      "name": "Rautakorpi",
+      "x": 752.514,
+      "y": 6470.37
+    },
+    {
+      "name": "Jussila",
+      "x": 7420.74,
+      "y": 7381.69
+    }
+  ]
+};
+Arma3Map.Maps.hellanmaa = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 259),
+  "worldName": "hellanmaaw",
+  "tilePattern": "/maps/hellanmaaw/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive, Temppa",
+  "tileSize": 259,
+  "center": [
+    4096,
+    4096
+  ],
+  "worldSize": 8192.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/766100671613747219/A8D5C8D5F0081C7B437BE8EC86320C64BAAFCF41/",
+  "dlc": null,
+  "title": "Hellanmaa (Winter)",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1291778160",
+  "cities": [
+    {
+      "name": "Somppi",
+      "x": 3671.91,
+      "y": 4959.02
+    },
+    {
+      "name": "Hööpakka",
+      "x": 4477.26,
+      "y": 3097.97
+    },
+    {
+      "name": "Nyman",
+      "x": 3614.89,
+      "y": 2739.61
+    },
+    {
+      "name": "Kangas",
+      "x": 6379.1,
+      "y": 3631.21
+    },
+    {
+      "name": "Kokkila",
+      "x": 1744.55,
+      "y": 4381.99
+    },
+    {
+      "name": "Juusola",
+      "x": 5714.66,
+      "y": 2239.68
+    },
+    {
+      "name": "Koivikko",
+      "x": 3828.52,
+      "y": 6949.44
+    },
+    {
+      "name": "Troihari",
+      "x": 1433.23,
+      "y": 3019.2
+    },
+    {
+      "name": "Huhtala",
+      "x": 6889.9,
+      "y": 2647.93
+    },
+    {
+      "name": "Luoma",
+      "x": 6235.93,
+      "y": 6781.47
+    },
+    {
+      "name": "Taipale",
+      "x": 7214.69,
+      "y": 5550.09
+    },
+    {
+      "name": "Jankos industrial area",
+      "x": 2534.91,
+      "y": 970.66
+    },
+    {
+      "name": "Kettula",
+      "x": 5551.55,
+      "y": 901.966
+    },
+    {
+      "name": "Heikkola",
+      "x": 3696.09,
+      "y": 7763.39
+    },
+    {
+      "name": "Kouras metal",
+      "x": 5589.31,
+      "y": 673.45
+    },
+    {
+      "name": "Kontio",
+      "x": 7795.29,
+      "y": 3240.44
+    },
+    {
+      "name": "Rautakorpi",
+      "x": 752.514,
+      "y": 6470.37
+    },
+    {
+      "name": "Jussila",
+      "x": 7420.74,
+      "y": 7381.69
+    }
+  ]
+};
 Arma3Map.Maps.hindukush = {
   CRS: MGRS_CRS(0.01575, 0.01575, 323),
   "worldName": "hindukush",
@@ -7447,6 +7764,127 @@ Arma3Map.Maps.napfwinter = {
     }
   ]
 };
+Arma3Map.Maps.northtakistan = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 388),
+  "worldName": "northtakistan",
+  "tilePattern": "/maps/northtakistan/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive, Rezlind",
+  "tileSize": 388,
+  "center": [
+    6144,
+    6144
+  ],
+  "worldSize": 12288.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1854935712687722184/C23928C65F5F6BFB14AE6078FD426315E1346038/",
+  "dlc": null,
+  "title": "North Takistan",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2829330653",
+  "cities": [
+    {
+      "name": "Kushkak",
+      "x": 9086.47,
+      "y": 9917.7
+    },
+    {
+      "name": "Chahe Shrin",
+      "x": 11136.9,
+      "y": 9386.36
+    },
+    {
+      "name": "Raqol",
+      "x": 8060.08,
+      "y": 10604.2
+    },
+    {
+      "name": "Yakavlang",
+      "x": 7363.7,
+      "y": 9624.75
+    },
+    {
+      "name": "Sar e Bolaq",
+      "x": 8654.81,
+      "y": 7711.5
+    },
+    {
+      "name": "Zavarak",
+      "x": 9579.86,
+      "y": 6416.76
+    },
+    {
+      "name": "Laura",
+      "x": 5891.81,
+      "y": 8873.55
+    },
+    {
+      "name": "Kharu",
+      "x": 10192.8,
+      "y": 4935.7
+    },
+    {
+      "name": "Qorghan",
+      "x": 4617.84,
+      "y": 10211.4
+    },
+    {
+      "name": "Sagram",
+      "x": 8681.77,
+      "y": 4100.03
+    },
+    {
+      "name": "Tarchi",
+      "x": 3780.15,
+      "y": 9557.66
+    },
+    {
+      "name": "Jamak",
+      "x": 2815.63,
+      "y": 9703.32
+    },
+    {
+      "name": "Chaman",
+      "x": 2593.27,
+      "y": 10438.1
+    },
+    {
+      "name": "Rasman",
+      "x": 3195.05,
+      "y": 6141.51
+    },
+    {
+      "name": "Mantiq",
+      "x": 671.16,
+      "y": 9251.09
+    },
+    {
+      "name": "Imarat",
+      "x": 4470.62,
+      "y": 2035.19
+    },
+    {
+      "name": "Zari",
+      "x": 2038.4,
+      "y": 3789.51
+    },
+    {
+      "name": "Sarqul",
+      "x": 963.58,
+      "y": 5446.8
+    },
+    {
+      "name": "Garmarund",
+      "x": 5856.84,
+      "y": 586.15
+    },
+    {
+      "name": "Bastam",
+      "x": 2179.17,
+      "y": 2095.48
+    }
+  ]
+};
 Arma3Map.Maps.optre_phobos = {
   CRS: MGRS_CRS(0.012375, 0.012375, 203),
   "worldName": "optre_phobos",
@@ -8387,6 +8825,222 @@ Arma3Map.Maps.pja310 = {
       "name": "Al Nabq",
       "x": 949.0,
       "y": 18424.0
+    }
+  ]
+};
+Arma3Map.Maps.pja314 = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "pja314",
+  "tilePattern": "/maps/pja314/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive, GOS Makhno",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/155774065785146372/84F4CE205EEE47BEB46762616514A65129F420C9/",
+  "dlc": null,
+  "title": "G.O.S Leskovets",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=855464203",
+  "cities": [
+    {
+      "name": "Izvos",
+      "x": 11744.0,
+      "y": 10578.0
+    },
+    {
+      "name": "Karbinti",
+      "x": 12192.0,
+      "y": 12992.0
+    },
+    {
+      "name": "Prevalna",
+      "x": 12613.0,
+      "y": 7925.0
+    },
+    {
+      "name": "Medovnitza",
+      "x": 7829.0,
+      "y": 12373.0
+    },
+    {
+      "name": "Krachimir",
+      "x": 10761.0,
+      "y": 6896.0
+    },
+    {
+      "name": "Varbotchev",
+      "x": 14968.0,
+      "y": 11149.0
+    },
+    {
+      "name": "Dalgo Pole",
+      "x": 10697.0,
+      "y": 14945.0
+    },
+    {
+      "name": "Rabisha",
+      "x": 7248.0,
+      "y": 14707.0
+    },
+    {
+      "name": "Granichak",
+      "x": 7559.0,
+      "y": 5890.0
+    },
+    {
+      "name": "Silvonik",
+      "x": 5581.0,
+      "y": 13183.0
+    },
+    {
+      "name": "Gorna Luka",
+      "x": 16226.0,
+      "y": 7833.0
+    },
+    {
+      "name": "Shipol",
+      "x": 14923.0,
+      "y": 15105.0
+    },
+    {
+      "name": "Makresh",
+      "x": 8782.0,
+      "y": 16888.0
+    },
+    {
+      "name": "Yanyovets",
+      "x": 17484.0,
+      "y": 10074.0
+    },
+    {
+      "name": "Prauzhda",
+      "x": 4152.0,
+      "y": 8931.0
+    },
+    {
+      "name": "Kireevo",
+      "x": 3867.0,
+      "y": 12402.0
+    },
+    {
+      "name": "Slatina",
+      "x": 12244.0,
+      "y": 3560.0
+    },
+    {
+      "name": "Izvor",
+      "x": 17416.0,
+      "y": 14537.0
+    },
+    {
+      "name": "Rakovista",
+      "x": 13798.0,
+      "y": 18140.0
+    },
+    {
+      "name": "Diva Slatina",
+      "x": 8196.0,
+      "y": 2843.0
+    },
+    {
+      "name": "Varba",
+      "x": 3337.0,
+      "y": 14308.0
+    },
+    {
+      "name": "Brankovitsi",
+      "x": 11335.0,
+      "y": 19109.0
+    },
+    {
+      "name": "Stakesvit",
+      "x": 19199.0,
+      "y": 7993.0
+    },
+    {
+      "name": "Gramada",
+      "x": 5762.0,
+      "y": 17812.0
+    },
+    {
+      "name": "Valkesh",
+      "x": 16492.0,
+      "y": 17354.0
+    },
+    {
+      "name": "Berkovitsa",
+      "x": 10073.0,
+      "y": 1684.0
+    },
+    {
+      "name": "Salash",
+      "x": 2802.0,
+      "y": 6484.0
+    },
+    {
+      "name": "Vartop",
+      "x": 1790.0,
+      "y": 11954.0
+    },
+    {
+      "name": "Barzia",
+      "x": 14826.0,
+      "y": 2366.0
+    },
+    {
+      "name": "Varbono",
+      "x": 18559.0,
+      "y": 5226.0
+    },
+    {
+      "name": "Zamfirovo",
+      "x": 13714.0,
+      "y": 542.0
+    },
+    {
+      "name": "Oshane",
+      "x": 1319.0,
+      "y": 15797.0
+    },
+    {
+      "name": "Leskovets",
+      "x": 18144.0,
+      "y": 2354.0
+    },
+    {
+      "name": "Damyanovo",
+      "x": 2368.0,
+      "y": 3077.0
+    },
+    {
+      "name": "Kostensi",
+      "x": 4013.0,
+      "y": 1425.0
+    },
+    {
+      "name": "Balyuvitsa",
+      "x": 17768.0,
+      "y": 1154.0
+    },
+    {
+      "name": "Kosta",
+      "x": 2193.0,
+      "y": 18635.0
+    },
+    {
+      "name": "Kladorub",
+      "x": 18463.0,
+      "y": 20002.0
+    },
+    {
+      "name": "Zhelezna",
+      "x": 166.0,
+      "y": 1584.0
     }
   ]
 };
