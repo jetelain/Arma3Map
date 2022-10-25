@@ -1325,6 +1325,32 @@ Arma3Map.Maps.cam_lao_nam = {
     }
   ]
 };
+Arma3Map.Maps.cfb_moosehead = {
+  CRS: MGRS_CRS(0.012375, 0.012375, 254),
+  "worldName": "cfb_moosehead",
+  "tilePattern": "/maps/cfb_moosehead/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 254,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Canadian Forces Base Moosehead",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Canadian Forces Base Moosehead",
+      "x": 15696.8,
+      "y": 9635.37
+    }
+  ]
+};
 Arma3Map.Maps.chernarus = {
   CRS: MGRS_CRS(0.01575, 0.01575, 242),
   "worldName": "chernarus",
