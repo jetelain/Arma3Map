@@ -92,9 +92,14 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | <a href="gm_weferlingen.html"><img src="maps/gm_weferlingen/0/0/0.png" width="200" height="200" /></a> | <a href="pja314.html"><img src="maps/pja314/0/0/0.png" width="200" height="200" /></a> | <a href="hellanmaa.html"><img src="maps/hellanmaa/0/0/0.png" width="200" height="200" /></a> |
 
+| [Bozcaada](bozcaada.html)                                                                  | [G.O.S Kalu Khan](pja306.html)                                                         | [UMB Colombia](umb_colombia.html)                                                                  |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <a href="bozcaada.html"><img src="maps/bozcaada/0/0/0.png" width="200" height="200" /></a> | <a href="pja306.html"><img src="maps/pja306/0/0/0.png" width="200" height="200" /></a> | <a href="umb_colombia.html"><img src="maps/umb_colombia/0/0/0.png" width="200" height="200" /></a> |
+
 | [North Takistan](northtakistan.html)                                                                 |
 | ---------------------------------------------------------------------------------------------------- |
 | <a href="northtakistan.html"><img src="maps/northtakistan/0/0/0.png" width="200" height="200" /></a> |
+
 
 Content under
 
@@ -153,6 +158,9 @@ Content under
 - Deniland: Unspecified License. &copy; Marko.
 - G.O.S Leskovets: Unspecified License. &copy; GOS_Makhno.
 - Hellanmaa: Unspecified License. &copy; Temppa.
+- Bozcaada: Unspecified License. &copy; Cirav.
+- G.O.S Kalu Khan: Unspecified License. &copy; GOS_Makhno.
+- UMB Colombia: Unspecified License. &copy; 77th JSOC.
 - North Takistan: Unspecified License. &copy; Rezlind.
 
 # How to use

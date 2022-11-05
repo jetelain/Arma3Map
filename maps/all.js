@@ -794,6 +794,32 @@ Arma3Map.Maps.blud_vidda = {
     }
   ]
 };
+Arma3Map.Maps.bozcaada = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "bozcaada",
+  "tilePattern": "/maps/bozcaada/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/683776078272263150/2632DE680EA7372F779CA0D82A079B1AF2C5B5B9/",
+  "dlc": null,
+  "title": "Bozcaada",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=524622628",
+  "cities": [
+    {
+      "name": "Merkez",
+      "x": 14169.0,
+      "y": 12146.0
+    }
+  ]
+};
 Arma3Map.Maps.cam_lao_nam = {
   CRS: MGRS_CRS(0.01575, 0.01575, 323),
   "worldName": "cam_lao_nam",
@@ -8425,6 +8451,107 @@ Arma3Map.Maps.pja305 = {
     }
   ]
 };
+Arma3Map.Maps.pja306 = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "pja306",
+  "tilePattern": "/maps/pja306/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/495766099597024484/3A8F5A2C4BD8A426E7199E256F8737E4B154D8EB/",
+  "dlc": null,
+  "title": "G.O.S Kalu Khan",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=643744158",
+  "cities": [
+    {
+      "name": "Hangu",
+      "x": 11163.0,
+      "y": 11563.0
+    },
+    {
+      "name": "Ghorgushti",
+      "x": 14431.0,
+      "y": 11306.0
+    },
+    {
+      "name": "Barkheza",
+      "x": 14955.0,
+      "y": 8868.0
+    },
+    {
+      "name": "Marghan",
+      "x": 6811.0,
+      "y": 12746.0
+    },
+    {
+      "name": "Sarozhay",
+      "x": 8579.0,
+      "y": 5794.0
+    },
+    {
+      "name": "Dagi",
+      "x": 5423.0,
+      "y": 11972.0
+    },
+    {
+      "name": "Addezay",
+      "x": 16642.0,
+      "y": 10585.0
+    },
+    {
+      "name": "Asna Khana",
+      "x": 11516.0,
+      "y": 16593.0
+    },
+    {
+      "name": "Khalu Khan",
+      "x": 17422.0,
+      "y": 12116.0
+    },
+    {
+      "name": "Inzerpayan",
+      "x": 5431.0,
+      "y": 6308.0
+    },
+    {
+      "name": "Sakhakot",
+      "x": 13831.0,
+      "y": 4143.0
+    },
+    {
+      "name": "Ambar",
+      "x": 3571.0,
+      "y": 11431.0
+    },
+    {
+      "name": "Nian Khan",
+      "x": 5747.0,
+      "y": 16954.0
+    },
+    {
+      "name": "Baghor Kalay",
+      "x": 3961.0,
+      "y": 15461.0
+    },
+    {
+      "name": "Topi",
+      "x": 2919.0,
+      "y": 5801.0
+    },
+    {
+      "name": "Chorby",
+      "x": 1514.0,
+      "y": 18371.0
+    }
+  ]
+};
 Arma3Map.Maps.pja307 = {
   CRS: MGRS_CRS(0.01575, 0.01575, 323),
   "worldName": "pja307",
@@ -11033,6 +11160,262 @@ Arma3Map.Maps.todt = {
   "title": "Todt",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1458210741",
   "cities": []
+};
+Arma3Map.Maps.umb_colombia = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "umb_colombia",
+  "tilePattern": "/maps/umb_colombia/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; 77th JSOC, Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1692750740650342553/B6B50A45A4B12C2C1E1692DA3FC4D1738E71FD48/",
+  "dlc": null,
+  "title": "Colombia",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2266710560",
+  "cities": [
+    {
+      "name": "Pital",
+      "x": 2901.05,
+      "y": 6121.72
+    },
+    {
+      "name": "San Luis",
+      "x": 1412.55,
+      "y": 5640.07
+    },
+    {
+      "name": "Los Olivos",
+      "x": 1020.86,
+      "y": 6758.98
+    },
+    {
+      "name": "Castillo San Felipe",
+      "x": 5031.34,
+      "y": 5145.56
+    },
+    {
+      "name": "Necocli",
+      "x": 1025.61,
+      "y": 3334.64
+    },
+    {
+      "name": "Angostura",
+      "x": 208.75,
+      "y": 7178.23
+    },
+    {
+      "name": "Charco Grande",
+      "x": 1254.02,
+      "y": 8979.6
+    },
+    {
+      "name": "Sonson",
+      "x": 1072.31,
+      "y": 2058.92
+    },
+    {
+      "name": "Tubara",
+      "x": 3178.28,
+      "y": 10115.7
+    },
+    {
+      "name": "Monteria",
+      "x": 4726.86,
+      "y": 10956.1
+    },
+    {
+      "name": "Megua",
+      "x": 6114.47,
+      "y": 11186.0
+    },
+    {
+      "name": "San Cordoba",
+      "x": 8939.73,
+      "y": 4020.79
+    },
+    {
+      "name": "Santa Rosa",
+      "x": 3325.64,
+      "y": 12508.6
+    },
+    {
+      "name": "Ovejas",
+      "x": 10430.5,
+      "y": 5406.77
+    },
+    {
+      "name": "Lorica",
+      "x": 7786.08,
+      "y": 12164.5
+    },
+    {
+      "name": "Caucasia",
+      "x": 9545.67,
+      "y": 10500.7
+    },
+    {
+      "name": "Arjona",
+      "x": 11466.5,
+      "y": 7796.6
+    },
+    {
+      "name": "Turbo",
+      "x": 1637.22,
+      "y": 15021.1
+    },
+    {
+      "name": "San Antero",
+      "x": 7160.59,
+      "y": 14510.2
+    },
+    {
+      "name": "Arboletes",
+      "x": 3316.75,
+      "y": 15814.2
+    },
+    {
+      "name": "Puerto Escondido",
+      "x": 5710.77,
+      "y": 15357.4
+    },
+    {
+      "name": "Chinu",
+      "x": 11821.3,
+      "y": 146.39
+    },
+    {
+      "name": "Catalina",
+      "x": 11300.7,
+      "y": 12463.2
+    },
+    {
+      "name": "El Cabro",
+      "x": 12778.3,
+      "y": 10111.5
+    },
+    {
+      "name": "El Barzal",
+      "x": 13009.8,
+      "y": 9833.93
+    },
+    {
+      "name": "Montelibano",
+      "x": 12914.6,
+      "y": 11273.8
+    },
+    {
+      "name": "Carepa",
+      "x": 867.3,
+      "y": 18413.6
+    },
+    {
+      "name": "Sincelejo",
+      "x": 15642.9,
+      "y": 4879.61
+    },
+    {
+      "name": "Chigorodo",
+      "x": 15986.9,
+      "y": 3082.15
+    },
+    {
+      "name": "Valdivia",
+      "x": 16623.6,
+      "y": 5190.53
+    },
+    {
+      "name": "Sambrano",
+      "x": 16119.3,
+      "y": 11209.5
+    },
+    {
+      "name": "Villa Melissa",
+      "x": 15274.3,
+      "y": 13086.6
+    },
+    {
+      "name": "Normadia Farm",
+      "x": 17175.8,
+      "y": 8192.84
+    },
+    {
+      "name": "San Bernando",
+      "x": 15106.9,
+      "y": 14205.0
+    },
+    {
+      "name": "Currulao",
+      "x": 17678.9,
+      "y": 2983.96
+    },
+    {
+      "name": "Briceno",
+      "x": 15016.0,
+      "y": 16393.8
+    },
+    {
+      "name": "Farm Villa Margarita",
+      "x": 19086.7,
+      "y": 6357.91
+    },
+    {
+      "name": "Aquitania",
+      "x": 18882.8,
+      "y": 10872.1
+    },
+    {
+      "name": "Castillo La Victoria",
+      "x": 15794.3,
+      "y": 17184.6
+    },
+    {
+      "name": "El Limon",
+      "x": 19894.9,
+      "y": 9873.8
+    },
+    {
+      "name": "San Antonio",
+      "x": 17865.3,
+      "y": 15721.2
+    },
+    {
+      "name": "La Travesia",
+      "x": 19124.1,
+      "y": 14151.4
+    },
+    {
+      "name": "NameVillage_1",
+      "x": 20095.6,
+      "y": 12598.5
+    },
+    {
+      "name": "NameCity_1",
+      "x": 20095.6,
+      "y": 12622.5
+    },
+    {
+      "name": "NameCityCapital_1",
+      "x": 20095.4,
+      "y": 12650.8
+    },
+    {
+      "name": "San Predro",
+      "x": 20004.5,
+      "y": 13023.0
+    },
+    {
+      "name": "San Bartolo",
+      "x": 20342.5,
+      "y": 15675.5
+    }
+  ]
 };
 Arma3Map.Maps.uzbin = {
     CRS: MGRS_CRS(0.0233, 0.0233, 287),

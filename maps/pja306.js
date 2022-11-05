@@ -1,0 +1,101 @@
+Arma3Map.Maps.pja306 = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "pja306",
+  "tilePattern": "/maps/pja306/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/495766099597024484/3A8F5A2C4BD8A426E7199E256F8737E4B154D8EB/",
+  "dlc": null,
+  "title": "G.O.S Kalu Khan",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=643744158",
+  "cities": [
+    {
+      "name": "Hangu",
+      "x": 11163.0,
+      "y": 11563.0
+    },
+    {
+      "name": "Ghorgushti",
+      "x": 14431.0,
+      "y": 11306.0
+    },
+    {
+      "name": "Barkheza",
+      "x": 14955.0,
+      "y": 8868.0
+    },
+    {
+      "name": "Marghan",
+      "x": 6811.0,
+      "y": 12746.0
+    },
+    {
+      "name": "Sarozhay",
+      "x": 8579.0,
+      "y": 5794.0
+    },
+    {
+      "name": "Dagi",
+      "x": 5423.0,
+      "y": 11972.0
+    },
+    {
+      "name": "Addezay",
+      "x": 16642.0,
+      "y": 10585.0
+    },
+    {
+      "name": "Asna Khana",
+      "x": 11516.0,
+      "y": 16593.0
+    },
+    {
+      "name": "Khalu Khan",
+      "x": 17422.0,
+      "y": 12116.0
+    },
+    {
+      "name": "Inzerpayan",
+      "x": 5431.0,
+      "y": 6308.0
+    },
+    {
+      "name": "Sakhakot",
+      "x": 13831.0,
+      "y": 4143.0
+    },
+    {
+      "name": "Ambar",
+      "x": 3571.0,
+      "y": 11431.0
+    },
+    {
+      "name": "Nian Khan",
+      "x": 5747.0,
+      "y": 16954.0
+    },
+    {
+      "name": "Baghor Kalay",
+      "x": 3961.0,
+      "y": 15461.0
+    },
+    {
+      "name": "Topi",
+      "x": 2919.0,
+      "y": 5801.0
+    },
+    {
+      "name": "Chorby",
+      "x": 1514.0,
+      "y": 18371.0
+    }
+  ]
+};
