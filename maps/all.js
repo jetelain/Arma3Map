@@ -6041,6 +6041,26 @@ Arma3Map.Maps.jns_tria = {
     }
   ]
 };
+Arma3Map.Maps.k9s_bastek = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 259),
+  "worldName": "k9s_bastek",
+  "tilePattern": "/maps/k9s_bastek/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 259,
+  "center": [
+    4096,
+    4096
+  ],
+  "worldSize": 8192.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1851540479274009733/5761007E51889691C1DABD8B003FE0EEFBEE53F9/",
+  "dlc": null,
+  "title": "Bastek",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2684046473",
+  "cities": []
+};
 Arma3Map.Maps.kapaulio = {
   CRS: MGRS_CRS(0.01575, 0.01575, 323),
   "worldName": "kapaulio",
@@ -9582,6 +9602,252 @@ Arma3Map.Maps.pulau = {
     }
   ]
 };
+Arma3Map.Maps.reshmaan = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "reshmaan",
+  "tilePattern": "/maps/reshmaan/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/106232967020133504/00F200BBEE25DB8191BC1EF9BC542EF37867A3DF/",
+  "dlc": null,
+  "title": "Reshmaan Province",
+  "steamWorkshop": "https://steamcommunity.com/workshop/filedetails/?id=843362862",
+  "cities": [
+    {
+      "name": "Dilshad",
+      "x": 9032.87,
+      "y": 10474.9
+    },
+    {
+      "name": "Ishfaq",
+      "x": 11266.3,
+      "y": 10933.8
+    },
+    {
+      "name": "Derya",
+      "x": 9168.26,
+      "y": 8833.72
+    },
+    {
+      "name": "Ahlam",
+      "x": 12311.5,
+      "y": 10063.9
+    },
+    {
+      "name": "Wahbiyah",
+      "x": 11069.8,
+      "y": 7690.72
+    },
+    {
+      "name": "Kifah",
+      "x": 12884.0,
+      "y": 11480.5
+    },
+    {
+      "name": "Rufaidah",
+      "x": 7380.47,
+      "y": 11793.9
+    },
+    {
+      "name": "Ghazal",
+      "x": 9795.47,
+      "y": 13819.0
+    },
+    {
+      "name": "Salimah",
+      "x": 6691.14,
+      "y": 8655.89
+    },
+    {
+      "name": "Dimah",
+      "x": 9268.45,
+      "y": 5804.54
+    },
+    {
+      "name": "Bushra",
+      "x": 13691.7,
+      "y": 13212.5
+    },
+    {
+      "name": "Adawiyah",
+      "x": 14750.6,
+      "y": 11180.2
+    },
+    {
+      "name": "Johari",
+      "x": 11341.0,
+      "y": 14780.1
+    },
+    {
+      "name": "Dahab",
+      "x": 12504.9,
+      "y": 5996.07
+    },
+    {
+      "name": "Khaatir",
+      "x": 8152.59,
+      "y": 5805.2
+    },
+    {
+      "name": "I'timad",
+      "x": 14853.5,
+      "y": 8233.61
+    },
+    {
+      "name": "Elmas",
+      "x": 5374.81,
+      "y": 12827.2
+    },
+    {
+      "name": "Labibah",
+      "x": 4546.12,
+      "y": 10458.1
+    },
+    {
+      "name": "Efsane",
+      "x": 6561.59,
+      "y": 14629.7
+    },
+    {
+      "name": "Najibah",
+      "x": 15917.4,
+      "y": 9471.12
+    },
+    {
+      "name": "Temirah",
+      "x": 4651.51,
+      "y": 8715.39
+    },
+    {
+      "name": "Usaimah",
+      "x": 9204.34,
+      "y": 4287.16
+    },
+    {
+      "name": "Jabirah",
+      "x": 13451.3,
+      "y": 4857.97
+    },
+    {
+      "name": "Rafi'ah",
+      "x": 13857.8,
+      "y": 15440.5
+    },
+    {
+      "name": "Yafiah",
+      "x": 15984.4,
+      "y": 6964.28
+    },
+    {
+      "name": "Kezban",
+      "x": 16798.8,
+      "y": 11705.9
+    },
+    {
+      "name": "Futun",
+      "x": 5477.67,
+      "y": 15061.9
+    },
+    {
+      "name": "Marzuqah",
+      "x": 9063.44,
+      "y": 17279.2
+    },
+    {
+      "name": "Ghadir",
+      "x": 17489.0,
+      "y": 10749.7
+    },
+    {
+      "name": "Afaf",
+      "x": 3177.04,
+      "y": 8401.22
+    },
+    {
+      "name": "Binnaz",
+      "x": 3394.04,
+      "y": 7209.19
+    },
+    {
+      "name": "Ghufran",
+      "x": 15729.7,
+      "y": 4996.42
+    },
+    {
+      "name": "Asra",
+      "x": 2653.11,
+      "y": 9614.32
+    },
+    {
+      "name": "Hadassah",
+      "x": 16590.4,
+      "y": 14836.6
+    },
+    {
+      "name": "Farhannah",
+      "x": 5573.43,
+      "y": 3901.97
+    },
+    {
+      "name": "Zaleekah",
+      "x": 12638.2,
+      "y": 17796.5
+    },
+    {
+      "name": "Jalilah",
+      "x": 8073.59,
+      "y": 17922.3
+    },
+    {
+      "name": "Bahijah",
+      "x": 5448.89,
+      "y": 16828.9
+    },
+    {
+      "name": "Faaria",
+      "x": 18509.6,
+      "y": 13243.4
+    },
+    {
+      "name": "Sa�diyah",
+      "x": 18247.8,
+      "y": 14937.4
+    },
+    {
+      "name": "Kallista",
+      "x": 1932.77,
+      "y": 5795.79
+    },
+    {
+      "name": "Durrishahwar",
+      "x": 19302.5,
+      "y": 7537.74
+    },
+    {
+      "name": "Wadi'ah",
+      "x": 15721.1,
+      "y": 18149.9
+    },
+    {
+      "name": "Husna",
+      "x": 12573.0,
+      "y": 19588.3
+    },
+    {
+      "name": "Yaprak",
+      "x": 17858.1,
+      "y": 16658.9
+    }
+  ]
+};
 Arma3Map.Maps.rhspkl = {
   CRS: MGRS_CRS(0.0315, 0.0315, 259),
   "worldName": "rhspkl",
@@ -10590,6 +10856,132 @@ Arma3Map.Maps.stratis = {
 		{name:"Girna",x:1935.28,y:2722.61},
 		{name:"Stand de tir de Kamino",x:6401.97,y:5427.13}
 	]
+};
+Arma3Map.Maps.swu_public_salman_map = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 323),
+  "worldName": "swu_public_salman_map",
+  "tilePattern": "/maps/swu_public_salman_map/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1822290456277313941/4B3D305ACDD575E20D18F0218532C878304C156A/",
+  "dlc": null,
+  "title": "Al Salman, Iraq",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2857846877",
+  "cities": [
+    {
+      "name": "Al Humran",
+      "x": 5387.38,
+      "y": 5645.5
+    },
+    {
+      "name": "Nugrat Al Salman",
+      "x": 5823.2,
+      "y": 5658.71
+    },
+    {
+      "name": "Sahwani Bazaar",
+      "x": 4366.43,
+      "y": 5718.24
+    },
+    {
+      "name": "Sahwani Suburb",
+      "x": 4344.54,
+      "y": 5906.36
+    },
+    {
+      "name": "Al Salman East",
+      "x": 4469.67,
+      "y": 6169.3
+    },
+    {
+      "name": "Al Jazari Suburb",
+      "x": 4639.03,
+      "y": 6443.31
+    },
+    {
+      "name": "Hadaniah Suburb",
+      "x": 3638.43,
+      "y": 5070.31
+    },
+    {
+      "name": "Old Town",
+      "x": 3367.36,
+      "y": 5454.3
+    },
+    {
+      "name": "Salman Bazaar",
+      "x": 3628.21,
+      "y": 6254.83
+    },
+    {
+      "name": "Al Salman",
+      "x": 3139.18,
+      "y": 5756.43
+    },
+    {
+      "name": "Al Nazari Suburb",
+      "x": 2984.59,
+      "y": 5350.03
+    },
+    {
+      "name": "Al Badalah",
+      "x": 4318.22,
+      "y": 7192.36
+    },
+    {
+      "name": "Hajarya Suburb",
+      "x": 2745.83,
+      "y": 6289.15
+    },
+    {
+      "name": "Balawat",
+      "x": 6032.64,
+      "y": 8127.04
+    },
+    {
+      "name": "Rahimiya",
+      "x": 7525.31,
+      "y": 2863.68
+    },
+    {
+      "name": "An Rayah",
+      "x": 4910.84,
+      "y": 8599.67
+    },
+    {
+      "name": "Al Kihr",
+      "x": 1827.52,
+      "y": 3512.63
+    },
+    {
+      "name": "Al Awja",
+      "x": 8421.98,
+      "y": 6725.73
+    },
+    {
+      "name": "Karabilah",
+      "x": 8047.56,
+      "y": 7428.18
+    },
+    {
+      "name": "Abyahreza",
+      "x": 1999.77,
+      "y": 2886.62
+    },
+    {
+      "name": "Al Massoud",
+      "x": 3513.85,
+      "y": 9383.66
+    }
+  ]
 };
 Arma3Map.Maps.takistan = {
   CRS: MGRS_CRS(0.01575, 0.01575, 202),
