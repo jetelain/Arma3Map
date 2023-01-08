@@ -7072,6 +7072,207 @@ Arma3Map.Maps.malden = {
 		{name:"Moray",x:883.14,y:11987.7}
 	]
 };
+Arma3Map.Maps.mbg_celle2 = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 388),
+  "worldName": "mbg_celle2",
+  "tilePattern": "/maps/mbg_celle2/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 388,
+  "center": [
+    6144,
+    6144
+  ],
+  "worldSize": 12288.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Celle 2",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Celle",
+      "x": 9067.69,
+      "y": 1988.27
+    },
+    {
+      "name": "Klein Hehlen",
+      "x": 8348.98,
+      "y": 2635.89
+    },
+    {
+      "name": "Hehlentor",
+      "x": 8911.28,
+      "y": 2793.67
+    },
+    {
+      "name": "Vorwerk",
+      "x": 9365.95,
+      "y": 3108.48
+    },
+    {
+      "name": "Gross Hehlen",
+      "x": 8500.42,
+      "y": 3363.01
+    },
+    {
+      "name": "Scheuen",
+      "x": 8930.55,
+      "y": 3805.13
+    },
+    {
+      "name": "Hambühren",
+      "x": 7049.5,
+      "y": 2520.97
+    },
+    {
+      "name": "Wienhausen",
+      "x": 10962.0,
+      "y": 811.64
+    },
+    {
+      "name": "Ovelgönne",
+      "x": 6221.78,
+      "y": 2533.27
+    },
+    {
+      "name": "Wolthausen",
+      "x": 7122.55,
+      "y": 4602.42
+    },
+    {
+      "name": "Lachendorf",
+      "x": 11985.5,
+      "y": 2339.78
+    },
+    {
+      "name": "Südwinsen",
+      "x": 5717.8,
+      "y": 3674.09
+    },
+    {
+      "name": "Winsen (Aller)",
+      "x": 5862.2,
+      "y": 4198.39
+    },
+    {
+      "name": "Eversen",
+      "x": 8453.91,
+      "y": 6150.34
+    },
+    {
+      "name": "Wietze",
+      "x": 4609.16,
+      "y": 2985.27
+    },
+    {
+      "name": "Fuhrberg",
+      "x": 4677.03,
+      "y": 433.82
+    },
+    {
+      "name": "Walle",
+      "x": 6159.16,
+      "y": 5665.47
+    },
+    {
+      "name": "Eschede",
+      "x": 11794.6,
+      "y": 5773.47
+    },
+    {
+      "name": "Offen",
+      "x": 7053.31,
+      "y": 6672.1
+    },
+    {
+      "name": "Meissendorf",
+      "x": 4562.7,
+      "y": 5484.22
+    },
+    {
+      "name": "Beckedorf",
+      "x": 8589.44,
+      "y": 8144.54
+    },
+    {
+      "name": "Mellendorf",
+      "x": 2441.4,
+      "y": 1215.15
+    },
+    {
+      "name": "Bergen",
+      "x": 6756.78,
+      "y": 8151.98
+    },
+    {
+      "name": "Thören",
+      "x": 2651.06,
+      "y": 3992.44
+    },
+    {
+      "name": "Hermannsburg",
+      "x": 9105.99,
+      "y": 8919.22
+    },
+    {
+      "name": "Lindwedel",
+      "x": 1747.13,
+      "y": 2070.91
+    },
+    {
+      "name": "Bonstorf",
+      "x": 8371.02,
+      "y": 9614.13
+    },
+    {
+      "name": "Müden",
+      "x": 9526.69,
+      "y": 10034.0
+    },
+    {
+      "name": "Schwarmstedt",
+      "x": 402.81,
+      "y": 3937.03
+    },
+    {
+      "name": "Hademstorf",
+      "x": 632.69,
+      "y": 5039.7
+    },
+    {
+      "name": "Fassberg",
+      "x": 10512.3,
+      "y": 10630.3
+    },
+    {
+      "name": "Wietzendorf",
+      "x": 7064.23,
+      "y": 11399.8
+    },
+    {
+      "name": "Fallingbostel",
+      "x": 1749.16,
+      "y": 9442.23
+    },
+    {
+      "name": "Düshorn",
+      "x": 664.31,
+      "y": 8691.12
+    },
+    {
+      "name": "Dorfmark",
+      "x": 3041.55,
+      "y": 10937.2
+    },
+    {
+      "name": "Benefeld",
+      "x": 809.88,
+      "y": 11073.0
+    }
+  ]
+};
 Arma3Map.Maps.mcn_aliabad = {
   CRS: MGRS_CRS(0.063, 0.063, 323),
   "worldName": "mcn_aliabad",
@@ -11810,63 +12011,240 @@ Arma3Map.Maps.umb_colombia = {
   ]
 };
 Arma3Map.Maps.uzbin = {
-    CRS: MGRS_CRS(0.0233, 0.0233, 287),
-    tilePattern: '/maps/uzbin/{z}/{x}/{y}.png',
-    maxZoom: 5,
-    minZoom: 0,
-    defaultZoom: 2,
-    attribution: '&copy; Dark, Max',
-    tileSize: 287,
-    center: [6144,6144],
-	worldSize: 12288,
-	title:'Uzbin Valley',
-	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=1882424760',
-	preview:'https://steamuserimages-a.akamaihd.net/ugc/772860055254287872/711C3B8F9A686062F5C080D339B3AED75705A35E/',
-	cities: [
-		{name:"Bushti",x:6435.7,y:5610.02},
-		{name:"Bozakhel",x:6802.34,y:6152.57},
-		{name:"Srah Qal'ah",x:7305.75,y:6723.86},
-		{name:"Arawu",x:6235.83,y:4657.51},
-		{name:"Idak",x:4348.42,y:6364.71},
-		{name:"Gwan",x:5642.23,y:4345.76},
-		{name:"Lakarlam",x:5860.36,y:4288.53},
-		{name:"Anjiran",x:5263.78,y:4067.57},
-		{name:"Bazarak",x:5364.06,y:3874.57},
-		{name:"Hajellah",x:8115.88,y:4399.91},
-		{name:"Sarhad",x:9001.97,y:6919.12},
-		{name:"Daftani",x:9163.83,y:5340.65},
-		{name:"Yarkanay",x:7608.97,y:9185.83},
-		{name:"Dabak",x:4901.47,y:2844.58},
-		{name:"Qal'ah-ye Kalan",x:7634.67,y:9596.24},
-		{name:"Ghorak",x:9622.5,y:7629.25},
-		{name:"Gabray",x:4309.27,y:2836.22},
-		{name:"Bezkheyl",x:8270.22,y:9369.37},
-		{name:"Mazare-Sharif",x:10116.3,y:5245.69},
-		{name:"Koti",x:7548.01,y:10178.7},
-		{name:"Ab Kalak",x:2221.22,y:4420.7},
-		{name:"Farman",x:10381.2,y:5282.57},
-		{name:"Fadzal Kala",x:4839.52,y:1853.59},
-		{name:"Tadzhak",x:6133.67,y:10717.6},
-		{name:"Dabar-Nau",x:4716.33,y:1676.99},
-		{name:"Lewaniyan",x:8573.2,y:10210.3},
-		{name:"Spin Kunday",x:10747.7,y:4948.27},
-		{name:"Industrial site",x:10660.2,y:4580.02},
-		{name:"Edelkhel",x:4054.22,y:1781.27},
-		{name:"Dabuzay",x:3047.52,y:2148.33},
-		{name:"Versek",x:5916.72,y:11195},
-		{name:"Ebrahim Khel",x:3249.33,y:1795.14},
-		{name:"Lakan",x:8838.75,y:10696.2},
-		{name:"Machalghu",x:9265.27,y:10497},
-		{name:"Dabkalay",x:3341.83,y:1528.15},
-		{name:"Sper Kunday",x:11696.7,y:4353.34},
-		{name:"Madras",x:9602.97,y:11264.1},
-		{name:"Hija",x:3302.91,y:442.86},
-		{name:"Lagarak",x:2979.36,y:366.42},
-		{name:"Padzhan",x:10056.4,y:11515.6},
-		{name:"Rabat",x:10021.4,y:11764.5},
-		{name:"Pahn Darrah",x:10532.9,y:11899},
-		{name:"Rabat Waysi",x:10737.2,y:12182.9}
-	]
+  CRS: MGRS_CRS(0.01575, 0.01575, 291),
+  "worldName": "uzbin",
+  "tilePattern": "/maps/uzbin/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 291,
+  "center": [
+    9216,
+    9216
+  ],
+  "worldSize": 18432.0,
+  "preview": null,
+  "dlc": null,
+  "title": "uzbin Valley",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Ab Kalak",
+      "x": 8240.72,
+      "y": 4915.64
+    },
+    {
+      "name": "Dabuzay",
+      "x": 8832.97,
+      "y": 2224.45
+    },
+    {
+      "name": "Lagarak",
+      "x": 5119.72,
+      "y": 1385.63
+    },
+    {
+      "name": "Gabray",
+      "x": 10022.7,
+      "y": 3018.96
+    },
+    {
+      "name": "Idak",
+      "x": 5874.58,
+      "y": 1043.74
+    },
+    {
+      "name": "Ebrahim Khel",
+      "x": 9034.78,
+      "y": 1871.26
+    },
+    {
+      "name": "Anjiran",
+      "x": 11123.5,
+      "y": 4274.49
+    },
+    {
+      "name": "Dabkalay",
+      "x": 9127.28,
+      "y": 1604.27
+    },
+    {
+      "name": "Bazarak",
+      "x": 11223.8,
+      "y": 4054.16
+    },
+    {
+      "name": "Dabak",
+      "x": 10736.2,
+      "y": 3031.56
+    },
+    {
+      "name": "Gwan",
+      "x": 11502.0,
+      "y": 4552.68
+    },
+    {
+      "name": "Edelkhel",
+      "x": 9839.67,
+      "y": 1857.39
+    },
+    {
+      "name": "Lakarlam",
+      "x": 11720.1,
+      "y": 4495.45
+    },
+    {
+      "name": "Arawu",
+      "x": 12150.2,
+      "y": 4883.09
+    },
+    {
+      "name": "Dabar-Nau",
+      "x": 10501.8,
+      "y": 1803.04
+    },
+    {
+      "name": "Fadzal Kala",
+      "x": 10677.5,
+      "y": 1984.89
+    },
+    {
+      "name": "Bushti",
+      "x": 12327.1,
+      "y": 5940.71
+    },
+    {
+      "name": "Hija",
+      "x": 9088.36,
+      "y": 518.98
+    },
+    {
+      "name": "Bozakhel",
+      "x": 12726.6,
+      "y": 6476.69
+    },
+    {
+      "name": "Srah Qal'ah",
+      "x": 13246.4,
+      "y": 7064.41
+    },
+    {
+      "name": "Versek",
+      "x": 11669.3,
+      "y": 11529.8
+    },
+    {
+      "name": "Yarkanay",
+      "x": 13628.5,
+      "y": 9680.77
+    },
+    {
+      "name": "Tadzhak",
+      "x": 12998.3,
+      "y": 11029.2
+    },
+    {
+      "name": "Qal'ah-ye Kalan",
+      "x": 13603.7,
+      "y": 10099.6
+    },
+    {
+      "name": "Koti",
+      "x": 13502.3,
+      "y": 10711.5
+    },
+    {
+      "name": "Bezkheyl",
+      "x": 14289.7,
+      "y": 9864.31
+    },
+    {
+      "name": "Sarhad",
+      "x": 15054.3,
+      "y": 7285.95
+    },
+    {
+      "name": "Daftani",
+      "x": 15228.6,
+      "y": 5629.43
+    },
+    {
+      "name": "Lewaniyan",
+      "x": 14674.2,
+      "y": 10784.0
+    },
+    {
+      "name": "Ghorak",
+      "x": 15683.2,
+      "y": 8060.78
+    },
+    {
+      "name": "Mazare-Sharif",
+      "x": 16206.8,
+      "y": 5533.72
+    },
+    {
+      "name": "Lakan",
+      "x": 14866.1,
+      "y": 11246.3
+    },
+    {
+      "name": "Farman",
+      "x": 16451.0,
+      "y": 5509.13
+    },
+    {
+      "name": "Machalghu",
+      "x": 15284.8,
+      "y": 10992.0
+    },
+    {
+      "name": "Industrial site",
+      "x": 16789.8,
+      "y": 4819.83
+    },
+    {
+      "name": "Spin Kunday",
+      "x": 16980.3,
+      "y": 5128.55
+    },
+    {
+      "name": "Madras",
+      "x": 15630.3,
+      "y": 11824.8
+    },
+    {
+      "name": "Hajellah",
+      "x": 16378.1,
+      "y": 1670.27
+    },
+    {
+      "name": "Padzhan",
+      "x": 16083.8,
+      "y": 12073.6
+    },
+    {
+      "name": "Rabat",
+      "x": 15665.1,
+      "y": 12800.8
+    },
+    {
+      "name": "Sper Kunday",
+      "x": 17864.1,
+      "y": 4573.17
+    },
+    {
+      "name": "Pahn Darrah",
+      "x": 16528.7,
+      "y": 13505.6
+    },
+    {
+      "name": "Rabat Waysi",
+      "x": 17085.2,
+      "y": 13763.2
+    }
+  ]
 };
 Arma3Map.Maps.vt5 = {
   CRS: MGRS_CRS(0.063, 0.063, 379),
