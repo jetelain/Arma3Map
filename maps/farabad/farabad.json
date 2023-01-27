@@ -1,0 +1,45 @@
+{
+  "worldName": "farabad",
+  "tilePattern": "/maps/farabad/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 273,
+  "center": [
+    5376,
+    5376
+  ],
+  "worldSize": 10752.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Farabad",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Jazira Oil Refinery",
+      "x": 2383.72,
+      "y": 6048.7
+    },
+    {
+      "name": "Al-Nazara",
+      "x": 101.86,
+      "y": 7741.02
+    },
+    {
+      "name": "Farabad",
+      "x": 4534.29,
+      "y": 5186.77
+    },
+    {
+      "name": "GREEN ZONE",
+      "x": 5104.14,
+      "y": 4948.94
+    },
+    {
+      "name": "Hamza",
+      "x": 8487.0,
+      "y": 3437.78
+    }
+  ]
+}
