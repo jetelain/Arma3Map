@@ -100,9 +100,9 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | <a href="northtakistan.html"><img src="maps/northtakistan/0/0/0.png" width="200" height="200" /></a> | <a href="k9s_bastek.html"><img src="maps/k9s_bastek/0/0/0.png" width="200" height="200" /></a> | <a href="reshmaan.html"><img src="maps/reshmaan/0/0/0.png" width="200" height="200" /></a> |
 
-| [Al Salman, Iraq](swu_public_salman_map.html)                                                                        | [MBG Celle 2](mbg_celle2.html)                                                                 |
-| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <a href="swu_public_salman_map.html"><img src="maps/swu_public_salman_map/0/0/0.png" width="200" height="200" /></a> | <a href="mbg_celle2.html"><img src="maps/mbg_celle2/0/0/0.png" width="200" height="200" /></a> |
+| [Al Salman, Iraq](swu_public_salman_map.html)                                                                        | [MBG Celle 2](mbg_celle2.html)                                                                 | [Fapovo v1.9](fapovo.html)                                                             |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <a href="swu_public_salman_map.html"><img src="maps/swu_public_salman_map/0/0/0.png" width="200" height="200" /></a> | <a href="mbg_celle2.html"><img src="maps/mbg_celle2/0/0/0.png" width="200" height="200" /></a> | <a href="fapovo.html"><img src="maps/fapovo/0/0/0.png" width="200" height="200" /></a> |
 
 
 Content under
@@ -170,6 +170,7 @@ Content under
 - Reshmaan Province: Unspecified License. &copy; 3CB.
 - Bastek: [Arma Public License Share Alike](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). &copy; Vectif.
 - MBG Celle 2: Unspecified License. &copy; Mondkalb.
+- Fapovo v1.9: Unspecified License. &copy; IceBreakr.
 
 # How to use
 
