@@ -1,0 +1,255 @@
+{
+  "worldName": "umb_colombia",
+  "tilePattern": "/maps/umb_colombia/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Colombia",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Pital",
+      "x": 2901.05,
+      "y": 6121.72
+    },
+    {
+      "name": "San Luis",
+      "x": 1412.55,
+      "y": 5640.07
+    },
+    {
+      "name": "Los Olivos",
+      "x": 1020.86,
+      "y": 6758.98
+    },
+    {
+      "name": "Castillo San Felipe",
+      "x": 5031.34,
+      "y": 5145.56
+    },
+    {
+      "name": "Necocli",
+      "x": 1025.61,
+      "y": 3334.64
+    },
+    {
+      "name": "Angostura",
+      "x": 208.75,
+      "y": 7178.23
+    },
+    {
+      "name": "Charco Grande",
+      "x": 1254.02,
+      "y": 8979.6
+    },
+    {
+      "name": "Sonson",
+      "x": 1072.31,
+      "y": 2058.92
+    },
+    {
+      "name": "Tubara",
+      "x": 3178.28,
+      "y": 10115.7
+    },
+    {
+      "name": "Monteria",
+      "x": 4726.86,
+      "y": 10956.1
+    },
+    {
+      "name": "Megua",
+      "x": 6114.47,
+      "y": 11186.0
+    },
+    {
+      "name": "San Cordoba",
+      "x": 8939.73,
+      "y": 4020.79
+    },
+    {
+      "name": "Santa Rosa",
+      "x": 3325.64,
+      "y": 12508.6
+    },
+    {
+      "name": "Ovejas",
+      "x": 10430.5,
+      "y": 5406.77
+    },
+    {
+      "name": "Lorica",
+      "x": 7786.08,
+      "y": 12164.5
+    },
+    {
+      "name": "Caucasia",
+      "x": 9545.67,
+      "y": 10500.7
+    },
+    {
+      "name": "Arjona",
+      "x": 11466.5,
+      "y": 7796.6
+    },
+    {
+      "name": "Turbo",
+      "x": 1637.22,
+      "y": 15021.1
+    },
+    {
+      "name": "San Antero",
+      "x": 7160.59,
+      "y": 14510.2
+    },
+    {
+      "name": "Arboletes",
+      "x": 3316.75,
+      "y": 15814.2
+    },
+    {
+      "name": "Puerto Escondido",
+      "x": 5710.77,
+      "y": 15357.4
+    },
+    {
+      "name": "Chinu",
+      "x": 11821.3,
+      "y": 146.39
+    },
+    {
+      "name": "Catalina",
+      "x": 11300.7,
+      "y": 12463.2
+    },
+    {
+      "name": "El Cabro",
+      "x": 12778.3,
+      "y": 10111.5
+    },
+    {
+      "name": "El Barzal",
+      "x": 13009.8,
+      "y": 9833.93
+    },
+    {
+      "name": "Montelibano",
+      "x": 12914.6,
+      "y": 11273.8
+    },
+    {
+      "name": "Carepa",
+      "x": 867.3,
+      "y": 18413.6
+    },
+    {
+      "name": "Sincelejo",
+      "x": 15642.9,
+      "y": 4879.61
+    },
+    {
+      "name": "Chigorodo",
+      "x": 15986.9,
+      "y": 3082.15
+    },
+    {
+      "name": "Valdivia",
+      "x": 16623.6,
+      "y": 5190.53
+    },
+    {
+      "name": "Sambrano",
+      "x": 16119.3,
+      "y": 11209.5
+    },
+    {
+      "name": "Villa Melissa",
+      "x": 15274.3,
+      "y": 13086.6
+    },
+    {
+      "name": "Normadia Farm",
+      "x": 17175.8,
+      "y": 8192.84
+    },
+    {
+      "name": "San Bernando",
+      "x": 15106.9,
+      "y": 14205.0
+    },
+    {
+      "name": "Currulao",
+      "x": 17678.9,
+      "y": 2983.96
+    },
+    {
+      "name": "Briceno",
+      "x": 15016.0,
+      "y": 16393.8
+    },
+    {
+      "name": "Farm Villa Margarita",
+      "x": 19086.7,
+      "y": 6357.91
+    },
+    {
+      "name": "Aquitania",
+      "x": 18882.8,
+      "y": 10872.1
+    },
+    {
+      "name": "Castillo La Victoria",
+      "x": 15794.3,
+      "y": 17184.6
+    },
+    {
+      "name": "El Limon",
+      "x": 19894.9,
+      "y": 9873.8
+    },
+    {
+      "name": "San Antonio",
+      "x": 17865.3,
+      "y": 15721.2
+    },
+    {
+      "name": "La Travesia",
+      "x": 19124.1,
+      "y": 14151.4
+    },
+    {
+      "name": "NameVillage_1",
+      "x": 20095.6,
+      "y": 12598.5
+    },
+    {
+      "name": "NameCity_1",
+      "x": 20095.6,
+      "y": 12622.5
+    },
+    {
+      "name": "NameCityCapital_1",
+      "x": 20095.4,
+      "y": 12650.8
+    },
+    {
+      "name": "San Predro",
+      "x": 20004.5,
+      "y": 13023.0
+    },
+    {
+      "name": "San Bartolo",
+      "x": 20342.5,
+      "y": 15675.5
+    }
+  ]
+}

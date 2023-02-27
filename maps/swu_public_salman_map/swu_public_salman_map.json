@@ -1,0 +1,125 @@
+{
+  "worldName": "swu_public_salman_map",
+  "tilePattern": "/maps/swu_public_salman_map/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Al Salman, Iraq",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Al Humran",
+      "x": 5387.38,
+      "y": 5645.5
+    },
+    {
+      "name": "Nugrat Al Salman",
+      "x": 5823.2,
+      "y": 5658.71
+    },
+    {
+      "name": "Sahwani Bazaar",
+      "x": 4366.43,
+      "y": 5718.24
+    },
+    {
+      "name": "Sahwani Suburb",
+      "x": 4344.54,
+      "y": 5906.36
+    },
+    {
+      "name": "Al Salman East",
+      "x": 4469.67,
+      "y": 6169.3
+    },
+    {
+      "name": "Al Jazari Suburb",
+      "x": 4639.03,
+      "y": 6443.31
+    },
+    {
+      "name": "Hadaniah Suburb",
+      "x": 3638.43,
+      "y": 5070.31
+    },
+    {
+      "name": "Old Town",
+      "x": 3367.36,
+      "y": 5454.3
+    },
+    {
+      "name": "Salman Bazaar",
+      "x": 3628.21,
+      "y": 6254.83
+    },
+    {
+      "name": "Al Salman",
+      "x": 3139.18,
+      "y": 5756.43
+    },
+    {
+      "name": "Al Nazari Suburb",
+      "x": 2984.59,
+      "y": 5350.03
+    },
+    {
+      "name": "Al Badalah",
+      "x": 4318.22,
+      "y": 7192.36
+    },
+    {
+      "name": "Hajarya Suburb",
+      "x": 2745.83,
+      "y": 6289.15
+    },
+    {
+      "name": "Balawat",
+      "x": 6032.64,
+      "y": 8127.04
+    },
+    {
+      "name": "Rahimiya",
+      "x": 7525.31,
+      "y": 2863.68
+    },
+    {
+      "name": "An Rayah",
+      "x": 4910.84,
+      "y": 8599.67
+    },
+    {
+      "name": "Al Kihr",
+      "x": 1827.52,
+      "y": 3512.63
+    },
+    {
+      "name": "Al Awja",
+      "x": 8421.98,
+      "y": 6725.73
+    },
+    {
+      "name": "Karabilah",
+      "x": 8047.56,
+      "y": 7428.18
+    },
+    {
+      "name": "Abyahreza",
+      "x": 1999.77,
+      "y": 2886.62
+    },
+    {
+      "name": "Al Massoud",
+      "x": 3513.85,
+      "y": 9383.66
+    }
+  ]
+}

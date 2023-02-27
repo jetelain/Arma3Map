@@ -1,7 +1,7 @@
-Arma3Map.Maps.hellanmaa = {
+Arma3Map.Maps.hellanmaaw = {
   CRS: MGRS_CRS(0.0315, 0.0315, 259),
   "worldName": "hellanmaaw",
-  "tilePattern": "/maps/hellanmaaw/{z}/{x}/{y}.png",
+  "tilePattern": "/maps/hellanmaa/{z}/{x}/{y}.png",
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,

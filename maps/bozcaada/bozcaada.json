@@ -1,0 +1,25 @@
+{
+  "worldName": "bozcaada",
+  "tilePattern": "/maps/bozcaada/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Bozcaada",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Merkez",
+      "x": 14169.0,
+      "y": 12146.0
+    }
+  ]
+}
