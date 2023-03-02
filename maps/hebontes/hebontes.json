@@ -1,0 +1,195 @@
+{
+  "worldName": "hebontes",
+  "tilePattern": "/maps/hebontes/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 229,
+  "center": [
+    9216,
+    9216
+  ],
+  "worldSize": 18432.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Hebontes",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Air Station Mike 25",
+      "x": 12704.6,
+      "y": 9435.6
+    },
+    {
+      "name": "Range 4 Urban-Ops",
+      "x": 13445.7,
+      "y": 7798.62
+    },
+    {
+      "name": "Formerly Erinia",
+      "x": 4585.73,
+      "y": 10035.7
+    },
+    {
+      "name": "Formerly Kourouni",
+      "x": 10486.3,
+      "y": 13860.0
+    },
+    {
+      "name": "Range 3 Anti-Tank",
+      "x": 9684.5,
+      "y": 4180.43
+    },
+    {
+      "name": "Range 2 Grenades",
+      "x": 8913.63,
+      "y": 3695.31
+    },
+    {
+      "name": "Formerly Kathero",
+      "x": 3753.77,
+      "y": 8202.75
+    },
+    {
+      "name": "Range 5",
+      "x": 14949.8,
+      "y": 10878.9
+    },
+    {
+      "name": "Range 7",
+      "x": 14737.8,
+      "y": 11871.6
+    },
+    {
+      "name": "Formerly Nifi",
+      "x": 3940.55,
+      "y": 6071.32
+    },
+    {
+      "name": "Range 8",
+      "x": 14072.1,
+      "y": 13150.2
+    },
+    {
+      "name": "Range 1",
+      "x": 6964.55,
+      "y": 2997.38
+    },
+    {
+      "name": "Range 15",
+      "x": 3023.94,
+      "y": 11544.2
+    },
+    {
+      "name": "Range 6",
+      "x": 15532.6,
+      "y": 11294.7
+    },
+    {
+      "name": "Tank Test Range",
+      "x": 13871.5,
+      "y": 14257.9
+    },
+    {
+      "name": "Range 16",
+      "x": 1929.09,
+      "y": 10600.8
+    },
+    {
+      "name": "Artillery firing pos 1",
+      "x": 8359.42,
+      "y": 16606.5
+    },
+    {
+      "name": "Range 9",
+      "x": 13348.6,
+      "y": 15592.3
+    },
+    {
+      "name": "Kalogria",
+      "x": 8546.5,
+      "y": 16950.1
+    },
+    {
+      "name": "Ormos",
+      "x": 9533.3,
+      "y": 17122.0
+    },
+    {
+      "name": "Range 10",
+      "x": 12655.6,
+      "y": 16385.2
+    },
+    {
+      "name": "Range 14",
+      "x": 4045.58,
+      "y": 15515.7
+    },
+    {
+      "name": "Saint Phokas",
+      "x": 5384.55,
+      "y": 2001.39
+    },
+    {
+      "name": "Camp Themis",
+      "x": 8619.13,
+      "y": 17439.3
+    },
+    {
+      "name": "Range 11",
+      "x": 5981.44,
+      "y": 16933.2
+    },
+    {
+      "name": "Camp Asteria",
+      "x": 5834.73,
+      "y": 1363.19
+    },
+    {
+      "name": "Range 12",
+      "x": 5513.56,
+      "y": 16934.2
+    },
+    {
+      "name": "Alonaki Gravel Pit",
+      "x": 1404.39,
+      "y": 5141.16
+    },
+    {
+      "name": "Range 18",
+      "x": 4591.47,
+      "y": 1700.14
+    },
+    {
+      "name": "Range 13",
+      "x": 5010.72,
+      "y": 17018.6
+    },
+    {
+      "name": "Air to Ground Target Range",
+      "x": 15837.5,
+      "y": 3269.69
+    },
+    {
+      "name": "Range 17",
+      "x": 2976.13,
+      "y": 2771.33
+    },
+    {
+      "name": "Artillery firing pos 2",
+      "x": 3943.68,
+      "y": 16852.2
+    },
+    {
+      "name": "Akhili",
+      "x": 3862.81,
+      "y": 17182.7
+    },
+    {
+      "name": "Aiolos Airfield",
+      "x": 939.61,
+      "y": 1164.79
+    }
+  ]
+}
