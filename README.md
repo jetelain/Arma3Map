@@ -112,6 +112,13 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <a href="porto.html"><img src="maps/porto/0/0/0.png" width="200" height="200" /></a> | <a href="cfb_moosehead.html"><img src="maps/cfb_moosehead/0/0/0.png" width="200" height="200" /></a> | <a href="belavezhsk.html"><img src="maps/belavezhsk/0/0/0.png" width="200" height="200" /></a> |
 
+| [Shanghai - Nanjing 1937](eaw_map.html)                                                  | [Yangtze Landing Zone](eaw_village_1.html)                                                           | [Mountain Passes](eaw_mountainpasses.html)                                                                     |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <a href="eaw_map.html"><img src="maps/eaw_map/0/0/0.png" width="200" height="200" /></a> | <a href="eaw_village_1.html"><img src="maps/eaw_village_1/0/0/0.png" width="200" height="200" /></a> | <a href="eaw_mountainpasses.html"><img src="maps/eaw_mountainpasses/0/0/0.png" width="200" height="200" /></a> |
+
+| [Jungle Skirmish](eaw_jungleskirmish.html)                                                                     |
+| -------------------------------------------------------------------------------------------------------------- |
+| <a href="eaw_jungleskirmish.html"><img src="maps/eaw_jungleskirmish/0/0/0.png" width="200" height="200" /></a> |
 
 Content under
 

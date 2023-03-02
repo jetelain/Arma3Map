@@ -1,0 +1,166 @@
+Arma3Map.Maps.eaw_village_1 = {
+  CRS: MGRS_CRS(0.063, 0.063, 259),
+  "worldName": "eaw_village_1",
+  "tilePattern": "/maps/eaw_village_1/{z}/{x}/{y}.png",
+  "maxZoom": 4,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive, E_50_Panzer",
+  "tileSize": 259,
+  "center": [
+    2048,
+    2048
+  ],
+  "worldSize": 4096.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Yangtze Landing Zone",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2691430448",
+  "cities": [
+    {
+      "name": "Tongliang",
+      "x": 2942.92,
+      "y": 3227.16
+    },
+    {
+      "name": "Ningguang",
+      "x": 3530.02,
+      "y": 3071.47
+    },
+    {
+      "name": "Hangshan",
+      "x": 2648.36,
+      "y": 3136.01
+    },
+    {
+      "name": "Qiqi",
+      "x": 3689.42,
+      "y": 2706.45
+    },
+    {
+      "name": "Zhongshui",
+      "x": 2406.9,
+      "y": 2646.11
+    },
+    {
+      "name": "Nanguan",
+      "x": 1164.63,
+      "y": 2762.54
+    },
+    {
+      "name": "Taichong",
+      "x": 919.82,
+      "y": 2837.5
+    },
+    {
+      "name": "Baowei",
+      "x": 3002.44,
+      "y": 2065.44
+    },
+    {
+      "name": "Tengzuishan",
+      "x": 2063.92,
+      "y": 2106.83
+    },
+    {
+      "name": "Hu",
+      "x": 2260.74,
+      "y": 2035.98
+    },
+    {
+      "name": "Tao",
+      "x": 2378.2,
+      "y": 2011.44
+    },
+    {
+      "name": "Yuanging",
+      "x": 2737.35,
+      "y": 1801.58
+    },
+    {
+      "name": "Tangchang",
+      "x": 3405.18,
+      "y": 1724.91
+    },
+    {
+      "name": "Qinhai",
+      "x": 1027.66,
+      "y": 2024.36
+    },
+    {
+      "name": "Danliang",
+      "x": 3391.36,
+      "y": 1408.44
+    },
+    {
+      "name": "Liaochong",
+      "x": 1914.11,
+      "y": 1487.37
+    },
+    {
+      "name": "Meixing",
+      "x": 1667.59,
+      "y": 1531.46
+    },
+    {
+      "name": "Qihua",
+      "x": 1003.06,
+      "y": 1675.2
+    },
+    {
+      "name": "Fengchun",
+      "x": 1689.94,
+      "y": 1391.25
+    },
+    {
+      "name": "Xuanzhou",
+      "x": 1890.28,
+      "y": 1338.15
+    },
+    {
+      "name": "Shaochong",
+      "x": 3501.77,
+      "y": 989.8
+    },
+    {
+      "name": "Fischl",
+      "x": 2010.0,
+      "y": 1112.9
+    },
+    {
+      "name": "Quxiang",
+      "x": 2306.95,
+      "y": 1024.87
+    },
+    {
+      "name": "Qudao",
+      "x": 1186.19,
+      "y": 1153.73
+    },
+    {
+      "name": "Tangmay",
+      "x": 2662.47,
+      "y": 650.75
+    },
+    {
+      "name": "Suying",
+      "x": 577.63,
+      "y": 1090.04
+    },
+    {
+      "name": "Changhua",
+      "x": 1826.72,
+      "y": 679.5
+    },
+    {
+      "name": "Hangshui",
+      "x": 1638.2,
+      "y": 718.79
+    },
+    {
+      "name": "Jiaoliang",
+      "x": 303.23,
+      "y": 227.14
+    }
+  ]
+};
