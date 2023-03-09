@@ -9938,6 +9938,11 @@ Arma3Map.Maps.northtakistan = {
       "y": 6416.76
     },
     {
+      "name": "Par-e Siah",
+      "x": 7553.18,
+      "y": 6966.99
+    },
+    {
       "name": "Laura",
       "x": 5891.81,
       "y": 8873.55
@@ -9978,14 +9983,24 @@ Arma3Map.Maps.northtakistan = {
       "y": 6141.51
     },
     {
+      "name": "Sarcasma",
+      "x": 8498.0,
+      "y": 1756.77
+    },
+    {
+      "name": "Tazri",
+      "x": 4969.68,
+      "y": 3272.16
+    },
+    {
       "name": "Mantiq",
       "x": 671.16,
       "y": 9251.09
     },
     {
       "name": "Imarat",
-      "x": 4470.62,
-      "y": 2035.19
+      "x": 4881.9,
+      "y": 1561.85
     },
     {
       "name": "Zari",
