@@ -116,9 +116,9 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | <a href="eaw_map.html"><img src="maps/eaw_map/0/0/0.png" width="200" height="200" /></a> | <a href="eaw_village_1.html"><img src="maps/eaw_village_1/0/0/0.png" width="200" height="200" /></a> | <a href="eaw_mountainpasses.html"><img src="maps/eaw_mountainpasses/0/0/0.png" width="200" height="200" /></a> |
 
-| [Jungle Skirmish](eaw_jungleskirmish.html)                                                                     | [Niakala](juju_kalahari.html)                                                                     |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <a href="eaw_jungleskirmish.html"><img src="maps/eaw_jungleskirmish/0/0/0.png" width="200" height="200" /></a> | <a href="juju_kalahari.html"><img src="maps/juju_kalahari/0/0/0.png" width="200" height="200" /></a> |
+| [Jungle Skirmish](eaw_jungleskirmish.html)                                                                     | [Niakala](juju_kalahari.html)                                                                     | [Rut Mandol](jrut_mandol.html)                                                                     |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <a href="eaw_jungleskirmish.html"><img src="maps/eaw_jungleskirmish/0/0/0.png" width="200" height="200" /></a> | <a href="juju_kalahari.html"><img src="maps/juju_kalahari/0/0/0.png" width="200" height="200" /></a> || <a href="rut_mandol.html"><img src="maps/rut_mandol/0/0/0.png" width="200" height="200" /></a> |
 
 Content under
 
