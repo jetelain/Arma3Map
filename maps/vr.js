@@ -1,0 +1,20 @@
+Arma3Map.Maps.vr = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 259),
+  "worldName": "vr",
+  "tilePattern": "/maps/vr/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 259,
+  "center": [
+    4096,
+    4096
+  ],
+  "worldSize": 8192.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Réalité virtuelle",
+  "steamWorkshop": null,
+  "cities": []
+};
