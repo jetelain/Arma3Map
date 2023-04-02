@@ -1,0 +1,221 @@
+Arma3Map.Maps.umb_armavir = {
+  CRS: MGRS_CRS(0.007875, 0.007875, 242),
+  "worldName": "umb_armavir",
+  "tilePattern": "/maps/umb_armavir/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 3,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 242,
+  "center": [
+    15360,
+    15360
+  ],
+  "worldSize": 30720.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/5073899534697910171/6C500A09E7857DC59B97CC397D66288EE26B65A2/",
+  "dlc": null,
+  "title": "Armavir",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2636365838",
+  "cities": [
+    {
+      "name": "Pervomaiskii_Industry",
+      "x": 6071.98,
+      "y": 8633.17
+    },
+    {
+      "name": "Kropotkin",
+      "x": 6968.07,
+      "y": 3127.14
+    },
+    {
+      "name": "Peredovoi Industry",
+      "x": 7089.7,
+      "y": 9937.07
+    },
+    {
+      "name": "Peredovoi Castle",
+      "x": 7980.59,
+      "y": 10553.3
+    },
+    {
+      "name": "Svoboda",
+      "x": 9703.02,
+      "y": 11350.4
+    },
+    {
+      "name": "Sukhoy",
+      "x": 12363.0,
+      "y": 8395.27
+    },
+    {
+      "name": "Tambovskii",
+      "x": 10290.4,
+      "y": 12538.9
+    },
+    {
+      "name": "Lesnoi",
+      "x": 8134.73,
+      "y": 14600.6
+    },
+    {
+      "name": "Lesnoi Base",
+      "x": 8868.19,
+      "y": 14772.9
+    },
+    {
+      "name": "Konokovo",
+      "x": 12937.1,
+      "y": 11205.7
+    },
+    {
+      "name": "Nekrasov",
+      "x": 7101.56,
+      "y": 17490.6
+    },
+    {
+      "name": "Zapadnyy",
+      "x": 14867.6,
+      "y": 10129.5
+    },
+    {
+      "name": "Udarnyy",
+      "x": 15858.0,
+      "y": 5254.88
+    },
+    {
+      "name": "Zapadnyy Industrial",
+      "x": 15449.3,
+      "y": 9849.43
+    },
+    {
+      "name": "Seredinskiy",
+      "x": 8925.25,
+      "y": 18103.2
+    },
+    {
+      "name": "Priozernyy",
+      "x": 4930.95,
+      "y": 19999.8
+    },
+    {
+      "name": "Ukrainskiy",
+      "x": 17584.0,
+      "y": 7696.73
+    },
+    {
+      "name": "Kosyakinskaya",
+      "x": 7189.19,
+      "y": 20707.9
+    },
+    {
+      "name": "Uspenskoye",
+      "x": 18102.1,
+      "y": 9268.5
+    },
+    {
+      "name": "Pavlovskaya",
+      "x": 2804.75,
+      "y": 22687.3
+    },
+    {
+      "name": "Kochergin",
+      "x": 18503.1,
+      "y": 11796.4
+    },
+    {
+      "name": "Krupskii",
+      "x": 5906.34,
+      "y": 22852.6
+    },
+    {
+      "name": "Novolabinskii",
+      "x": 17040.9,
+      "y": 16214.7
+    },
+    {
+      "name": "Beletskiy",
+      "x": 20430.7,
+      "y": 9091.61
+    },
+    {
+      "name": "Loboda",
+      "x": 19681.8,
+      "y": 12375.6
+    },
+    {
+      "name": "Kommayak",
+      "x": 16284.4,
+      "y": 18206.6
+    },
+    {
+      "name": "Malamino",
+      "x": 21673.6,
+      "y": 8533.28
+    },
+    {
+      "name": "Labinsk",
+      "x": 22399.3,
+      "y": 8586.14
+    },
+    {
+      "name": "Izmaylov",
+      "x": 22851.4,
+      "y": 6421.7
+    },
+    {
+      "name": "Mirskoy",
+      "x": 22981.9,
+      "y": 7806.52
+    },
+    {
+      "name": "Georgievskoe",
+      "x": 21559.7,
+      "y": 14051.2
+    },
+    {
+      "name": "Pervaya Siniukha",
+      "x": 7823.16,
+      "y": 26305.8
+    },
+    {
+      "name": "Zuevo Prison",
+      "x": 22521.7,
+      "y": 13902.9
+    },
+    {
+      "name": "Zuevo",
+      "x": 23035.4,
+      "y": 13888.5
+    },
+    {
+      "name": "Proletarskiy",
+      "x": 24989.6,
+      "y": 6652.06
+    },
+    {
+      "name": "Zubodne",
+      "x": 24842.2,
+      "y": 9194.57
+    },
+    {
+      "name": "Edissiya",
+      "x": 22253.3,
+      "y": 17519.2
+    },
+    {
+      "name": "Fortshtadt",
+      "x": 24677.9,
+      "y": 12209.8
+    },
+    {
+      "name": "Stepnoy",
+      "x": 26098.0,
+      "y": 7831.47
+    },
+    {
+      "name": "Prigorodnyy",
+      "x": 19169.8,
+      "y": 22624.0
+    }
+  ]
+};

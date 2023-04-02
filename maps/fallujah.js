@@ -12,10 +12,10 @@ Arma3Map.Maps.fallujah = {
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/2027218195926698912/4A7EB08D44DAC11E3D86C17683CE87FB4C9249FE/",
   "dlc": null,
   "title": "Fallujah 2.0",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2926828901",
   "cities": [
     {
       "name": "Shuhada",

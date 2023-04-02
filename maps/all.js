@@ -5823,6 +5823,87 @@ Arma3Map.Maps.esseker = {
     }
   ]
 };
+Arma3Map.Maps.fallujah = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 323),
+  "worldName": "fallujah",
+  "tilePattern": "/maps/fallujah/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/2027218195926698912/4A7EB08D44DAC11E3D86C17683CE87FB4C9249FE/",
+  "dlc": null,
+  "title": "Fallujah 2.0",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2926828901",
+  "cities": [
+    {
+      "name": "Shuhada",
+      "x": 5591.6,
+      "y": 2971.24
+    },
+    {
+      "name": "Sinai",
+      "x": 5325.3,
+      "y": 3169.46
+    },
+    {
+      "name": "Industrial Park",
+      "x": 5945.92,
+      "y": 4683.81
+    },
+    {
+      "name": "Askari",
+      "x": 6691.42,
+      "y": 5709.56
+    },
+    {
+      "name": "Al-Fallujah",
+      "x": 5479.22,
+      "y": 5103.31
+    },
+    {
+      "name": "Nazal Old City",
+      "x": 4668.68,
+      "y": 4416.84
+    },
+    {
+      "name": "Resafa",
+      "x": 3866.08,
+      "y": 3968.87
+    },
+    {
+      "name": "Jeghaifi",
+      "x": 6014.57,
+      "y": 6381.35
+    },
+    {
+      "name": "Muhandisin",
+      "x": 4387.96,
+      "y": 5428.25
+    },
+    {
+      "name": "Shurta",
+      "x": 5273.68,
+      "y": 6270.66
+    },
+    {
+      "name": "Jolan",
+      "x": 3314.38,
+      "y": 5335.33
+    },
+    {
+      "name": "Mualimeen",
+      "x": 4311.12,
+      "y": 6338.87
+    }
+  ]
+};
 Arma3Map.Maps.fapovo = {
   CRS: MGRS_CRS(0.0315, 0.0315, 323),
   "worldName": "fapovo",
@@ -7919,6 +8000,167 @@ Arma3Map.Maps.jns_tria = {
       "name": "Tria",
       "x": 3943.37,
       "y": 1968.86
+    }
+  ]
+};
+Arma3Map.Maps.juju_kalahari = {
+  CRS: MGRS_CRS(0.0234375, 0.0234375, 241),
+  "worldName": "juju_kalahari",
+  "tilePattern": "/maps/juju_kalahari/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 241,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Niakala",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Cordon",
+      "x": 418.28,
+      "y": 774.69
+    },
+    {
+      "name": "Saheli",
+      "x": 1811.16,
+      "y": 2921.47
+    },
+    {
+      "name": "Cock-Fights",
+      "x": 2547.61,
+      "y": 2587.98
+    },
+    {
+      "name": "Noroti",
+      "x": 2822.25,
+      "y": 478.18
+    },
+    {
+      "name": "Pala",
+      "x": 3018.83,
+      "y": 5560.54
+    },
+    {
+      "name": "Shake-Shake",
+      "x": 5453.31,
+      "y": 832.08
+    },
+    {
+      "name": "Fresh-Fish",
+      "x": 3828.33,
+      "y": 5847.5
+    },
+    {
+      "name": "Farmer-Market",
+      "x": 6259.67,
+      "y": 2017.24
+    },
+    {
+      "name": "Mike's Place",
+      "x": 3525.69,
+      "y": 6533.31
+    },
+    {
+      "name": "Fantasi",
+      "x": 5311.41,
+      "y": 5673.39
+    },
+    {
+      "name": "Dehiba",
+      "x": 2405.52,
+      "y": 7423.77
+    },
+    {
+      "name": "Eladio",
+      "x": 6861.77,
+      "y": 2730.24
+    },
+    {
+      "name": "Tonny",
+      "x": 7076.84,
+      "y": 2140.63
+    },
+    {
+      "name": "Bimbi",
+      "x": 6382.48,
+      "y": 4447.58
+    },
+    {
+      "name": "Kahaki",
+      "x": 5105.91,
+      "y": 6170.02
+    },
+    {
+      "name": "Scrapyard",
+      "x": 2311.42,
+      "y": 7769.94
+    },
+    {
+      "name": "Grower Company",
+      "x": 3141.88,
+      "y": 7615.27
+    },
+    {
+      "name": "Chihiti",
+      "x": 6358.8,
+      "y": 5158.48
+    },
+    {
+      "name": "Tiki",
+      "x": 7727.63,
+      "y": 126.64
+    },
+    {
+      "name": "Wahala",
+      "x": 473.75,
+      "y": 8852.43
+    },
+    {
+      "name": "Slaughter-House",
+      "x": 8424.31,
+      "y": 542.87
+    },
+    {
+      "name": "Shwasana",
+      "x": 5560.75,
+      "y": 7501.46
+    },
+    {
+      "name": "Share Croppers",
+      "x": 1874.55,
+      "y": 9627.2
+    },
+    {
+      "name": "Zavambi",
+      "x": 4272.77,
+      "y": 9453.35
+    },
+    {
+      "name": "Swayly Town",
+      "x": 7218.77,
+      "y": 7410.14
+    },
+    {
+      "name": "Savala",
+      "x": 6270.75,
+      "y": 8378.63
+    },
+    {
+      "name": "Cattle Ranch",
+      "x": 9715.25,
+      "y": 7465.22
+    },
+    {
+      "name": "Duey",
+      "x": 10061.5,
+      "y": 6992.76
     }
   ]
 };
@@ -12387,6 +12629,107 @@ Arma3Map.Maps.ruha = {
     }
   ]
 };
+Arma3Map.Maps.rut_mandol = {
+  CRS: MGRS_CRS(0.01171875, 0.01171875, 385),
+  "worldName": "rut_mandol",
+  "tilePattern": "/maps/rut_mandol/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 385,
+  "center": [
+    16384,
+    16384
+  ],
+  "worldSize": 32768.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Mandol",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Gadyala",
+      "x": 14681.2,
+      "y": 20369.2
+    },
+    {
+      "name": "Astana",
+      "x": 22381.1,
+      "y": 17622.1
+    },
+    {
+      "name": "Atiti",
+      "x": 22225.5,
+      "y": 19952.4
+    },
+    {
+      "name": "Anesh",
+      "x": 12181.9,
+      "y": 22188.7
+    },
+    {
+      "name": "Kajdara",
+      "x": 14289.8,
+      "y": 23542.4
+    },
+    {
+      "name": "Pashshad",
+      "x": 19635.2,
+      "y": 23573.6
+    },
+    {
+      "name": "Ql Shah",
+      "x": 24340.7,
+      "y": 13978.1
+    },
+    {
+      "name": "Kazdeh",
+      "x": 24006.4,
+      "y": 13034.9
+    },
+    {
+      "name": "Pashshad lower",
+      "x": 20668.2,
+      "y": 23583.6
+    },
+    {
+      "name": "Paski",
+      "x": 8074.75,
+      "y": 20610.1
+    },
+    {
+      "name": "Kalat Urbanization Project",
+      "x": 23965.8,
+      "y": 10470.6
+    },
+    {
+      "name": "Candaldari",
+      "x": 24776.6,
+      "y": 10309.1
+    },
+    {
+      "name": "Nilaw",
+      "x": 20576.2,
+      "y": 26985.9
+    },
+    {
+      "name": "Ashnam",
+      "x": 26756.8,
+      "y": 9331.57
+    },
+    {
+      "name": "Mandol",
+      "x": 11497.0,
+      "y": 28696.6
+    },
+    {
+      "name": "laqash",
+      "x": 10754.5,
+      "y": 29543.8
+    }
+  ]
+};
 Arma3Map.Maps.sangin_distirict_helmand_province = {
   CRS: MGRS_CRS(0.063, 0.063, 323),
   "worldName": "sangin_distirict_helmand_province",
@@ -13837,6 +14180,227 @@ Arma3Map.Maps.todt = {
   "title": "Todt",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1458210741",
   "cities": []
+};
+Arma3Map.Maps.umb_armavir = {
+  CRS: MGRS_CRS(0.007875, 0.007875, 242),
+  "worldName": "umb_armavir",
+  "tilePattern": "/maps/umb_armavir/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 3,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 242,
+  "center": [
+    15360,
+    15360
+  ],
+  "worldSize": 30720.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/5073899534697910171/6C500A09E7857DC59B97CC397D66288EE26B65A2/",
+  "dlc": null,
+  "title": "Armavir",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2636365838",
+  "cities": [
+    {
+      "name": "Pervomaiskii_Industry",
+      "x": 6071.98,
+      "y": 8633.17
+    },
+    {
+      "name": "Kropotkin",
+      "x": 6968.07,
+      "y": 3127.14
+    },
+    {
+      "name": "Peredovoi Industry",
+      "x": 7089.7,
+      "y": 9937.07
+    },
+    {
+      "name": "Peredovoi Castle",
+      "x": 7980.59,
+      "y": 10553.3
+    },
+    {
+      "name": "Svoboda",
+      "x": 9703.02,
+      "y": 11350.4
+    },
+    {
+      "name": "Sukhoy",
+      "x": 12363.0,
+      "y": 8395.27
+    },
+    {
+      "name": "Tambovskii",
+      "x": 10290.4,
+      "y": 12538.9
+    },
+    {
+      "name": "Lesnoi",
+      "x": 8134.73,
+      "y": 14600.6
+    },
+    {
+      "name": "Lesnoi Base",
+      "x": 8868.19,
+      "y": 14772.9
+    },
+    {
+      "name": "Konokovo",
+      "x": 12937.1,
+      "y": 11205.7
+    },
+    {
+      "name": "Nekrasov",
+      "x": 7101.56,
+      "y": 17490.6
+    },
+    {
+      "name": "Zapadnyy",
+      "x": 14867.6,
+      "y": 10129.5
+    },
+    {
+      "name": "Udarnyy",
+      "x": 15858.0,
+      "y": 5254.88
+    },
+    {
+      "name": "Zapadnyy Industrial",
+      "x": 15449.3,
+      "y": 9849.43
+    },
+    {
+      "name": "Seredinskiy",
+      "x": 8925.25,
+      "y": 18103.2
+    },
+    {
+      "name": "Priozernyy",
+      "x": 4930.95,
+      "y": 19999.8
+    },
+    {
+      "name": "Ukrainskiy",
+      "x": 17584.0,
+      "y": 7696.73
+    },
+    {
+      "name": "Kosyakinskaya",
+      "x": 7189.19,
+      "y": 20707.9
+    },
+    {
+      "name": "Uspenskoye",
+      "x": 18102.1,
+      "y": 9268.5
+    },
+    {
+      "name": "Pavlovskaya",
+      "x": 2804.75,
+      "y": 22687.3
+    },
+    {
+      "name": "Kochergin",
+      "x": 18503.1,
+      "y": 11796.4
+    },
+    {
+      "name": "Krupskii",
+      "x": 5906.34,
+      "y": 22852.6
+    },
+    {
+      "name": "Novolabinskii",
+      "x": 17040.9,
+      "y": 16214.7
+    },
+    {
+      "name": "Beletskiy",
+      "x": 20430.7,
+      "y": 9091.61
+    },
+    {
+      "name": "Loboda",
+      "x": 19681.8,
+      "y": 12375.6
+    },
+    {
+      "name": "Kommayak",
+      "x": 16284.4,
+      "y": 18206.6
+    },
+    {
+      "name": "Malamino",
+      "x": 21673.6,
+      "y": 8533.28
+    },
+    {
+      "name": "Labinsk",
+      "x": 22399.3,
+      "y": 8586.14
+    },
+    {
+      "name": "Izmaylov",
+      "x": 22851.4,
+      "y": 6421.7
+    },
+    {
+      "name": "Mirskoy",
+      "x": 22981.9,
+      "y": 7806.52
+    },
+    {
+      "name": "Georgievskoe",
+      "x": 21559.7,
+      "y": 14051.2
+    },
+    {
+      "name": "Pervaya Siniukha",
+      "x": 7823.16,
+      "y": 26305.8
+    },
+    {
+      "name": "Zuevo Prison",
+      "x": 22521.7,
+      "y": 13902.9
+    },
+    {
+      "name": "Zuevo",
+      "x": 23035.4,
+      "y": 13888.5
+    },
+    {
+      "name": "Proletarskiy",
+      "x": 24989.6,
+      "y": 6652.06
+    },
+    {
+      "name": "Zubodne",
+      "x": 24842.2,
+      "y": 9194.57
+    },
+    {
+      "name": "Edissiya",
+      "x": 22253.3,
+      "y": 17519.2
+    },
+    {
+      "name": "Fortshtadt",
+      "x": 24677.9,
+      "y": 12209.8
+    },
+    {
+      "name": "Stepnoy",
+      "x": 26098.0,
+      "y": 7831.47
+    },
+    {
+      "name": "Prigorodnyy",
+      "x": 19169.8,
+      "y": 22624.0
+    }
+  ]
 };
 Arma3Map.Maps.umb_colombia = {
   CRS: MGRS_CRS(0.01575, 0.01575, 323),
