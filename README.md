@@ -120,9 +120,9 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <a href="eaw_jungleskirmish.html"><img src="maps/eaw_jungleskirmish/0/0/0.png" width="200" height="200" /></a> | <a href="juju_kalahari.html"><img src="maps/juju_kalahari/0/0/0.png" width="200" height="200" /></a> | <a href="rut_mandol.html"><img src="maps/rut_mandol/0/0/0.png" width="200" height="200" /></a> |
 
-| [Šumava](brf_sumava.html)                                                                      |
-| ---------------------------------------------------------------------------------------------- |
-| <a href="brf_sumava.html"><img src="maps/brf_sumava/0/0/0.png" width="200" height="200" /></a> |
+| [Šumava](brf_sumava.html)                                                                      | [Fallujah 2.0](fallujah.html)                                                              |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <a href="brf_sumava.html"><img src="maps/brf_sumava/0/0/0.png" width="200" height="200" /></a> | <a href="fallujah.html"><img src="maps/fallujah/0/0/0.png" width="200" height="200" /></a> |
 
 Content under
 
