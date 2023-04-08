@@ -124,6 +124,10 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | <a href="brf_sumava.html"><img src="maps/brf_sumava/0/0/0.png" width="200" height="200" /></a> | <a href="fallujah.html"><img src="maps/fallujah/0/0/0.png" width="200" height="200" /></a> | <a href="umb_armavir.html"><img src="maps/umb_armavir/0/0/0.png" width="200" height="200" /></a> |
 
+| [Albasrah](albasrah.html)                                                                  |
+| ------------------------------------------------------------------------------------------ |
+| <a href="albasrah.html"><img src="maps/albasrah/0/0/0.png" width="200" height="200" /></a> |
+
 Content under
 
 - [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive.
