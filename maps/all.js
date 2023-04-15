@@ -217,6 +217,247 @@ Arma3Map.Maps.altis = {
 		{name:"Molos",x:26943.9,y:23170.7}
 	]
 };
+Arma3Map.Maps.australia = {
+  CRS: MGRS_CRS(0.0061875, 0.0061875, 254),
+  "worldName": "australia",
+  "tilePattern": "/maps/australia/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 3,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 254,
+  "center": [
+    20480,
+    20480
+  ],
+  "worldSize": 40960.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Australia v5.09",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Stuart Hwy",
+      "x": 22142.0,
+      "y": 21799.0
+    },
+    {
+      "name": "Coober Pedy",
+      "x": 22300.0,
+      "y": 19289.0
+    },
+    {
+      "name": "Pine Gap",
+      "x": 19764.0,
+      "y": 24355.0
+    },
+    {
+      "name": "SOUTH AUSTRALIA",
+      "x": 23574.0,
+      "y": 17611.0
+    },
+    {
+      "name": "Alice Springs",
+      "x": 22068.0,
+      "y": 25733.0
+    },
+    {
+      "name": "Port Lincoln",
+      "x": 20885.0,
+      "y": 12877.0
+    },
+    {
+      "name": "Broken Hill",
+      "x": 27548.0,
+      "y": 16972.0
+    },
+    {
+      "name": "NORTHERN TERRITORY",
+      "x": 19968.0,
+      "y": 29119.0
+    },
+    {
+      "name": "Adelaide",
+      "x": 24998.0,
+      "y": 12799.0
+    },
+    {
+      "name": "Mount Isa",
+      "x": 26741.0,
+      "y": 28045.0
+    },
+    {
+      "name": "Kangaroo Island",
+      "x": 22742.0,
+      "y": 10794.0
+    },
+    {
+      "name": "Toowoomba",
+      "x": 30955.0,
+      "y": 19997.0
+    },
+    {
+      "name": "Mildura",
+      "x": 27619.0,
+      "y": 12139.0
+    },
+    {
+      "name": "Tailem bend",
+      "x": 26184.0,
+      "y": 11077.0
+    },
+    {
+      "name": "Willcania",
+      "x": 31302.0,
+      "y": 16764.0
+    },
+    {
+      "name": "QUEENSLAND",
+      "x": 31795.0,
+      "y": 22274.0
+    },
+    {
+      "name": "WEST AUSTRALIA",
+      "x": 9496.0,
+      "y": 24709.0
+    },
+    {
+      "name": "Groote Eylandt",
+      "x": 23649.0,
+      "y": 33015.0
+    },
+    {
+      "name": "Darwin",
+      "x": 16792.0,
+      "y": 33699.0
+    },
+    {
+      "name": "Army Base",
+      "x": 33762.0,
+      "y": 15651.0
+    },
+    {
+      "name": "VICTORIA",
+      "x": 31445.0,
+      "y": 11550.0
+    },
+    {
+      "name": "Melbourne",
+      "x": 31096.0,
+      "y": 10425.0
+    },
+    {
+      "name": "Cairns",
+      "x": 32101.0,
+      "y": 29843.0
+    },
+    {
+      "name": "Perth",
+      "x": 5445.0,
+      "y": 18695.0
+    },
+    {
+      "name": "Bathurst",
+      "x": 33886.0,
+      "y": 13318.0
+    },
+    {
+      "name": "Rockhampton",
+      "x": 34946.0,
+      "y": 26147.0
+    },
+    {
+      "name": "Cape Melville",
+      "x": 30767.0,
+      "y": 32797.0
+    },
+    {
+      "name": "Tiwi Island",
+      "x": 17961.0,
+      "y": 36400.0
+    },
+    {
+      "name": "Phillip Island",
+      "x": 31544.0,
+      "y": 8264.0
+    },
+    {
+      "name": "NEW SOUTH WALES",
+      "x": 36404.0,
+      "y": 15413.0
+    },
+    {
+      "name": "Weipa",
+      "x": 28533.0,
+      "y": 35202.0
+    },
+    {
+      "name": "King Island",
+      "x": 30413.0,
+      "y": 6132.0
+    },
+    {
+      "name": "Brisbane",
+      "x": 37954.0,
+      "y": 19933.0
+    },
+    {
+      "name": "Cape Peron",
+      "x": 3739.0,
+      "y": 14857.0
+    },
+    {
+      "name": "Sydney",
+      "x": 36573.0,
+      "y": 12935.0
+    },
+    {
+      "name": "Garden Island",
+      "x": 3333.0,
+      "y": 15441.0
+    },
+    {
+      "name": "Rottnest Island",
+      "x": 2445.0,
+      "y": 16153.0
+    },
+    {
+      "name": "Moreton Island",
+      "x": 39359.0,
+      "y": 22096.0
+    },
+    {
+      "name": "Eden",
+      "x": 35455.0,
+      "y": 8515.0
+    },
+    {
+      "name": "Smithton",
+      "x": 31754.0,
+      "y": 4920.0
+    },
+    {
+      "name": "Flinders Island",
+      "x": 34269.0,
+      "y": 5779.0
+    },
+    {
+      "name": "Launceston",
+      "x": 33135.0,
+      "y": 4076.0
+    },
+    {
+      "name": "TASMANIA",
+      "x": 32948.0,
+      "y": 3675.0
+    },
+    {
+      "name": "Hobart",
+      "x": 33716.0,
+      "y": 3419.0
+    }
+  ]
+};
 Arma3Map.Maps.beketov = {
   CRS: MGRS_CRS(0.01575, 0.01575, 323),
   "worldName": "beketov",
@@ -5622,6 +5863,187 @@ Arma3Map.Maps.eden = {
       "name": "Saint Pierre",
       "x": 9662.0,
       "y": 1605.0
+    }
+  ]
+};
+Arma3Map.Maps.egl_laghisola = {
+  CRS: MGRS_CRS(0.02475, 0.02475, 254),
+  "worldName": "egl_laghisola",
+  "tilePattern": "/maps/egl_laghisola/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 254,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Laghisola",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Baltarni",
+      "x": 5009.06,
+      "y": 5097.35
+    },
+    {
+      "name": "Cape",
+      "x": 5462.44,
+      "y": 6033.29
+    },
+    {
+      "name": "San de Ropa",
+      "x": 4969.53,
+      "y": 4014.44
+    },
+    {
+      "name": "Manikaua",
+      "x": 4658.38,
+      "y": 6512.76
+    },
+    {
+      "name": "Kabypana",
+      "x": 3984.19,
+      "y": 4016.64
+    },
+    {
+      "name": "Fazen",
+      "x": 6014.22,
+      "y": 3663.6
+    },
+    {
+      "name": "Santiani",
+      "x": 3064.11,
+      "y": 4688.19
+    },
+    {
+      "name": "Binora",
+      "x": 7331.06,
+      "y": 5526.37
+    },
+    {
+      "name": "Guaytan",
+      "x": 7352.34,
+      "y": 4409.33
+    },
+    {
+      "name": "Carayan",
+      "x": 4534.25,
+      "y": 2661.38
+    },
+    {
+      "name": "San de Rasna",
+      "x": 6041.09,
+      "y": 7569.4
+    },
+    {
+      "name": "Monte Sore",
+      "x": 2868.77,
+      "y": 6593.38
+    },
+    {
+      "name": "Joia no pantano",
+      "x": 8191.97,
+      "y": 5686.96
+    },
+    {
+      "name": "Itaura",
+      "x": 1958.83,
+      "y": 5771.53
+    },
+    {
+      "name": "Doldrums",
+      "x": 8489.78,
+      "y": 5403.95
+    },
+    {
+      "name": "Saray",
+      "x": 2420.48,
+      "y": 7237.79
+    },
+    {
+      "name": "Penedo",
+      "x": 8528.17,
+      "y": 5727.22
+    },
+    {
+      "name": "Elisio",
+      "x": 8745.44,
+      "y": 5621.59
+    },
+    {
+      "name": "Cacola",
+      "x": 7900.34,
+      "y": 7690.43
+    },
+    {
+      "name": "Valado",
+      "x": 3434.28,
+      "y": 8550.85
+    },
+    {
+      "name": "Verno",
+      "x": 1457.47,
+      "y": 3608.96
+    },
+    {
+      "name": "Palm Oil Hill Resort",
+      "x": 7884.75,
+      "y": 2100.17
+    },
+    {
+      "name": "Vala",
+      "x": 4215.31,
+      "y": 9225.17
+    },
+    {
+      "name": "Tama",
+      "x": 6202.63,
+      "y": 9597.86
+    },
+    {
+      "name": "Cubanua",
+      "x": 9808.53,
+      "y": 5311.35
+    },
+    {
+      "name": "Sollano",
+      "x": 6528.47,
+      "y": 9662.0
+    },
+    {
+      "name": "Marlan",
+      "x": 9884.95,
+      "y": 6172.8
+    },
+    {
+      "name": "Rica",
+      "x": 1201.5,
+      "y": 1998.18
+    },
+    {
+      "name": "Zaro",
+      "x": 1374.41,
+      "y": 1685.44
+    },
+    {
+      "name": "Esperan",
+      "x": 1387.8,
+      "y": 8920.81
+    },
+    {
+      "name": "Komerca",
+      "x": 8879.53,
+      "y": 783.41
+    },
+    {
+      "name": "Monte Cristo Prison",
+      "x": 9417.72,
+      "y": 533.29
     }
   ]
 };
