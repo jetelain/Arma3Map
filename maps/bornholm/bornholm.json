@@ -1,0 +1,235 @@
+{
+  "worldName": "bornholm",
+  "tilePattern": "/maps/bornholm/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 355,
+  "center": [
+    11264,
+    11264
+  ],
+  "worldSize": 22528.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Bornholm",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Oesterlars",
+      "x": 11185.3,
+      "y": 11813.2
+    },
+    {
+      "name": "Oestermarie",
+      "x": 12887.8,
+      "y": 10217.7
+    },
+    {
+      "name": "Saltune",
+      "x": 13066.0,
+      "y": 12712.9
+    },
+    {
+      "name": "Melsted",
+      "x": 11858.5,
+      "y": 14251.3
+    },
+    {
+      "name": "Gudhjem",
+      "x": 11641.9,
+      "y": 14729.1
+    },
+    {
+      "name": "Aarsballe",
+      "x": 7653.64,
+      "y": 10491.1
+    },
+    {
+      "name": "Boelshavn",
+      "x": 15514.4,
+      "y": 11082.8
+    },
+    {
+      "name": "Roe",
+      "x": 8530.97,
+      "y": 15007.7
+    },
+    {
+      "name": "Listed",
+      "x": 16816.1,
+      "y": 10400.7
+    },
+    {
+      "name": "Aakirkeby",
+      "x": 9472.75,
+      "y": 5626.96
+    },
+    {
+      "name": "Klemensker",
+      "x": 5339.02,
+      "y": 12418.8
+    },
+    {
+      "name": "Vestermarie",
+      "x": 5877.45,
+      "y": 8071.07
+    },
+    {
+      "name": "Svaneke",
+      "x": 17864.9,
+      "y": 9878.79
+    },
+    {
+      "name": "Lobbaek",
+      "x": 6418.0,
+      "y": 5848.95
+    },
+    {
+      "name": "Aarsdale",
+      "x": 17960.3,
+      "y": 7955.75
+    },
+    {
+      "name": "Tejn",
+      "x": 6352.75,
+      "y": 17245.6
+    },
+    {
+      "name": "Nyker",
+      "x": 3332.02,
+      "y": 10110.5
+    },
+    {
+      "name": "Nylars",
+      "x": 5320.45,
+      "y": 5716.48
+    },
+    {
+      "name": "Pedersker",
+      "x": 12323.7,
+      "y": 3027.06
+    },
+    {
+      "name": "Olsker",
+      "x": 4910.77,
+      "y": 16908.2
+    },
+    {
+      "name": "Moellevangen",
+      "x": 3302.94,
+      "y": 8290.26
+    },
+    {
+      "name": "Nexoe",
+      "x": 17302.4,
+      "y": 5085.31
+    },
+    {
+      "name": "Boderne",
+      "x": 8906.81,
+      "y": 2525.66
+    },
+    {
+      "name": "Rutsker",
+      "x": 2838.73,
+      "y": 14719.0
+    },
+    {
+      "name": "Muleby",
+      "x": 1996.48,
+      "y": 11200.4
+    },
+    {
+      "name": "Balka",
+      "x": 16548.4,
+      "y": 3648.03
+    },
+    {
+      "name": "Tofte",
+      "x": 1971.47,
+      "y": 11767.5
+    },
+    {
+      "name": "Sorthat",
+      "x": 1932.66,
+      "y": 10737.9
+    },
+    {
+      "name": "Soemarken",
+      "x": 11181.3,
+      "y": 1592.41
+    },
+    {
+      "name": "Arnager",
+      "x": 4227.78,
+      "y": 4564.69
+    },
+    {
+      "name": "Hasle",
+      "x": 1553.53,
+      "y": 13124.5
+    },
+    {
+      "name": "Oester Soemarken",
+      "x": 12028.2,
+      "y": 1329.09
+    },
+    {
+      "name": "Allinge",
+      "x": 4981.0,
+      "y": 19151.6
+    },
+    {
+      "name": "Snogebaek",
+      "x": 16813.5,
+      "y": 2699.6
+    },
+    {
+      "name": "Vang",
+      "x": 2896.38,
+      "y": 17211.7
+    },
+    {
+      "name": "Teglkaas",
+      "x": 1748.18,
+      "y": 15615.2
+    },
+    {
+      "name": "Roenne",
+      "x": 1454.66,
+      "y": 7522.13
+    },
+    {
+      "name": "Strandmarken",
+      "x": 14066.4,
+      "y": 841.98
+    },
+    {
+      "name": "Hammershus",
+      "x": 3355.92,
+      "y": 18824.5
+    },
+    {
+      "name": "Sandvig",
+      "x": 4215.09,
+      "y": 19937.9
+    },
+    {
+      "name": "Dueodde",
+      "x": 15272.5,
+      "y": 317.31
+    },
+    {
+      "name": "Ertholmene",
+      "x": 19237.1,
+      "y": 22434.3
+    },
+    {
+      "name": "Christiansoe",
+      "x": 19907.3,
+      "y": 22143.1
+    }
+  ]
+}
