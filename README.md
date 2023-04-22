@@ -124,9 +124,13 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | <a href="brf_sumava.html"><img src="maps/brf_sumava/0/0/0.png" width="200" height="200" /></a> | <a href="fallujah.html"><img src="maps/fallujah/0/0/0.png" width="200" height="200" /></a> | <a href="umb_armavir.html"><img src="maps/umb_armavir/0/0/0.png" width="200" height="200" /></a> |
 
-| [Albasrah](albasrah.html)                                                                  |
-| ------------------------------------------------------------------------------------------ |
-| <a href="albasrah.html"><img src="maps/albasrah/0/0/0.png" width="200" height="200" /></a> |
+| [Albasrah](albasrah.html)                                                                      | [Archipelago ](archipelago.html)                                                              | [Wake Island](wake.html)                                                                      |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| <a href="albasrah.html"><img src="maps/albasrah/0/0/0.png" width="200" height="200" /></a> | <a href="archipelago.html"><img src="maps/archipelago/0/0/0.png" width="200" height="200" /></a> | <a href="wake.html"><img src="maps/wake/0/0/0.png" width="200" height="200" /></a> |
+
+| [Tembelan Island](tembelan.html)                                                                      | [Diego Garcia](tps_diegogarcia.html)                                                              | [Senkaku Islands 2035](senkakuislands_2035.html)                                                                      |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| <a href="tembelan.html"><img src="maps/tembelan/0/0/0.png" width="200" height="200" /></a> | <a href="tps_diegogarcia.html"><img src="maps/tps_diegogarcia/0/0/0.png" width="200" height="200" /></a> | senkakuislands_2035 |
 
 Content under
 
