@@ -130,7 +130,7 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 
 | [Tembelan Island](tembelan.html)                                                                      | [Diego Garcia](tps_diegogarcia.html)                                                              | [Senkaku Islands 2035](senkakuislands_2035.html)                                                                      |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| <a href="tembelan.html"><img src="maps/tembelan/0/0/0.png" width="200" height="200" /></a> | <a href="tps_diegogarcia.html"><img src="maps/tps_diegogarcia/0/0/0.png" width="200" height="200" /></a> | senkakuislands_2035 |
+| <a href="tembelan.html"><img src="maps/tembelan/0/0/0.png" width="200" height="200" /></a> | <a href="tps_diegogarcia.html"><img src="maps/tps_diegogarcia/0/0/0.png" width="200" height="200" /></a> | <a href="senkakuislands_2035.html"><img src="maps/senkakuislands_2035/0/0/0.png" width="200" height="200" /></a> |
 
 Content under
 
