@@ -12,10 +12,10 @@ Arma3Map.Maps.rut_mandol = {
     16384
   ],
   "worldSize": 32768.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1635360806014512837/3E2A852C5CD6DE1B9030AAB26F8A62F678B4B966/",
   "dlc": null,
   "title": "Mandol",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2537308551",
   "cities": [
     {
       "name": "Gadyala",

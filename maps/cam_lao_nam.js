@@ -12,8 +12,8 @@ Arma3Map.Maps.cam_lao_nam = {
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://cdn.akamai.steamstatic.com/steam/apps/1227700/ss_939526674f70b7dbb541630a98174b08cec88b56.1920x1080.jpg",
+  "dlc": "https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/",
   "title": "Cam Lao Nam",
   "steamWorkshop": null,
   "cities": [

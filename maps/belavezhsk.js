@@ -12,10 +12,10 @@ Arma3Map.Maps.belavezhsk = {
     10035
   ],
   "worldSize": 20070.4,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1974297087845664329/F3CE10F3E52FBD8F8AB39855D2033CCA34A9CEC1/",
   "dlc": null,
   "title": "Belavezhsk",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2829934863&searchtext=Belavezhsk",
   "cities": [
     {
       "name": "WF-2",

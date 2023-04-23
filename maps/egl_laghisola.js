@@ -12,10 +12,10 @@ Arma3Map.Maps.egl_laghisola = {
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1832408970276195703/73ECA114D0944DCB0868C6D90E778843430EE538/",
   "dlc": null,
   "title": "Laghisola",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2175069333",
   "cities": [
     {
       "name": "Baltarni",

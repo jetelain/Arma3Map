@@ -12,10 +12,10 @@ Arma3Map.Maps.australia = {
     20480
   ],
   "worldSize": 40960.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/89351480104620093/DF6CC356F3D64D5551A2E9F25140AF1A04C245B3/",
   "dlc": null,
   "title": "Australia v5.09",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=485417177",
   "cities": [
     {
       "name": "Stuart Hwy",
