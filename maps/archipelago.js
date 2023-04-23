@@ -12,10 +12,10 @@ Arma3Map.Maps.archipelago = {
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/839269228887921078/9680651FBBD08C838787B21C210EADE1092A49CB/",
   "dlc": null,
   "title": "Archipelago",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1726184748",
   "cities": [
     {
       "name": "Tiba",

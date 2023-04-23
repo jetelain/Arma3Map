@@ -12,9 +12,9 @@ Arma3Map.Maps.tps_diegogarcia = {
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/46495264632255561/C84C197D42B6EEB631443D49336E956DBC29A85A/",
   "dlc": null,
   "title": "Diego Garcia",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=385314016",
   "cities": []
 };

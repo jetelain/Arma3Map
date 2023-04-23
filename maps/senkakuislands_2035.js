@@ -12,10 +12,10 @@ Arma3Map.Maps.senkakuislands_2035 = {
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/951841726614036093/D1B725D4AD34CF59DA782375913B44BA8F027E35/",
   "dlc": null,
   "title": "Senkaku Islands 2035",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1544030265",
   "cities": [
     {
       "name": "Radar Station",

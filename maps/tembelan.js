@@ -12,10 +12,10 @@ Arma3Map.Maps.tembelan = {
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/928171594961380176/FC8FB6DDE020FBE9197B00C1BBD90860A026E990/",
   "dlc": null,
   "title": "Tembelan Island",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1252091296",
   "cities": [
     {
       "name": "Lapangan Futsal South",

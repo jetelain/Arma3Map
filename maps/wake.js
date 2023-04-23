@@ -12,10 +12,10 @@ Arma3Map.Maps.wake = {
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/49865360505312811/FF6AB085A9D61A5471F831EC7358999F2FB48528/",
   "dlc": null,
   "title": "Wake",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=339479337",
   "cities": [
     {
       "name": "Wake Island",
