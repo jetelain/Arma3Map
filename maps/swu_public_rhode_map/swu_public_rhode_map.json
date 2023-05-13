@@ -1,0 +1,90 @@
+{
+  "worldName": "swu_public_rhode_map",
+  "tilePattern": "/maps/swu_public_rhode_map/{z}/{x}/{y}.png",
+  "maxZoom": 4,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    2560,
+    2560
+  ],
+  "worldSize": 5120.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Mutambara",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Glendye",
+      "x": 2758.09,
+      "y": 2448.66
+    },
+    {
+      "name": "Patrol Base Sunray",
+      "x": 2311.48,
+      "y": 2971.43
+    },
+    {
+      "name": "Landcaster",
+      "x": 1863.48,
+      "y": 1849.22
+    },
+    {
+      "name": "Sinampande",
+      "x": 3857.11,
+      "y": 2331.25
+    },
+    {
+      "name": "Sikobokobo",
+      "x": 1028.27,
+      "y": 2680.77
+    },
+    {
+      "name": "Silawa",
+      "x": 1127.78,
+      "y": 2079.39
+    },
+    {
+      "name": "Marshbrook",
+      "x": 3815.98,
+      "y": 1656.02
+    },
+    {
+      "name": "Melfort",
+      "x": 1107.58,
+      "y": 1637.2
+    },
+    {
+      "name": "Mwami",
+      "x": 566.89,
+      "y": 2212.7
+    },
+    {
+      "name": "Patrol Base Hondo",
+      "x": 4335.89,
+      "y": 1801.62
+    },
+    {
+      "name": "Mutambara",
+      "x": 1082.21,
+      "y": 1007.31
+    },
+    {
+      "name": "Chiwakanyama",
+      "x": 4153.97,
+      "y": 689.5
+    },
+    {
+      "name": "Madadzi",
+      "x": 1268.89,
+      "y": 344.84
+    },
+    {
+      "name": "Broomsgrove",
+      "x": 490.19,
+      "y": 481.8
+    }
+  ]
+}

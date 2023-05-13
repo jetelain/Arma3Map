@@ -217,6 +217,252 @@ Arma3Map.Maps.altis = {
 		{name:"Molos",x:26943.9,y:23170.7}
 	]
 };
+Arma3Map.Maps.archipelago = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 259),
+  "worldName": "archipelago",
+  "tilePattern": "/maps/archipelago/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 259,
+  "center": [
+    4096,
+    4096
+  ],
+  "worldSize": 8192.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/839269228887921078/9680651FBBD08C838787B21C210EADE1092A49CB/",
+  "dlc": null,
+  "title": "Archipelago",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1726184748",
+  "cities": [
+    {
+      "name": "Tiba",
+      "x": 4751.86,
+      "y": 3937.05
+    },
+    {
+      "name": "Ktuk",
+      "x": 3540.57,
+      "y": 4608.53
+    },
+    {
+      "name": "Bellcoe Port",
+      "x": 3417.9,
+      "y": 4441.53
+    },
+    {
+      "name": "Port Tyva",
+      "x": 4694.62,
+      "y": 4619.73
+    },
+    {
+      "name": "Nantoon Ore Mine",
+      "x": 3184.03,
+      "y": 4473.31
+    },
+    {
+      "name": "Doraz",
+      "x": 3492.17,
+      "y": 5051.86
+    },
+    {
+      "name": "Wnaskas",
+      "x": 3172.45,
+      "y": 4902.1
+    },
+    {
+      "name": "Brookthunna",
+      "x": 5032.14,
+      "y": 4909.46
+    },
+    {
+      "name": "Axhull",
+      "x": 5143.05,
+      "y": 3398.43
+    },
+    {
+      "name": "Supply Wharf",
+      "x": 4320.17,
+      "y": 2835.29
+    },
+    {
+      "name": "Rison Resort",
+      "x": 2945.22,
+      "y": 3207.42
+    },
+    {
+      "name": "Lequi",
+      "x": 2634.27,
+      "y": 4149.41
+    },
+    {
+      "name": "Wapierre",
+      "x": 5320.81,
+      "y": 3277.04
+    },
+    {
+      "name": "La Coe",
+      "x": 2978.86,
+      "y": 5244.55
+    },
+    {
+      "name": "Ranma",
+      "x": 5267.63,
+      "y": 5697.89
+    },
+    {
+      "name": "Saint Bernorth",
+      "x": 6066.0,
+      "y": 3526.12
+    },
+    {
+      "name": "Port Orines",
+      "x": 5207.05,
+      "y": 1817.28
+    },
+    {
+      "name": "Thesa",
+      "x": 6603.63,
+      "y": 3133.39
+    },
+    {
+      "name": "Libad",
+      "x": 3272.88,
+      "y": 6751.68
+    },
+    {
+      "name": "Port Bourclear",
+      "x": 3944.72,
+      "y": 6890.53
+    },
+    {
+      "name": "Winbra",
+      "x": 1668.41,
+      "y": 5513.98
+    },
+    {
+      "name": "Thetra",
+      "x": 2170.86,
+      "y": 6311.43
+    },
+    {
+      "name": "Elth",
+      "x": 6782.61,
+      "y": 2722.02
+    },
+    {
+      "name": "La Char",
+      "x": 5092.08,
+      "y": 1215.71
+    },
+    {
+      "name": "Ruswan",
+      "x": 3339.22,
+      "y": 7155.34
+    },
+    {
+      "name": "Tymur",
+      "x": 5592.95,
+      "y": 1277.34
+    },
+    {
+      "name": "Chilqui",
+      "x": 4133.08,
+      "y": 7302.38
+    },
+    {
+      "name": "Byma",
+      "x": 1252.94,
+      "y": 5627.22
+    },
+    {
+      "name": "La Char Mine",
+      "x": 5055.13,
+      "y": 996.56
+    },
+    {
+      "name": "West Bornebou",
+      "x": 7027.26,
+      "y": 2517.51
+    },
+    {
+      "name": "Nideer",
+      "x": 2199.95,
+      "y": 6957.73
+    },
+    {
+      "name": "Saint Runornia",
+      "x": 7389.7,
+      "y": 2904.58
+    },
+    {
+      "name": "Bornebou",
+      "x": 7242.37,
+      "y": 2524.96
+    },
+    {
+      "name": "Grand Del",
+      "x": 6219.83,
+      "y": 1209.32
+    },
+    {
+      "name": "Equirock",
+      "x": 7721.45,
+      "y": 3503.67
+    },
+    {
+      "name": "Grand Mial",
+      "x": 6536.37,
+      "y": 6905.43
+    },
+    {
+      "name": "Tsontoche",
+      "x": 7233.34,
+      "y": 1644.35
+    },
+    {
+      "name": "Laqa",
+      "x": 5851.15,
+      "y": 484.14
+    },
+    {
+      "name": "La Mera",
+      "x": 680.86,
+      "y": 6364.46
+    },
+    {
+      "name": "Azla",
+      "x": 6500.06,
+      "y": 759.68
+    },
+    {
+      "name": "Port Stosran",
+      "x": 7472.42,
+      "y": 1747.38
+    },
+    {
+      "name": "Rinesco",
+      "x": 1156.27,
+      "y": 6983.05
+    },
+    {
+      "name": "Terktuk",
+      "x": 7517.34,
+      "y": 6505.51
+    },
+    {
+      "name": "Viskam Wind Farm",
+      "x": 7392.08,
+      "y": 6915.51
+    },
+    {
+      "name": "Vanhav",
+      "x": 1140.73,
+      "y": 7427.85
+    }
+  ]
+};
 Arma3Map.Maps.australia = {
   CRS: MGRS_CRS(0.0061875, 0.0061875, 254),
   "worldName": "australia",
@@ -231,10 +477,10 @@ Arma3Map.Maps.australia = {
     20480
   ],
   "worldSize": 40960.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/89351480104620093/DF6CC356F3D64D5551A2E9F25140AF1A04C245B3/",
   "dlc": null,
   "title": "Australia v5.09",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=485417177",
   "cities": [
     {
       "name": "Stuart Hwy",
@@ -1900,10 +2146,10 @@ Arma3Map.Maps.belavezhsk = {
     10035
   ],
   "worldSize": 20070.4,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1974297087845664329/F3CE10F3E52FBD8F8AB39855D2033CCA34A9CEC1/",
   "dlc": null,
   "title": "Belavezhsk",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2829934863&searchtext=Belavezhsk",
   "cities": [
     {
       "name": "WF-2",
@@ -2660,8 +2906,8 @@ Arma3Map.Maps.cam_lao_nam = {
     10240
   ],
   "worldSize": 20480.0,
-  "preview": null,
-  "dlc": null,
+  "preview": "https://cdn.akamai.steamstatic.com/steam/apps/1227700/ss_939526674f70b7dbb541630a98174b08cec88b56.1920x1080.jpg",
+  "dlc": "https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/",
   "title": "Cam Lao Nam",
   "steamWorkshop": null,
   "cities": [
@@ -7228,10 +7474,10 @@ Arma3Map.Maps.egl_laghisola = {
     5120
   ],
   "worldSize": 10240.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1832408970276195703/73ECA114D0944DCB0868C6D90E778843430EE538/",
   "dlc": null,
   "title": "Laghisola",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2175069333",
   "cities": [
     {
       "name": "Baltarni",
@@ -12416,7 +12662,7 @@ Arma3Map.Maps.panthera3 = {
 	worldSize: 10240,
 	title:'Island Panthera',
 	steamWorkshop: 'https://steamcommunity.com/sharedfiles/filedetails/?id=708278910',
-	preview: 'https://steamuserimages-a.akamaihd.net/ugc/1644340994752114301/2809473865C7FA31A048817352D7CAB8D1E71B10/',
+	preview: "https://steamuserimages-a.akamaihd.net/ugc/2040727722215346293/1FF775C38E8A9F547621377E0AC36239B16A9614/",
 	cities: [
 		{name:"Kobarid",x:3217.66,y:3344.35},
 		{name:"Tarvisio",x:3321.08,y:6670.45},
@@ -14124,6 +14370,82 @@ Arma3Map.Maps.rhspkl = {
     }
   ]
 };
+Arma3Map.Maps.rksla3_t_bov_test_area = {
+  CRS: MGRS_CRS(0.063, 0.063, 259),
+  "worldName": "rksla3_t_bov_test_area",
+  "tilePattern": "/maps/rksla3_t_bov_test_area/{z}/{x}/{y}.png",
+  "maxZoom": 4,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 259,
+  "center": [
+    2048,
+    2048
+  ],
+  "worldSize": 4096.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1655594918122181183/ECA6C0A6795E6FBD4C06C8DD5B0183E91248AC14/",
+  "dlc": null,
+  "title": "BETA-42m Bovington Test Area",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2255211315",
+  "cities": [
+    {
+      "name": "Helicopter Landing Area",
+      "x": 2286.29,
+      "y": 1420.97
+    },
+    {
+      "name": "Bridging Test Area",
+      "x": 1462.69,
+      "y": 1368.06
+    },
+    {
+      "name": "25m Rangers",
+      "x": 2963.63,
+      "y": 1386.16
+    },
+    {
+      "name": "Gliding Club",
+      "x": 2657.82,
+      "y": 1086.64
+    },
+    {
+      "name": "600m Ranges",
+      "x": 3356.96,
+      "y": 1657.55
+    },
+    {
+      "name": "Vehicle Firing Point",
+      "x": 3538.83,
+      "y": 2377.85
+    },
+    {
+      "name": "MPX Pond Crossing",
+      "x": 1285.66,
+      "y": 684.52
+    },
+    {
+      "name": "MPX Defence Systems",
+      "x": 1201.85,
+      "y": 498.03
+    },
+    {
+      "name": "RKSL Studios",
+      "x": 897.84,
+      "y": 449.88
+    },
+    {
+      "name": "FOB Farm",
+      "x": 322.43,
+      "y": 3918.65
+    },
+    {
+      "name": "Vehicle Range Targets",
+      "x": 4003.48,
+      "y": 3923.91
+    }
+  ]
+};
 Arma3Map.Maps.rof_mok = {
   CRS: MGRS_CRS(0.01171875, 0.01171875, 289),
   "worldName": "rof_mok",
@@ -14439,10 +14761,10 @@ Arma3Map.Maps.rut_mandol = {
     16384
   ],
   "worldSize": 32768.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1635360806014512837/3E2A852C5CD6DE1B9030AAB26F8A62F678B4B966/",
   "dlc": null,
   "title": "Mandol",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2537308551",
   "cities": [
     {
       "name": "Gadyala",
@@ -15232,6 +15554,37 @@ Arma3Map.Maps.sefrouramal = {
     }
   ]
 };
+Arma3Map.Maps.senkakuislands_2035 = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "senkakuislands_2035",
+  "tilePattern": "/maps/senkakuislands_2035/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/951841726614036093/D1B725D4AD34CF59DA782375913B44BA8F027E35/",
+  "dlc": null,
+  "title": "Senkaku Islands 2035",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1544030265",
+  "cities": [
+    {
+      "name": "Radar Station",
+      "x": 2611.51,
+      "y": 3353.17
+    },
+    {
+      "name": "Camp Shinohara",
+      "x": 4103.34,
+      "y": 3572.02
+    }
+  ]
+};
 Arma3Map.Maps.shapur_baf = {
   CRS: MGRS_CRS(0.099, 0.099, 204),
   "worldName": "shapur_baf",
@@ -15280,6 +15633,97 @@ Arma3Map.Maps.stratis = {
 		{name:"Girna",x:1935.28,y:2722.61},
 		{name:"Stand de tir de Kamino",x:6401.97,y:5427.13}
 	]
+};
+Arma3Map.Maps.swu_public_rhode_map = {
+  CRS: MGRS_CRS(0.063, 0.063, 323),
+  "worldName": "swu_public_rhode_map",
+  "tilePattern": "/maps/swu_public_rhode_map/{z}/{x}/{y}.png",
+  "maxZoom": 4,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    2560,
+    2560
+  ],
+  "worldSize": 5120.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1832414944615517745/11F03E289FBE4C29C8164C809E30604AD30E0E59/",
+  "dlc": null,
+  "title": "Mutambara",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2814015609",
+  "cities": [
+    {
+      "name": "Glendye",
+      "x": 2758.09,
+      "y": 2448.66
+    },
+    {
+      "name": "Patrol Base Sunray",
+      "x": 2311.48,
+      "y": 2971.43
+    },
+    {
+      "name": "Landcaster",
+      "x": 1863.48,
+      "y": 1849.22
+    },
+    {
+      "name": "Sinampande",
+      "x": 3857.11,
+      "y": 2331.25
+    },
+    {
+      "name": "Sikobokobo",
+      "x": 1028.27,
+      "y": 2680.77
+    },
+    {
+      "name": "Silawa",
+      "x": 1127.78,
+      "y": 2079.39
+    },
+    {
+      "name": "Marshbrook",
+      "x": 3815.98,
+      "y": 1656.02
+    },
+    {
+      "name": "Melfort",
+      "x": 1107.58,
+      "y": 1637.2
+    },
+    {
+      "name": "Mwami",
+      "x": 566.89,
+      "y": 2212.7
+    },
+    {
+      "name": "Patrol Base Hondo",
+      "x": 4335.89,
+      "y": 1801.62
+    },
+    {
+      "name": "Mutambara",
+      "x": 1082.21,
+      "y": 1007.31
+    },
+    {
+      "name": "Chiwakanyama",
+      "x": 4153.97,
+      "y": 689.5
+    },
+    {
+      "name": "Madadzi",
+      "x": 1268.89,
+      "y": 344.84
+    },
+    {
+      "name": "Broomsgrove",
+      "x": 490.19,
+      "y": 481.8
+    }
+  ]
 };
 Arma3Map.Maps.swu_public_salman_map = {
   CRS: MGRS_CRS(0.0315, 0.0315, 323),
@@ -15712,6 +16156,192 @@ Arma3Map.Maps.xcam_taunus = {
 		{name:"Wehrheim",x:15816.8,y:19461.6}
 	]
 };
+Arma3Map.Maps.tembelan = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 323),
+  "worldName": "tembelan",
+  "tilePattern": "/maps/tembelan/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/928171594961380176/FC8FB6DDE020FBE9197B00C1BBD90860A026E990/",
+  "dlc": null,
+  "title": "Tembelan Island",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1252091296",
+  "cities": [
+    {
+      "name": "Lapangan Futsal South",
+      "x": 5093.37,
+      "y": 5717.44
+    },
+    {
+      "name": "Gereja",
+      "x": 5815.55,
+      "y": 5508.44
+    },
+    {
+      "name": "Ekspor",
+      "x": 6241.76,
+      "y": 4856.49
+    },
+    {
+      "name": "Garasi",
+      "x": 5034.67,
+      "y": 3711.29
+    },
+    {
+      "name": "Lapangan Futsal Central",
+      "x": 5340.23,
+      "y": 6334.22
+    },
+    {
+      "name": "Lubang Sial",
+      "x": 4937.45,
+      "y": 6472.19
+    },
+    {
+      "name": "Terapung",
+      "x": 6335.23,
+      "y": 5664.09
+    },
+    {
+      "name": "Pengolahan Industrial",
+      "x": 5463.39,
+      "y": 3557.03
+    },
+    {
+      "name": "Pondok",
+      "x": 6754.75,
+      "y": 5239.41
+    },
+    {
+      "name": "Lapangan Futsal North",
+      "x": 5833.77,
+      "y": 6693.72
+    },
+    {
+      "name": "Lapangan Futsal Industrial",
+      "x": 4667.97,
+      "y": 6953.73
+    },
+    {
+      "name": "Toko Tempat",
+      "x": 3438.02,
+      "y": 6377.7
+    },
+    {
+      "name": "Tepi Pantai Resort",
+      "x": 3273.53,
+      "y": 3491.79
+    },
+    {
+      "name": "Tersebar",
+      "x": 6254.05,
+      "y": 3080.09
+    },
+    {
+      "name": "Segi Tiga",
+      "x": 4627.94,
+      "y": 2716.25
+    },
+    {
+      "name": "Dink Desa",
+      "x": 5243.32,
+      "y": 7335.32
+    },
+    {
+      "name": "Dicuri Rusak",
+      "x": 7172.11,
+      "y": 4004.17
+    },
+    {
+      "name": "Terangkat",
+      "x": 5814.05,
+      "y": 2699.21
+    },
+    {
+      "name": "Irigasi Desa",
+      "x": 7099.23,
+      "y": 3684.86
+    },
+    {
+      "name": "Parit",
+      "x": 7480.42,
+      "y": 4752.97
+    },
+    {
+      "name": "Desa Ikan",
+      "x": 2618.28,
+      "y": 6264.06
+    },
+    {
+      "name": "Kalah Desa",
+      "x": 5772.04,
+      "y": 7978.87
+    },
+    {
+      "name": "Besar Airbase",
+      "x": 1704.74,
+      "y": 4812.87
+    },
+    {
+      "name": "Bagain",
+      "x": 1496.73,
+      "y": 5588.37
+    },
+    {
+      "name": "Bangunan Site A",
+      "x": 1544.02,
+      "y": 6681.93
+    },
+    {
+      "name": "Bangunan Site B",
+      "x": 1519.02,
+      "y": 7026.29
+    },
+    {
+      "name": "Ikan Kota",
+      "x": 2491.51,
+      "y": 8193.86
+    },
+    {
+      "name": "Kumuh Persegi",
+      "x": 9144.91,
+      "y": 5249.08
+    },
+    {
+      "name": "Bawah Naval Base",
+      "x": 3796.81,
+      "y": 818.0
+    },
+    {
+      "name": "Tertutup",
+      "x": 1419.01,
+      "y": 7607.77
+    },
+    {
+      "name": "Hijau Solar Wind Farm",
+      "x": 4115.33,
+      "y": 499.43
+    },
+    {
+      "name": "Ditolak Desa",
+      "x": 2157.69,
+      "y": 9305.49
+    },
+    {
+      "name": "Pertemuan",
+      "x": 1438.42,
+      "y": 8771.39
+    }
+  ]
+};
 Arma3Map.Maps.tem_anizay = {
   CRS: MGRS_CRS(0.0315, 0.0315, 323),
   "worldName": "tem_anizay",
@@ -15976,6 +16606,92 @@ Arma3Map.Maps.todt = {
   "title": "Todt",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=1458210741",
   "cities": []
+};
+Arma3Map.Maps.tps_diegogarcia = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "tps_diegogarcia",
+  "tilePattern": "/maps/tps_diegogarcia/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/46495264632255561/C84C197D42B6EEB631443D49336E956DBC29A85A/",
+  "dlc": null,
+  "title": "Diego Garcia",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=385314016",
+  "cities": []
+};
+Arma3Map.Maps.ukaf_batus = {
+  CRS: MGRS_CRS(0.007875, 0.007875, 323),
+  "worldName": "ukaf_batus",
+  "tilePattern": "/maps/ukaf_batus/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 3,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    20480,
+    20480
+  ],
+  "worldSize": 40960.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1800899721925480222/E1B55CA62CC9BD3EEE0BCAFF9E574B60119819EB/",
+  "dlc": null,
+  "title": "UKAF BATUS 40km (ALPHA)",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2863099235",
+  "cities": [
+    {
+      "name": "WELLS JUNCTION",
+      "x": 15614.8,
+      "y": 20191.7
+    },
+    {
+      "name": "Small Arms Range",
+      "x": 6737.9,
+      "y": 12874.3
+    },
+    {
+      "name": "Weapons Test Centre",
+      "x": 20663.3,
+      "y": 4251.37
+    },
+    {
+      "name": "VERT GRID SITE",
+      "x": 8294.1,
+      "y": 7189.54
+    },
+    {
+      "name": "Urban Test Centre",
+      "x": 23788.7,
+      "y": 2488.24
+    },
+    {
+      "name": "FLASH X-RAY SITE",
+      "x": 21516.0,
+      "y": 364.55
+    },
+    {
+      "name": "Building Complex",
+      "x": 7040.38,
+      "y": 3648.48
+    },
+    {
+      "name": "Firing Range",
+      "x": 530.73,
+      "y": 6744.08
+    },
+    {
+      "name": "CAMERON CENTRE",
+      "x": 6487.02,
+      "y": 317.74
+    }
+  ]
 };
 Arma3Map.Maps.umb_armavir = {
   CRS: MGRS_CRS(0.007875, 0.007875, 242),
@@ -16787,6 +17503,42 @@ Arma3Map.Maps.vt7 = {
 		{name:"Kallio",x:1053.67,y:16804.8},
 		{name:"Nopala",x:389.11,y:17287.1}
 	]
+};
+Arma3Map.Maps.wake = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 323),
+  "worldName": "wake",
+  "tilePattern": "/maps/wake/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/49865360505312811/FF6AB085A9D61A5471F831EC7358999F2FB48528/",
+  "dlc": null,
+  "title": "Wake",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=339479337",
+  "cities": [
+    {
+      "name": "Wake Island",
+      "x": 6202.0,
+      "y": 3037.0
+    },
+    {
+      "name": "Peale Island",
+      "x": 5362.0,
+      "y": 7406.0
+    },
+    {
+      "name": "Wilkes Island",
+      "x": 2700.0,
+      "y": 5340.0
+    }
+  ]
 };
 Arma3Map.Maps.wl_rosche = {
   CRS: MGRS_CRS(0.01575, 0.01575, 242),

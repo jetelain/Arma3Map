@@ -1,0 +1,66 @@
+Arma3Map.Maps.ukaf_batus = {
+  CRS: MGRS_CRS(0.007875, 0.007875, 323),
+  "worldName": "ukaf_batus",
+  "tilePattern": "/maps/ukaf_batus/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 3,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    20480,
+    20480
+  ],
+  "worldSize": 40960.0,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/1800899721925480222/E1B55CA62CC9BD3EEE0BCAFF9E574B60119819EB/",
+  "dlc": null,
+  "title": "UKAF BATUS 40km (ALPHA)",
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2863099235",
+  "cities": [
+    {
+      "name": "WELLS JUNCTION",
+      "x": 15614.8,
+      "y": 20191.7
+    },
+    {
+      "name": "Small Arms Range",
+      "x": 6737.9,
+      "y": 12874.3
+    },
+    {
+      "name": "Weapons Test Centre",
+      "x": 20663.3,
+      "y": 4251.37
+    },
+    {
+      "name": "VERT GRID SITE",
+      "x": 8294.1,
+      "y": 7189.54
+    },
+    {
+      "name": "Urban Test Centre",
+      "x": 23788.7,
+      "y": 2488.24
+    },
+    {
+      "name": "FLASH X-RAY SITE",
+      "x": 21516.0,
+      "y": 364.55
+    },
+    {
+      "name": "Building Complex",
+      "x": 7040.38,
+      "y": 3648.48
+    },
+    {
+      "name": "Firing Range",
+      "x": 530.73,
+      "y": 6744.08
+    },
+    {
+      "name": "CAMERON CENTRE",
+      "x": 6487.02,
+      "y": 317.74
+    }
+  ]
+};

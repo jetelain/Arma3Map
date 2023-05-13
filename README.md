@@ -132,6 +132,11 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | <a href="tembelan.html"><img src="maps/tembelan/0/0/0.png" width="200" height="200" /></a> | <a href="tps_diegogarcia.html"><img src="maps/tps_diegogarcia/0/0/0.png" width="200" height="200" /></a> | <a href="senkakuislands_2035.html"><img src="maps/senkakuislands_2035/0/0/0.png" width="200" height="200" /></a> |
 
+| [BETA-42m Bovington Test Area](rksla3_t_bov_test_area.html)                                                            | [UKAF BATUS 40km](ukaf_batus.html)                                                             | [Mutambara](swu_public_rhode_map.html)                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| <a href="rksla3_t_bov_test_area.html"><img src="maps/rksla3_t_bov_test_area/0/0/0.png" width="200" height="200" /></a> | <a href="ukaf_batus.html"><img src="maps/ukaf_batus/0/0/0.png" width="200" height="200" /></a> | <a href="swu_public_rhode_map.html"><img src="maps/swu_public_rhode_map/0/0/0.png" width="200" height="200" /></a> |
+
+
 Content under
 
 - [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive.
