@@ -18,24 +18,9 @@ Arma3Map.Maps.northtakistan = {
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2829330653",
   "cities": [
     {
-      "name": "Kushkak",
-      "x": 9086.47,
-      "y": 9917.7
-    },
-    {
-      "name": "Chahe Shrin",
-      "x": 11136.9,
-      "y": 9386.36
-    },
-    {
-      "name": "Raqol",
-      "x": 8060.08,
-      "y": 10604.2
-    },
-    {
-      "name": "Yakavlang",
-      "x": 7363.7,
-      "y": 9624.75
+      "name": "Par-e Siah",
+      "x": 7553.18,
+      "y": 6966.99
     },
     {
       "name": "Sar e Bolaq",
@@ -43,29 +28,19 @@ Arma3Map.Maps.northtakistan = {
       "y": 7711.5
     },
     {
-      "name": "Zavarak",
-      "x": 9579.86,
-      "y": 6416.76
-    },
-    {
-      "name": "Par-e Siah",
-      "x": 7553.18,
-      "y": 6966.99
-    },
-    {
       "name": "Laura",
       "x": 5891.81,
       "y": 8873.55
     },
     {
-      "name": "Kharu",
-      "x": 10192.8,
-      "y": 4935.7
+      "name": "Zavarak",
+      "x": 9579.86,
+      "y": 6416.76
     },
     {
-      "name": "Qorghan",
-      "x": 4617.84,
-      "y": 10211.4
+      "name": "Yakavlang",
+      "x": 7363.7,
+      "y": 9624.75
     },
     {
       "name": "Sagram",
@@ -73,19 +48,19 @@ Arma3Map.Maps.northtakistan = {
       "y": 4100.03
     },
     {
-      "name": "Tarchi",
-      "x": 3780.15,
-      "y": 9557.66
+      "name": "Kushkak",
+      "x": 9086.47,
+      "y": 9917.7
     },
     {
-      "name": "Jamak",
-      "x": 2815.63,
-      "y": 9703.32
+      "name": "Kharu",
+      "x": 10192.8,
+      "y": 4935.7
     },
     {
-      "name": "Chaman",
-      "x": 2593.27,
-      "y": 10438.1
+      "name": "Raqol",
+      "x": 8060.08,
+      "y": 10604.2
     },
     {
       "name": "Rasman",
@@ -93,9 +68,14 @@ Arma3Map.Maps.northtakistan = {
       "y": 6141.51
     },
     {
-      "name": "Sarcasma",
-      "x": 8498.0,
-      "y": 1756.77
+      "name": "Qorghan",
+      "x": 4617.84,
+      "y": 10211.4
+    },
+    {
+      "name": "Tarchi",
+      "x": 3780.15,
+      "y": 9557.66
     },
     {
       "name": "Tazri",
@@ -103,9 +83,24 @@ Arma3Map.Maps.northtakistan = {
       "y": 3272.16
     },
     {
-      "name": "Mantiq",
-      "x": 671.16,
-      "y": 9251.09
+      "name": "Chahe Shrin",
+      "x": 11136.9,
+      "y": 9386.36
+    },
+    {
+      "name": "Jamak",
+      "x": 2815.63,
+      "y": 9703.32
+    },
+    {
+      "name": "Sarcasma",
+      "x": 8498.0,
+      "y": 1756.77
+    },
+    {
+      "name": "Chaman",
+      "x": 2593.27,
+      "y": 10438.1
     },
     {
       "name": "Imarat",
@@ -126,6 +121,11 @@ Arma3Map.Maps.northtakistan = {
       "name": "Garmarund",
       "x": 5856.84,
       "y": 586.15
+    },
+    {
+      "name": "Mantiq",
+      "x": 671.16,
+      "y": 9251.09
     },
     {
       "name": "Bastam",
