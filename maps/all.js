@@ -7350,6 +7350,72 @@ Arma3Map.Maps.eaw_village_1 = {
     }
   ]
 };
+Arma3Map.Maps.edaly_map_alpha = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 283),
+  "worldName": "edaly_map_alpha",
+  "tilePattern": "/maps/edaly_map_alpha/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 283,
+  "center": [
+    4480,
+    4480
+  ],
+  "worldSize": 8960.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Isla Nueva",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Pajana",
+      "x": 4553.07,
+      "y": 3376.13
+    },
+    {
+      "name": "Azufre",
+      "x": 3473.22,
+      "y": 4020.86
+    },
+    {
+      "name": "Campeones",
+      "x": 5300.91,
+      "y": 4158.42
+    },
+    {
+      "name": "Soledad",
+      "x": 3143.91,
+      "y": 3254.05
+    },
+    {
+      "name": "Gran Callao",
+      "x": 4295.46,
+      "y": 2485.25
+    },
+    {
+      "name": "La bahia del dragon",
+      "x": 4736.28,
+      "y": 2475.68
+    },
+    {
+      "name": "Marilla",
+      "x": 5749.84,
+      "y": 3278.37
+    },
+    {
+      "name": "Mine",
+      "x": 3622.61,
+      "y": 5280.4
+    },
+    {
+      "name": "Santa Luz",
+      "x": 2574.17,
+      "y": 4099.93
+    }
+  ]
+};
 Arma3Map.Maps.eden = {
   CRS: MGRS_CRS(0.01575, 0.01575, 202),
   "worldName": "eden",
@@ -8340,6 +8406,187 @@ Arma3Map.Maps.fata = {
       "name": "Bahad",
       "x": 4330.89,
       "y": 6985.35
+    }
+  ]
+};
+Arma3Map.Maps.fow_map_gold = {
+  CRS: MGRS_CRS(0.063, 0.063, 388),
+  "worldName": "fow_map_gold",
+  "tilePattern": "/maps/fow_map_gold/{z}/{x}/{y}.png",
+  "maxZoom": 4,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 388,
+  "center": [
+    3072,
+    3072
+  ],
+  "worldSize": 6144.0,
+  "preview": null,
+  "dlc": null,
+  "title": "[FOW] - Gold Beach",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Le Pavillon",
+      "x": 835.56,
+      "y": 1129.88
+    },
+    {
+      "name": "Ryes",
+      "x": 1088.77,
+      "y": 699.17
+    },
+    {
+      "name": "Village",
+      "x": 1665.71,
+      "y": 924.33
+    },
+    {
+      "name": "Village",
+      "x": 1130.63,
+      "y": 2195.68
+    },
+    {
+      "name": "Village",
+      "x": 1302.92,
+      "y": 2325.28
+    },
+    {
+      "name": "Le Petit Fontaine",
+      "x": 1167.7,
+      "y": 2460.32
+    },
+    {
+      "name": "Village",
+      "x": 1521.17,
+      "y": 2826.95
+    },
+    {
+      "name": "Village",
+      "x": 1068.84,
+      "y": 2961.79
+    },
+    {
+      "name": "Village",
+      "x": 2597.81,
+      "y": 2293.48
+    },
+    {
+      "name": "Le Buhot",
+      "x": 2723.61,
+      "y": 2430.62
+    },
+    {
+      "name": "La Mare aux Minos",
+      "x": 2752.55,
+      "y": 2814.35
+    },
+    {
+      "name": "Village",
+      "x": 3171.08,
+      "y": 2689.46
+    },
+    {
+      "name": "Arromanches-les-Bains",
+      "x": 1339.92,
+      "y": 3767.93
+    },
+    {
+      "name": "La Breche",
+      "x": 1054.52,
+      "y": 3862.95
+    },
+    {
+      "name": "Village",
+      "x": 671.27,
+      "y": 3895.41
+    },
+    {
+      "name": "Maronnes",
+      "x": 3927.97,
+      "y": 292.33
+    },
+    {
+      "name": "Village",
+      "x": 4039.59,
+      "y": 977.0
+    },
+    {
+      "name": "Village",
+      "x": 2513.03,
+      "y": 3777.92
+    },
+    {
+      "name": "Village",
+      "x": 4150.34,
+      "y": 465.72
+    },
+    {
+      "name": "La Fontaine Saint-Come",
+      "x": 2782.24,
+      "y": 3765.18
+    },
+    {
+      "name": "Village",
+      "x": 4251.48,
+      "y": 319.76
+    },
+    {
+      "name": "Village",
+      "x": 3934.28,
+      "y": 3158.62
+    },
+    {
+      "name": "La Pierre Artus",
+      "x": 4581.56,
+      "y": 205.69
+    },
+    {
+      "name": "Asnelles",
+      "x": 3668.87,
+      "y": 3979.3
+    },
+    {
+      "name": "Village",
+      "x": 4962.33,
+      "y": 2619.49
+    },
+    {
+      "name": "Meuvaines",
+      "x": 5190.97,
+      "y": 2527.68
+    },
+    {
+      "name": "Village",
+      "x": 4815.2,
+      "y": 3530.64
+    },
+    {
+      "name": "Village",
+      "x": 4606.66,
+      "y": 3888.11
+    },
+    {
+      "name": "Village",
+      "x": 5269.39,
+      "y": 2937.05
+    },
+    {
+      "name": "Village",
+      "x": 5469.68,
+      "y": 2825.81
+    },
+    {
+      "name": "Meuvaines",
+      "x": 5636.03,
+      "y": 2499.64
+    },
+    {
+      "name": "Village",
+      "x": 5604.6,
+      "y": 2798.2
     }
   ]
 };
@@ -12403,24 +12650,9 @@ Arma3Map.Maps.northtakistan = {
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=2829330653",
   "cities": [
     {
-      "name": "Kushkak",
-      "x": 9086.47,
-      "y": 9917.7
-    },
-    {
-      "name": "Chahe Shrin",
-      "x": 11136.9,
-      "y": 9386.36
-    },
-    {
-      "name": "Raqol",
-      "x": 8060.08,
-      "y": 10604.2
-    },
-    {
-      "name": "Yakavlang",
-      "x": 7363.7,
-      "y": 9624.75
+      "name": "Par-e Siah",
+      "x": 7553.18,
+      "y": 6966.99
     },
     {
       "name": "Sar e Bolaq",
@@ -12428,29 +12660,19 @@ Arma3Map.Maps.northtakistan = {
       "y": 7711.5
     },
     {
-      "name": "Zavarak",
-      "x": 9579.86,
-      "y": 6416.76
-    },
-    {
-      "name": "Par-e Siah",
-      "x": 7553.18,
-      "y": 6966.99
-    },
-    {
       "name": "Laura",
       "x": 5891.81,
       "y": 8873.55
     },
     {
-      "name": "Kharu",
-      "x": 10192.8,
-      "y": 4935.7
+      "name": "Zavarak",
+      "x": 9579.86,
+      "y": 6416.76
     },
     {
-      "name": "Qorghan",
-      "x": 4617.84,
-      "y": 10211.4
+      "name": "Yakavlang",
+      "x": 7363.7,
+      "y": 9624.75
     },
     {
       "name": "Sagram",
@@ -12458,19 +12680,19 @@ Arma3Map.Maps.northtakistan = {
       "y": 4100.03
     },
     {
-      "name": "Tarchi",
-      "x": 3780.15,
-      "y": 9557.66
+      "name": "Kushkak",
+      "x": 9086.47,
+      "y": 9917.7
     },
     {
-      "name": "Jamak",
-      "x": 2815.63,
-      "y": 9703.32
+      "name": "Kharu",
+      "x": 10192.8,
+      "y": 4935.7
     },
     {
-      "name": "Chaman",
-      "x": 2593.27,
-      "y": 10438.1
+      "name": "Raqol",
+      "x": 8060.08,
+      "y": 10604.2
     },
     {
       "name": "Rasman",
@@ -12478,9 +12700,14 @@ Arma3Map.Maps.northtakistan = {
       "y": 6141.51
     },
     {
-      "name": "Sarcasma",
-      "x": 8498.0,
-      "y": 1756.77
+      "name": "Qorghan",
+      "x": 4617.84,
+      "y": 10211.4
+    },
+    {
+      "name": "Tarchi",
+      "x": 3780.15,
+      "y": 9557.66
     },
     {
       "name": "Tazri",
@@ -12488,9 +12715,24 @@ Arma3Map.Maps.northtakistan = {
       "y": 3272.16
     },
     {
-      "name": "Mantiq",
-      "x": 671.16,
-      "y": 9251.09
+      "name": "Chahe Shrin",
+      "x": 11136.9,
+      "y": 9386.36
+    },
+    {
+      "name": "Jamak",
+      "x": 2815.63,
+      "y": 9703.32
+    },
+    {
+      "name": "Sarcasma",
+      "x": 8498.0,
+      "y": 1756.77
+    },
+    {
+      "name": "Chaman",
+      "x": 2593.27,
+      "y": 10438.1
     },
     {
       "name": "Imarat",
@@ -12511,6 +12753,11 @@ Arma3Map.Maps.northtakistan = {
       "name": "Garmarund",
       "x": 5856.84,
       "y": 586.15
+    },
+    {
+      "name": "Mantiq",
+      "x": 671.16,
+      "y": 9251.09
     },
     {
       "name": "Bastam",
@@ -14011,6 +14258,167 @@ Arma3Map.Maps.pulau = {
       "name": "Jaya",
       "x": 1708.45,
       "y": 1115.57
+    }
+  ]
+};
+Arma3Map.Maps.regero = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 323),
+  "worldName": "regero",
+  "tilePattern": "/maps/regero/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Kingdom of Regero v1.1",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Carbado",
+      "x": 4701.49,
+      "y": 5786.5
+    },
+    {
+      "name": "Quentao",
+      "x": 4895.25,
+      "y": 3976.73
+    },
+    {
+      "name": "Desay",
+      "x": 5787.11,
+      "y": 4061.81
+    },
+    {
+      "name": "Mantolin",
+      "x": 3255.84,
+      "y": 4609.35
+    },
+    {
+      "name": "Mellana",
+      "x": 3442.39,
+      "y": 6100.69
+    },
+    {
+      "name": "Tarolla",
+      "x": 3921.36,
+      "y": 7085.14
+    },
+    {
+      "name": "Ango",
+      "x": 5703.41,
+      "y": 7385.3
+    },
+    {
+      "name": "San Hernando",
+      "x": 5394.02,
+      "y": 2663.12
+    },
+    {
+      "name": "Yarra Junction",
+      "x": 7422.01,
+      "y": 6299.98
+    },
+    {
+      "name": "San Feres",
+      "x": 2297.24,
+      "y": 6614.72
+    },
+    {
+      "name": "San Isabel",
+      "x": 5881.71,
+      "y": 1954.29
+    },
+    {
+      "name": "Angelito",
+      "x": 2910.95,
+      "y": 2716.05
+    },
+    {
+      "name": "Santa Fuero",
+      "x": 2143.88,
+      "y": 3606.35
+    },
+    {
+      "name": "W. Rubicon",
+      "x": 7571.07,
+      "y": 7392.22
+    },
+    {
+      "name": "Corona",
+      "x": 3784.45,
+      "y": 1810.36
+    },
+    {
+      "name": "Puentora",
+      "x": 2552.35,
+      "y": 7610.68
+    },
+    {
+      "name": "Cartera",
+      "x": 8463.7,
+      "y": 3404.47
+    },
+    {
+      "name": "Wattle Glen",
+      "x": 8607.74,
+      "y": 6631.26
+    },
+    {
+      "name": "E. Rubicon",
+      "x": 8063.02,
+      "y": 7583.78
+    },
+    {
+      "name": "Chatto",
+      "x": 5976.61,
+      "y": 8872.47
+    },
+    {
+      "name": "Viggo",
+      "x": 6887.61,
+      "y": 1657.07
+    },
+    {
+      "name": "El Guapo",
+      "x": 2174.13,
+      "y": 2464.44
+    },
+    {
+      "name": "Porto Nuevo",
+      "x": 7709.02,
+      "y": 2100.23
+    },
+    {
+      "name": "Farallon",
+      "x": 1085.55,
+      "y": 5120.26
+    },
+    {
+      "name": "Clayton",
+      "x": 5129.36,
+      "y": 9788.07
+    },
+    {
+      "name": "Woodend",
+      "x": 8037.18,
+      "y": 9008.42
+    },
+    {
+      "name": "Hill Grove",
+      "x": 9331.98,
+      "y": 7646.5
+    },
+    {
+      "name": "Lagolon",
+      "x": 9278.79,
+      "y": 8402.22
     }
   ]
 };
@@ -17403,6 +17811,87 @@ Arma3Map.Maps.uzbin = {
       "name": "Rabat Waysi",
       "x": 17085.2,
       "y": 13763.2
+    }
+  ]
+};
+Arma3Map.Maps.vn_the_bra = {
+  CRS: MGRS_CRS(0.063, 0.063, 323),
+  "worldName": "vn_the_bra",
+  "tilePattern": "/maps/vn_the_bra/{z}/{x}/{y}.png",
+  "maxZoom": 4,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    2560,
+    2560
+  ],
+  "worldSize": 5120.0,
+  "preview": null,
+  "dlc": null,
+  "title": "The Bra",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Pia Hom",
+      "x": 2289.13,
+      "y": 392.0
+    },
+    {
+      "name": "Pak Ha",
+      "x": 1525.68,
+      "y": 2410.53
+    },
+    {
+      "name": "Antoum",
+      "x": 759.73,
+      "y": 2550.12
+    },
+    {
+      "name": "Ban Onglouang",
+      "x": 735.08,
+      "y": 3300.58
+    },
+    {
+      "name": "Ban Pakha",
+      "x": 2010.96,
+      "y": 3388.41
+    },
+    {
+      "name": "Vangtat Kang",
+      "x": 2481.8,
+      "y": 3257.76
+    },
+    {
+      "name": "Ban Chom",
+      "x": 3801.75,
+      "y": 1894.39
+    },
+    {
+      "name": "Nam Phat",
+      "x": 3718.31,
+      "y": 2908.54
+    },
+    {
+      "name": "Ban Phiadouang",
+      "x": 3570.61,
+      "y": 3293.12
+    },
+    {
+      "name": "Ban Dac Maruk",
+      "x": 1331.82,
+      "y": 4480.22
+    },
+    {
+      "name": "Phouvong",
+      "x": 479.36,
+      "y": 4526.7
+    },
+    {
+      "name": "Xayden",
+      "x": 4787.96,
+      "y": 2752.69
     }
   ]
 };
