@@ -141,7 +141,6 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | <a href="vn_khe_san.html"><img src="maps/vn_khe_san/0/0/0.png" width="200" height="200" /></a> | <a href="vn_the_bra.html"><img src="maps/vn_the_bra/0/0/0.png" width="200" height="200" /></a> | <a href=""><img src="" width="200" height="200" /></a> |
 
 
-
 Content under
 
 - [Arma Public Licence](https://www.bohemia.net/community/licenses/arma-public-license). &copy; Bohemia Interactive.
