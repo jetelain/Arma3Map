@@ -76,7 +76,7 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <a href="cup_chernarus_a3.html"><img src="maps/cup_chernarus_a3/0/0/0.png" width="200" height="200" /></a> | <a href="chernarus_a3s.html"><img src="maps/chernarus_a3s/0/0/0.png" width="200" height="200" /></a> | <a href="beketov.html"><img src="maps/beketov/0/0/0.png" width="200" height="200" /></a> |
 
-| [Cam Lao Nam](cam_lao_nam.html)                                                                        | [GulfCoast](gulfcoast.html)                                                        | [Saint Kapaulio](kapaulio.html)                                                            |
+| [SOG Cam Lao Nam](cam_lao_nam.html)                                                                        | [GulfCoast](gulfcoast.html)                                                        | [Saint Kapaulio](kapaulio.html)                                                            |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | 
 | <a href="cam_lao_nam.html"><img src="maps/cam_lao_nam/0/0/0.png" width="200" height="200" /></a> | <a href="gulfcoast.html"><img src="maps/gulfcoast/0/0/0.png" width="200" height="200" /></a> | <a href="kapaulio.html"><img src="maps/kapaulio/0/0/0.png" width="200" height="200" /></a> 
 
@@ -135,6 +135,10 @@ Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leafle
 | [BETA-42m Bovington Test Area](rksla3_t_bov_test_area.html)                                                            | [UKAF BATUS 40km](ukaf_batus.html)                                                             | [Mutambara](swu_public_rhode_map.html)                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | <a href="rksla3_t_bov_test_area.html"><img src="maps/rksla3_t_bov_test_area/0/0/0.png" width="200" height="200" /></a> | <a href="ukaf_batus.html"><img src="maps/ukaf_batus/0/0/0.png" width="200" height="200" /></a> | <a href="swu_public_rhode_map.html"><img src="maps/swu_public_rhode_map/0/0/0.png" width="200" height="200" /></a> |
+
+| [SOG Khe San](vn_khe_san.html)                                                            | [SOG The Bra](vn_the_bra.html)                                                             | []()                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| <a href="vn_khe_san.html"><img src="maps/vn_khe_san/0/0/0.png" width="200" height="200" /></a> | <a href="vn_the_bra.html"><img src="maps/vn_the_bra/0/0/0.png" width="200" height="200" /></a> | <a href=""><img src="" width="200" height="200" /></a> |
 
 
 Content under
