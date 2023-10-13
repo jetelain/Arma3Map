@@ -18937,6 +18937,143 @@ Arma3Map.Maps.vt7 = {
 		{name:"Nopala",x:389.11,y:17287.1}
 	]
 };
+Arma3Map.Maps.vtf_korsac = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 259),
+  "worldName": "vtf_korsac",
+  "tilePattern": "/maps/vtf_korsac/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 259,
+  "center": [
+    4096,
+    4096
+  ],
+  "worldSize": 8192.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Korsac",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Myro",
+      "x": 4671.52,
+      "y": 3436.94
+    },
+    {
+      "name": "Cherny Shakal",
+      "x": 3857.72,
+      "y": 5110.46
+    },
+    {
+      "name": "Rostok",
+      "x": 2980.0,
+      "y": 2590.0
+    },
+    {
+      "name": "Nozyba",
+      "x": 4887.53,
+      "y": 2049.53
+    },
+    {
+      "name": "Czero",
+      "x": 2281.17,
+      "y": 2530.16
+    },
+    {
+      "name": "Zeleny Doliny",
+      "x": 4039.72,
+      "y": 1336.9
+    },
+    {
+      "name": "Nizhnegorsk",
+      "x": 1691.16,
+      "y": 2695.04
+    },
+    {
+      "name": "Novaya Zelen",
+      "x": 1773.85,
+      "y": 5660.38
+    },
+    {
+      "name": "Kirvansk",
+      "x": 5236.95,
+      "y": 7148.22
+    },
+    {
+      "name": "Nizkiy",
+      "x": 4735.8,
+      "y": 773.2
+    },
+    {
+      "name": "Zerno",
+      "x": 7251.63,
+      "y": 2841.75
+    },
+    {
+      "name": "Nikovskaya",
+      "x": 811.88,
+      "y": 4974.47
+    },
+    {
+      "name": "Borzoisk",
+      "x": 1841.41,
+      "y": 1085.71
+    },
+    {
+      "name": "Lynsk",
+      "x": 7035.79,
+      "y": 1367.33
+    }
+  ]
+};
+Arma3Map.Maps.vtf_lybor = {
+  CRS: MGRS_CRS(0.063, 0.063, 388),
+  "worldName": "vtf_lybor",
+  "tilePattern": "/maps/vtf_lybor/{z}/{x}/{y}.png",
+  "maxZoom": 4,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 388,
+  "center": [
+    3072,
+    3072
+  ],
+  "worldSize": 6144.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Lybor",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Leno",
+      "x": 2586.21,
+      "y": 3552.89
+    },
+    {
+      "name": "Kinney",
+      "x": 3302.34,
+      "y": 3833.49
+    },
+    {
+      "name": "Rumi",
+      "x": 3876.26,
+      "y": 3851.59
+    },
+    {
+      "name": "Kadeny",
+      "x": 4581.61,
+      "y": 3134.96
+    },
+    {
+      "name": "Miro",
+      "x": 6032.75,
+      "y": 4270.08
+    }
+  ]
+};
 Arma3Map.Maps.wake = {
   CRS: MGRS_CRS(0.0315, 0.0315, 323),
   "worldName": "wake",
