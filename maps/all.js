@@ -8521,14 +8521,14 @@ Arma3Map.Maps.fapovo = {
   ]
 };
 Arma3Map.Maps.farabad = {
-  CRS: MGRS_CRS(0.02475, 0.0253125, 273),
+  CRS: MGRS_CRS(0.0315, 0.0315, 339),
   "worldName": "farabad",
   "tilePattern": "/maps/farabad/{z}/{x}/{y}.png",
   "maxZoom": 5,
   "minZoom": 0,
   "defaultZoom": 2,
   "attribution": "&copy; Bohemia Interactive",
-  "tileSize": 273,
+  "tileSize": 339,
   "center": [
     5376,
     5376
@@ -8551,8 +8551,13 @@ Arma3Map.Maps.farabad = {
     },
     {
       "name": "Farabad",
-      "x": 4534.29,
-      "y": 5186.77
+      "x": 4515.79,
+      "y": 5146.41
+    },
+    {
+      "name": "Kaftar Kar",
+      "x": 9094.97,
+      "y": 10435.5
     },
     {
       "name": "GREEN ZONE",
@@ -8560,9 +8565,34 @@ Arma3Map.Maps.farabad = {
       "y": 4948.94
     },
     {
+      "name": "Shahruk",
+      "x": 8749.23,
+      "y": 7238.22
+    },
+    {
+      "name": "Kandah",
+      "x": 9591.41,
+      "y": 9081.76
+    },
+    {
+      "name": "Ali Kala",
+      "x": 8880.51,
+      "y": 6014.01
+    },
+    {
       "name": "Hamza",
       "x": 8487.0,
       "y": 3437.78
+    },
+    {
+      "name": "Karkanak",
+      "x": 2330.22,
+      "y": 598.98
+    },
+    {
+      "name": "Port Farabad",
+      "x": 7979.58,
+      "y": 659.33
     }
   ]
 };
@@ -9331,6 +9361,82 @@ Arma3Map.Maps.gm_weferlingen_winter = {
       "name": "Kathendorf",
       "x": 18377.7,
       "y": 17635.0
+    }
+  ]
+};
+Arma3Map.Maps.grozny = {
+  CRS: MGRS_CRS(0.126, 0.126, 259),
+  "worldName": "grozny",
+  "tilePattern": "/maps/grozny/{z}/{x}/{y}.png",
+  "maxZoom": 3,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 259,
+  "center": [
+    1024,
+    1024
+  ],
+  "worldSize": 2048.0,
+  "preview": null,
+  "dlc": null,
+  "title": "=ARC= Grozny",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "School",
+      "x": 1004.0,
+      "y": 909.0
+    },
+    {
+      "name": "Church",
+      "x": 1157.0,
+      "y": 1031.0
+    },
+    {
+      "name": "Wastewater treatment",
+      "x": 1058.0,
+      "y": 1177.0
+    },
+    {
+      "name": "Warehouse",
+      "x": 823.0,
+      "y": 1040.0
+    },
+    {
+      "name": "School",
+      "x": 883.0,
+      "y": 1219.0
+    },
+    {
+      "name": "Power Plant",
+      "x": 1242.0,
+      "y": 889.0
+    },
+    {
+      "name": "Cars breakers",
+      "x": 963.0,
+      "y": 1393.0
+    },
+    {
+      "name": "Train Station",
+      "x": 611.0,
+      "y": 972.0
+    },
+    {
+      "name": "Hospital",
+      "x": 860.0,
+      "y": 1429.0
+    },
+    {
+      "name": "Industrial Zone",
+      "x": 667.0,
+      "y": 684.0
+    },
+    {
+      "name": "Embassy",
+      "x": 532.0,
+      "y": 1341.0
     }
   ]
 };
@@ -18951,10 +19057,10 @@ Arma3Map.Maps.vtf_korsac = {
     4096
   ],
   "worldSize": 8192.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/2067772147321327305/CB74EB7DF254EA7325611F36AA3C136C93EEB349/",
   "dlc": null,
   "title": "Korsac",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=3043043427",
   "cities": [
     {
       "name": "Myro",
@@ -19042,10 +19148,10 @@ Arma3Map.Maps.vtf_lybor = {
     3072
   ],
   "worldSize": 6144.0,
-  "preview": null,
+  "preview": "https://steamuserimages-a.akamaihd.net/ugc/2001338978268336735/C02E9B5C90EFC3A9582F8DB9F4FBA4124EAC7D11/",
   "dlc": null,
   "title": "Lybor",
-  "steamWorkshop": null,
+  "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=3013515917",
   "cities": [
     {
       "name": "Leno",
