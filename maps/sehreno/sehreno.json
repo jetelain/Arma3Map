@@ -1,0 +1,260 @@
+{
+  "worldName": "sehreno",
+  "tilePattern": "/maps/sehreno/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Sehreno",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Rahmadi",
+      "x": 2931.13,
+      "y": 2798.62
+    },
+    {
+      "name": "Arcadia",
+      "x": 7600.91,
+      "y": 6435.52
+    },
+    {
+      "name": "Estrella",
+      "x": 6785.26,
+      "y": 8139.76
+    },
+    {
+      "name": "Tiberia",
+      "x": 9406.45,
+      "y": 5145.5
+    },
+    {
+      "name": "Cayo",
+      "x": 9324.72,
+      "y": 5982.79
+    },
+    {
+      "name": "Cedras",
+      "x": 7379.13,
+      "y": 8687.78
+    },
+    {
+      "name": "Gulan",
+      "x": 8803.67,
+      "y": 7733.56
+    },
+    {
+      "name": "Iguana",
+      "x": 10730.4,
+      "y": 4827.97
+    },
+    {
+      "name": "Ambergris",
+      "x": 7669.62,
+      "y": 9181.86
+    },
+    {
+      "name": "Chantico",
+      "x": 8221.84,
+      "y": 9087.71
+    },
+    {
+      "name": "Somato",
+      "x": 9199.74,
+      "y": 8273.56
+    },
+    {
+      "name": "Balmopan",
+      "x": 8035.76,
+      "y": 9456.25
+    },
+    {
+      "name": "Parato",
+      "x": 11367.6,
+      "y": 5290.51
+    },
+    {
+      "name": "Yoro",
+      "x": 9750.97,
+      "y": 8723.95
+    },
+    {
+      "name": "Dolores",
+      "x": 11613.6,
+      "y": 6018.85
+    },
+    {
+      "name": "Pesto",
+      "x": 10179.7,
+      "y": 8432.19
+    },
+    {
+      "name": "PARAISO",
+      "x": 10612.3,
+      "y": 9412.9
+    },
+    {
+      "name": "Ortego",
+      "x": 12355.6,
+      "y": 7095.83
+    },
+    {
+      "name": "Bonanza",
+      "x": 11211.5,
+      "y": 8858.06
+    },
+    {
+      "name": "Rashidah",
+      "x": 9585.79,
+      "y": 11109.2
+    },
+    {
+      "name": "Corinto",
+      "x": 11567.7,
+      "y": 9144.12
+    },
+    {
+      "name": "Geraldo",
+      "x": 13276.7,
+      "y": 6966.06
+    },
+    {
+      "name": "Corazol West",
+      "x": 13023.1,
+      "y": 8838.98
+    },
+    {
+      "name": "Corazol East",
+      "x": 13556.2,
+      "y": 9062.02
+    },
+    {
+      "name": "Tlaloc",
+      "x": 10857.5,
+      "y": 12628.6
+    },
+    {
+      "name": "Gaula",
+      "x": 14503.5,
+      "y": 8538.8
+    },
+    {
+      "name": "Modesta",
+      "x": 14372.4,
+      "y": 9428.12
+    },
+    {
+      "name": "Mercalillo",
+      "x": 13250.0,
+      "y": 11292.9
+    },
+    {
+      "name": "Pacamac",
+      "x": 9713.48,
+      "y": 14448.7
+    },
+    {
+      "name": "Acequero",
+      "x": 6877.44,
+      "y": 16096.7
+    },
+    {
+      "name": "Hunapu",
+      "x": 7737.76,
+      "y": 15755.6
+    },
+    {
+      "name": "Obregan",
+      "x": 14520.1,
+      "y": 10877.6
+    },
+    {
+      "name": "Valor",
+      "x": 15343.3,
+      "y": 9895.96
+    },
+    {
+      "name": "Carmen",
+      "x": 12599.8,
+      "y": 13668.5
+    },
+    {
+      "name": "Tandag",
+      "x": 11788.8,
+      "y": 14451.0
+    },
+    {
+      "name": "BAGANGO",
+      "x": 14240.3,
+      "y": 12534.0
+    },
+    {
+      "name": "Everon",
+      "x": 16514.2,
+      "y": 9300.35
+    },
+    {
+      "name": "Pesadas",
+      "x": 11906.8,
+      "y": 15350.1
+    },
+    {
+      "name": "Mataredo",
+      "x": 10653.0,
+      "y": 16265.0
+    },
+    {
+      "name": "Eponia",
+      "x": 12531.3,
+      "y": 14995.7
+    },
+    {
+      "name": "Liberacion ",
+      "x": 16516.9,
+      "y": 11705.6
+    },
+    {
+      "name": "Benoma",
+      "x": 15383.1,
+      "y": 13768.5
+    },
+    {
+      "name": "Pinos",
+      "x": 17932.9,
+      "y": 10747.7
+    },
+    {
+      "name": "Santa Lucia",
+      "x": 12100.6,
+      "y": 17660.4
+    },
+    {
+      "name": "Dror",
+      "x": 13998.0,
+      "y": 16467.8
+    },
+    {
+      "name": "Ixel",
+      "x": 17480.5,
+      "y": 13564.6
+    },
+    {
+      "name": "Masbete",
+      "x": 17231.4,
+      "y": 14339.1
+    },
+    {
+      "name": "Pita",
+      "x": 18941.0,
+      "y": 13888.9
+    }
+  ]
+}
