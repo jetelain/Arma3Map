@@ -1,0 +1,66 @@
+Arma3Map.Maps.dagger_island_summer = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "dagger_island_summer",
+  "tilePattern": "/maps/dagger_island_summer/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Dagger Island Training Complex",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Victory Airbase",
+      "x": 12713.8,
+      "y": 12364.1
+    },
+    {
+      "name": "MOUT Facility",
+      "x": 5995.93,
+      "y": 9214.3
+    },
+    {
+      "name": "Bombing Range",
+      "x": 15826.2,
+      "y": 11845.8
+    },
+    {
+      "name": "Gunnery Range",
+      "x": 16297.3,
+      "y": 10281.9
+    },
+    {
+      "name": "Camp Dagger",
+      "x": 4173.02,
+      "y": 10235.9
+    },
+    {
+      "name": "Multi Purpose Range Complex",
+      "x": 4270.19,
+      "y": 12799.2
+    },
+    {
+      "name": "Impact Area",
+      "x": 16485.8,
+      "y": 7306.45
+    },
+    {
+      "name": "Long-Range Impact Area",
+      "x": 15756.3,
+      "y": 3756.91
+    },
+    {
+      "name": "Impact Area",
+      "x": 17750.6,
+      "y": 5746.23
+    }
+  ]
+};
