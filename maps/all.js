@@ -5224,6 +5224,72 @@ Arma3Map.Maps.cup_chernarus_a3 = {
     }
   ]
 };
+Arma3Map.Maps.dagger_island_summer = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "dagger_island_summer",
+  "tilePattern": "/maps/dagger_island_summer/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Dagger Island Training Complex",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Victory Airbase",
+      "x": 12713.8,
+      "y": 12364.1
+    },
+    {
+      "name": "MOUT Facility",
+      "x": 5995.93,
+      "y": 9214.3
+    },
+    {
+      "name": "Bombing Range",
+      "x": 15826.2,
+      "y": 11845.8
+    },
+    {
+      "name": "Gunnery Range",
+      "x": 16297.3,
+      "y": 10281.9
+    },
+    {
+      "name": "Camp Dagger",
+      "x": 4173.02,
+      "y": 10235.9
+    },
+    {
+      "name": "Multi Purpose Range Complex",
+      "x": 4270.19,
+      "y": 12799.2
+    },
+    {
+      "name": "Impact Area",
+      "x": 16485.8,
+      "y": 7306.45
+    },
+    {
+      "name": "Long-Range Impact Area",
+      "x": 15756.3,
+      "y": 3756.91
+    },
+    {
+      "name": "Impact Area",
+      "x": 17750.6,
+      "y": 5746.23
+    }
+  ]
+};
 Arma3Map.Maps.deniland = {
   CRS: MGRS_CRS(0.007875, 0.007875, 323),
   "worldName": "deniland",
@@ -8596,6 +8662,26 @@ Arma3Map.Maps.farabad = {
     }
   ]
 };
+Arma3Map.Maps.farkhar = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 323),
+  "worldName": "farkhar",
+  "tilePattern": "/maps/farkhar/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": null,
+  "dlc": null,
+  "title": "=ARC= Farkhar Valley",
+  "steamWorkshop": null,
+  "cities": []
+};
 Arma3Map.Maps.fata = {
   CRS: MGRS_CRS(0.0315, 0.0315, 323),
   "worldName": "fata",
@@ -9361,6 +9447,327 @@ Arma3Map.Maps.gm_weferlingen_winter = {
       "name": "Kathendorf",
       "x": 18377.7,
       "y": 17635.0
+    }
+  ]
+};
+Arma3Map.Maps.green_sea = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "green_sea",
+  "tilePattern": "/maps/green_sea/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Green Sea",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Pusta",
+      "x": 8647.18,
+      "y": 10098.5
+    },
+    {
+      "name": "Staroye",
+      "x": 9732.52,
+      "y": 11529.0
+    },
+    {
+      "name": "Kamyshovo",
+      "x": 11583.1,
+      "y": 9659.58
+    },
+    {
+      "name": "Elektrozavodsk",
+      "x": 9833.72,
+      "y": 8303.41
+    },
+    {
+      "name": "Msta",
+      "x": 10853.8,
+      "y": 11565.4
+    },
+    {
+      "name": "Tulga",
+      "x": 12322.5,
+      "y": 10513.5
+    },
+    {
+      "name": "Prigorodki",
+      "x": 7535.58,
+      "y": 9563.26
+    },
+    {
+      "name": "Shakhovka",
+      "x": 9248.64,
+      "y": 12711.3
+    },
+    {
+      "name": "Dolina",
+      "x": 10805.2,
+      "y": 12777.6
+    },
+    {
+      "name": "Mogilevka",
+      "x": 7170.41,
+      "y": 11240.5
+    },
+    {
+      "name": "Guglovo",
+      "x": 7951.08,
+      "y": 12847.2
+    },
+    {
+      "name": "Orlovets",
+      "x": 11651.0,
+      "y": 13333.8
+    },
+    {
+      "name": "Solnitchniy",
+      "x": 12917.4,
+      "y": 12480.8
+    },
+    {
+      "name": "Tchernogorsk",
+      "x": 6251.21,
+      "y": 8698.13
+    },
+    {
+      "name": "Polana",
+      "x": 10227.1,
+      "y": 14197.3
+    },
+    {
+      "name": "Vishnoye",
+      "x": 6081.91,
+      "y": 12222.8
+    },
+    {
+      "name": "Nadezhdino",
+      "x": 5396.66,
+      "y": 10840.9
+    },
+    {
+      "name": "Nizhnoye",
+      "x": 12344.9,
+      "y": 14241.7
+    },
+    {
+      "name": "Gorka",
+      "x": 9136.06,
+      "y": 15058.4
+    },
+    {
+      "name": "Novy Sobor",
+      "x": 6643.63,
+      "y": 13918.6
+    },
+    {
+      "name": "Berezino",
+      "x": 11534.0,
+      "y": 15234.8
+    },
+    {
+      "name": "Pulkovo",
+      "x": 4470.82,
+      "y": 11771.1
+    },
+    {
+      "name": "Stary Sobor",
+      "x": 5689.01,
+      "y": 13937.7
+    },
+    {
+      "name": "Kozlovka",
+      "x": 3997.57,
+      "y": 10741.8
+    },
+    {
+      "name": "Dubrovka",
+      "x": 9902.13,
+      "y": 16082.3
+    },
+    {
+      "name": "Balota",
+      "x": 4047.58,
+      "y": 8609.32
+    },
+    {
+      "name": "Rogovo",
+      "x": 4290.96,
+      "y": 12979.3
+    },
+    {
+      "name": "Pogorevka",
+      "x": 3955.36,
+      "y": 12569.6
+    },
+    {
+      "name": "Komarovo",
+      "x": 3184.31,
+      "y": 8643.0
+    },
+    {
+      "name": "Kabanino",
+      "x": 4820.71,
+      "y": 14789.9
+    },
+    {
+      "name": "Bor",
+      "x": 2846.74,
+      "y": 10030.7
+    },
+    {
+      "name": "Khelm",
+      "x": 11849.3,
+      "y": 16915.0
+    },
+    {
+      "name": "Drozhino",
+      "x": 2902.02,
+      "y": 11069.9
+    },
+    {
+      "name": "Kamenyy",
+      "x": 17535.0,
+      "y": 9994.0
+    },
+    {
+      "name": "Zelenogorsk",
+      "x": 2294.26,
+      "y": 11524.4
+    },
+    {
+      "name": "Grishino",
+      "x": 5479.94,
+      "y": 16479.7
+    },
+    {
+      "name": "Gvozdno",
+      "x": 8134.62,
+      "y": 18034.3
+    },
+    {
+      "name": "Sosnovka",
+      "x": 2059.26,
+      "y": 12502.7
+    },
+    {
+      "name": "Vybor",
+      "x": 3353.17,
+      "y": 15062.9
+    },
+    {
+      "name": "Krasnostav",
+      "x": 10744.3,
+      "y": 18418.5
+    },
+    {
+      "name": "Pustoshka",
+      "x": 2590.23,
+      "y": 14084.5
+    },
+    {
+      "name": "Utes Isle",
+      "x": 18649.4,
+      "y": 9799.42
+    },
+    {
+      "name": "Strelka",
+      "x": 18574.9,
+      "y": 8754.67
+    },
+    {
+      "name": "Kamenka",
+      "x": 1373.09,
+      "y": 8393.85
+    },
+    {
+      "name": "Pavlovo",
+      "x": 1213.98,
+      "y": 10002.7
+    },
+    {
+      "name": "Myshkino",
+      "x": 1518.18,
+      "y": 13499.1
+    },
+    {
+      "name": "Olsha",
+      "x": 12851.0,
+      "y": 19044.1
+    },
+    {
+      "name": "Zamok Dozornyy",
+      "x": 17747.8,
+      "y": 15743.7
+    },
+    {
+      "name": "Lopatino",
+      "x": 2270.0,
+      "y": 16149.0
+    },
+    {
+      "name": "Zelenomorsk",
+      "x": 17126.9,
+      "y": 17153.4
+    },
+    {
+      "name": "Petrovka",
+      "x": 4536.45,
+      "y": 18634.8
+    },
+    {
+      "name": "Veteran Isle",
+      "x": 14356.5,
+      "y": 623.063
+    },
+    {
+      "name": "Peregon",
+      "x": 13838.0,
+      "y": 20157.0
+    },
+    {
+      "name": "Okrainnyy",
+      "x": 18509.7,
+      "y": 17566.7
+    },
+    {
+      "name": "Svyatnyy",
+      "x": 20215.9,
+      "y": 15253.0
+    },
+    {
+      "name": "Poputniy",
+      "x": 15823.8,
+      "y": 19978.8
+    },
+    {
+      "name": "Primorskiy",
+      "x": 16945.4,
+      "y": 19505.1
+    },
+    {
+      "name": "Volkovo",
+      "x": 18583.6,
+      "y": 19364.3
+    },
+    {
+      "name": "Dubovo",
+      "x": 20092.6,
+      "y": 17732.3
+    },
+    {
+      "name": "Eastside Port",
+      "x": 18982.0,
+      "y": 916.0
     }
   ]
 };
@@ -11363,6 +11770,298 @@ Arma3Map.Maps.kunduz = {
       "name": "Darreh",
       "x": 4856.81,
       "y": 4923.84
+    }
+  ]
+};
+Arma3Map.Maps.kunduz_river = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 323),
+  "worldName": "kunduz_river",
+  "tilePattern": "/maps/kunduz_river/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Kunduz River",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Dhar Ghaffari",
+      "x": 5345.4,
+      "y": 5589.9
+    },
+    {
+      "name": "Shek Ka",
+      "x": 4875.7,
+      "y": 5948.6
+    },
+    {
+      "name": "Tal Gozar",
+      "x": 4236.5,
+      "y": 4649.8
+    },
+    {
+      "name": "Masjid Muallem",
+      "x": 4860.3,
+      "y": 3968.4
+    },
+    {
+      "name": "Tappeh Ka",
+      "x": 4523.5,
+      "y": 6538.7
+    },
+    {
+      "name": "Masjid Ahmad",
+      "x": 3931.4,
+      "y": 6175.9
+    },
+    {
+      "name": "Mor Sheykh",
+      "x": 7004.3,
+      "y": 4475.0
+    },
+    {
+      "name": "Baba Rahim",
+      "x": 6282.2,
+      "y": 3299.4
+    },
+    {
+      "name": "Anbar Tappeh",
+      "x": 5454.2,
+      "y": 7691.5
+    },
+    {
+      "name": "Kar Shek",
+      "x": 3785.2,
+      "y": 7543.7
+    },
+    {
+      "name": "Darreh",
+      "x": 5341.9,
+      "y": 8294.7
+    },
+    {
+      "name": "Gerdan",
+      "x": 3951.1,
+      "y": 8687.5
+    },
+    {
+      "name": "Omar Khel",
+      "x": 7603.0,
+      "y": 7960.9
+    },
+    {
+      "name": "Mugdudkhila",
+      "x": 8964.7,
+      "y": 5131.13
+    },
+    {
+      "name": "Jama Masjid",
+      "x": 6051.4,
+      "y": 1334.5
+    },
+    {
+      "name": "Maghdoot Khel",
+      "x": 8913.1,
+      "y": 6373.8
+    },
+    {
+      "name": "Chumchuq Jar",
+      "x": 8480.9,
+      "y": 2616.6
+    },
+    {
+      "name": "Laghi Auliya",
+      "x": 9126.3,
+      "y": 3605.2
+    },
+    {
+      "name": "Esa Khan",
+      "x": 5221.2,
+      "y": 9611.6
+    },
+    {
+      "name": "Nazar Bay",
+      "x": 7675.3,
+      "y": 9223.1
+    },
+    {
+      "name": "Taher Kamar",
+      "x": 3608.2,
+      "y": 9774.7
+    },
+    {
+      "name": "Qazako Jumat",
+      "x": 2150.3,
+      "y": 9320.3
+    },
+    {
+      "name": "Naqel",
+      "x": 9049.2,
+      "y": 9074.9
+    },
+    {
+      "name": "Chahar Dara",
+      "x": 9457.9,
+      "y": 1411.1
+    },
+    {
+      "name": "Qarya Laghi",
+      "x": 9110.0,
+      "y": 743.7
+    }
+  ]
+};
+Arma3Map.Maps.kunduz_valley = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 323),
+  "worldName": "kunduz_valley",
+  "tilePattern": "/maps/kunduz_valley/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    5120,
+    5120
+  ],
+  "worldSize": 10240.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Kunduz River",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Dhar Ghaffari",
+      "x": 5345.4,
+      "y": 5589.9
+    },
+    {
+      "name": "Shek Ka",
+      "x": 4875.7,
+      "y": 5948.6
+    },
+    {
+      "name": "Tal Gozar",
+      "x": 4236.5,
+      "y": 4649.8
+    },
+    {
+      "name": "Masjid Muallem",
+      "x": 4860.3,
+      "y": 3968.4
+    },
+    {
+      "name": "Tappeh Ka",
+      "x": 4523.5,
+      "y": 6538.7
+    },
+    {
+      "name": "Masjid Ahmad",
+      "x": 3931.4,
+      "y": 6175.9
+    },
+    {
+      "name": "Mor Sheykh",
+      "x": 7004.3,
+      "y": 4475.0
+    },
+    {
+      "name": "Baba Rahim",
+      "x": 6282.2,
+      "y": 3299.4
+    },
+    {
+      "name": "Anbar Tappeh",
+      "x": 5454.2,
+      "y": 7691.5
+    },
+    {
+      "name": "Kar Shek",
+      "x": 3785.2,
+      "y": 7543.7
+    },
+    {
+      "name": "Darreh",
+      "x": 5341.9,
+      "y": 8294.7
+    },
+    {
+      "name": "Gerdan",
+      "x": 3951.1,
+      "y": 8687.5
+    },
+    {
+      "name": "Omar Khel",
+      "x": 7603.0,
+      "y": 7960.9
+    },
+    {
+      "name": "Mugdudkhila",
+      "x": 8964.7,
+      "y": 5131.13
+    },
+    {
+      "name": "Jama Masjid",
+      "x": 6051.4,
+      "y": 1334.5
+    },
+    {
+      "name": "Maghdoot Khel",
+      "x": 8913.1,
+      "y": 6373.8
+    },
+    {
+      "name": "Chumchuq Jar",
+      "x": 8480.9,
+      "y": 2616.6
+    },
+    {
+      "name": "Laghi Auliya",
+      "x": 9126.3,
+      "y": 3605.2
+    },
+    {
+      "name": "Esa Khan",
+      "x": 5221.2,
+      "y": 9611.6
+    },
+    {
+      "name": "Nazar Bay",
+      "x": 7675.3,
+      "y": 9223.1
+    },
+    {
+      "name": "Taher Kamar",
+      "x": 3608.2,
+      "y": 9774.7
+    },
+    {
+      "name": "Qazako Jumat",
+      "x": 2150.3,
+      "y": 9320.3
+    },
+    {
+      "name": "Naqel",
+      "x": 9049.2,
+      "y": 9074.9
+    },
+    {
+      "name": "Chahar Dara",
+      "x": 9457.9,
+      "y": 1411.1
+    },
+    {
+      "name": "Qarya Laghi",
+      "x": 9110.0,
+      "y": 743.7
     }
   ]
 };
@@ -16343,6 +17042,267 @@ Arma3Map.Maps.sefrouramal = {
       "name": "Rissani",
       "x": 4271.42,
       "y": 8761.04
+    }
+  ]
+};
+Arma3Map.Maps.sehreno = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "sehreno",
+  "tilePattern": "/maps/sehreno/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Sehreno",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Rahmadi",
+      "x": 2931.13,
+      "y": 2798.62
+    },
+    {
+      "name": "Arcadia",
+      "x": 7600.91,
+      "y": 6435.52
+    },
+    {
+      "name": "Estrella",
+      "x": 6785.26,
+      "y": 8139.76
+    },
+    {
+      "name": "Tiberia",
+      "x": 9406.45,
+      "y": 5145.5
+    },
+    {
+      "name": "Cayo",
+      "x": 9324.72,
+      "y": 5982.79
+    },
+    {
+      "name": "Cedras",
+      "x": 7379.13,
+      "y": 8687.78
+    },
+    {
+      "name": "Gulan",
+      "x": 8803.67,
+      "y": 7733.56
+    },
+    {
+      "name": "Iguana",
+      "x": 10730.4,
+      "y": 4827.97
+    },
+    {
+      "name": "Ambergris",
+      "x": 7669.62,
+      "y": 9181.86
+    },
+    {
+      "name": "Chantico",
+      "x": 8221.84,
+      "y": 9087.71
+    },
+    {
+      "name": "Somato",
+      "x": 9199.74,
+      "y": 8273.56
+    },
+    {
+      "name": "Balmopan",
+      "x": 8035.76,
+      "y": 9456.25
+    },
+    {
+      "name": "Parato",
+      "x": 11367.6,
+      "y": 5290.51
+    },
+    {
+      "name": "Yoro",
+      "x": 9750.97,
+      "y": 8723.95
+    },
+    {
+      "name": "Dolores",
+      "x": 11613.6,
+      "y": 6018.85
+    },
+    {
+      "name": "Pesto",
+      "x": 10179.7,
+      "y": 8432.19
+    },
+    {
+      "name": "PARAISO",
+      "x": 10612.3,
+      "y": 9412.9
+    },
+    {
+      "name": "Ortego",
+      "x": 12355.6,
+      "y": 7095.83
+    },
+    {
+      "name": "Bonanza",
+      "x": 11211.5,
+      "y": 8858.06
+    },
+    {
+      "name": "Rashidah",
+      "x": 9585.79,
+      "y": 11109.2
+    },
+    {
+      "name": "Corinto",
+      "x": 11567.7,
+      "y": 9144.12
+    },
+    {
+      "name": "Geraldo",
+      "x": 13276.7,
+      "y": 6966.06
+    },
+    {
+      "name": "Corazol West",
+      "x": 13023.1,
+      "y": 8838.98
+    },
+    {
+      "name": "Corazol East",
+      "x": 13556.2,
+      "y": 9062.02
+    },
+    {
+      "name": "Tlaloc",
+      "x": 10857.5,
+      "y": 12628.6
+    },
+    {
+      "name": "Gaula",
+      "x": 14503.5,
+      "y": 8538.8
+    },
+    {
+      "name": "Modesta",
+      "x": 14372.4,
+      "y": 9428.12
+    },
+    {
+      "name": "Mercalillo",
+      "x": 13250.0,
+      "y": 11292.9
+    },
+    {
+      "name": "Pacamac",
+      "x": 9713.48,
+      "y": 14448.7
+    },
+    {
+      "name": "Acequero",
+      "x": 6877.44,
+      "y": 16096.7
+    },
+    {
+      "name": "Hunapu",
+      "x": 7737.76,
+      "y": 15755.6
+    },
+    {
+      "name": "Obregan",
+      "x": 14520.1,
+      "y": 10877.6
+    },
+    {
+      "name": "Valor",
+      "x": 15343.3,
+      "y": 9895.96
+    },
+    {
+      "name": "Carmen",
+      "x": 12599.8,
+      "y": 13668.5
+    },
+    {
+      "name": "Tandag",
+      "x": 11788.8,
+      "y": 14451.0
+    },
+    {
+      "name": "BAGANGO",
+      "x": 14240.3,
+      "y": 12534.0
+    },
+    {
+      "name": "Everon",
+      "x": 16514.2,
+      "y": 9300.35
+    },
+    {
+      "name": "Pesadas",
+      "x": 11906.8,
+      "y": 15350.1
+    },
+    {
+      "name": "Mataredo",
+      "x": 10653.0,
+      "y": 16265.0
+    },
+    {
+      "name": "Eponia",
+      "x": 12531.3,
+      "y": 14995.7
+    },
+    {
+      "name": "Liberacion ",
+      "x": 16516.9,
+      "y": 11705.6
+    },
+    {
+      "name": "Benoma",
+      "x": 15383.1,
+      "y": 13768.5
+    },
+    {
+      "name": "Pinos",
+      "x": 17932.9,
+      "y": 10747.7
+    },
+    {
+      "name": "Santa Lucia",
+      "x": 12100.6,
+      "y": 17660.4
+    },
+    {
+      "name": "Dror",
+      "x": 13998.0,
+      "y": 16467.8
+    },
+    {
+      "name": "Ixel",
+      "x": 17480.5,
+      "y": 13564.6
+    },
+    {
+      "name": "Masbete",
+      "x": 17231.4,
+      "y": 14339.1
+    },
+    {
+      "name": "Pita",
+      "x": 18941.0,
+      "y": 13888.9
     }
   ]
 };
