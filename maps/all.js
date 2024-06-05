@@ -8938,6 +8938,272 @@ Arma3Map.Maps.fow_map_gold = {
     }
   ]
 };
+Arma3Map.Maps.gm_weferlingen_winter = {
+  CRS: MGRS_CRS(0.01575, 0.01575, 323),
+  "worldName": "gm_weferlingen_winter",
+  "tilePattern": "/maps/gm_weferlingen/{z}/{x}/{y}.png",
+  "maxZoom": 6,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 323,
+  "center": [
+    10240,
+    10240
+  ],
+  "worldSize": 20480.0,
+  "preview": null,
+  "dlc": "https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/",
+  "title": "Weferlingen (Winter)",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "Rennau",
+      "x": 3200.59,
+      "y": 6421.86
+    },
+    {
+      "name": "Rottorf",
+      "x": 5301.23,
+      "y": 6513.79
+    },
+    {
+      "name": "Barmke",
+      "x": 5566.7,
+      "y": 3536.08
+    },
+    {
+      "name": "Ahmstorf",
+      "x": 2177.34,
+      "y": 8260.64
+    },
+    {
+      "name": "Süpplingenburg",
+      "x": 3244.25,
+      "y": 1440.27
+    },
+    {
+      "name": "Gross Steinum",
+      "x": 474.78,
+      "y": 3129.53
+    },
+    {
+      "name": "Mariental",
+      "x": 8237.4,
+      "y": 4274.34
+    },
+    {
+      "name": "Rhode",
+      "x": 279.42,
+      "y": 8656.96
+    },
+    {
+      "name": "Mariental (Horst)",
+      "x": 9093.38,
+      "y": 5763.71
+    },
+    {
+      "name": "Emmerstedt",
+      "x": 6628.5,
+      "y": 687.57
+    },
+    {
+      "name": "Querenhorst",
+      "x": 6822.84,
+      "y": 10869.3
+    },
+    {
+      "name": "Grasleben",
+      "x": 10483.3,
+      "y": 7645.51
+    },
+    {
+      "name": "Klein Sisbeck",
+      "x": 3166.53,
+      "y": 12691.3
+    },
+    {
+      "name": "Gross Sisbeck",
+      "x": 3973.11,
+      "y": 13316.1
+    },
+    {
+      "name": "Rickensdorf",
+      "x": 7122.64,
+      "y": 13311.0
+    },
+    {
+      "name": "Volkmarsdorf",
+      "x": 1635.42,
+      "y": 13937.3
+    },
+    {
+      "name": "Papenrode",
+      "x": 5778.13,
+      "y": 14132.7
+    },
+    {
+      "name": "Döhren",
+      "x": 10752.8,
+      "y": 11338.1
+    },
+    {
+      "name": "Gross Twülpstedt",
+      "x": 3772.86,
+      "y": 14988.8
+    },
+    {
+      "name": "Weferlingen",
+      "x": 13246.8,
+      "y": 8528.46
+    },
+    {
+      "name": "Walbeck",
+      "x": 13751.2,
+      "y": 4628.38
+    },
+    {
+      "name": "Mackendorf",
+      "x": 10827.1,
+      "y": 12808.2
+    },
+    {
+      "name": "Rümmer",
+      "x": 2272.63,
+      "y": 15880.9
+    },
+    {
+      "name": "Klein Twülpstedt",
+      "x": 3949.42,
+      "y": 16288.3
+    },
+    {
+      "name": "Schwanefeld",
+      "x": 15546.0,
+      "y": 2916.93
+    },
+    {
+      "name": "Bahrdorf",
+      "x": 9478.64,
+      "y": 16386.7
+    },
+    {
+      "name": "Ribbenstedt",
+      "x": 15597.7,
+      "y": 8886.79
+    },
+    {
+      "name": "Meinkot",
+      "x": 6944.53,
+      "y": 17407.8
+    },
+    {
+      "name": "Saalsdorf",
+      "x": 13262.7,
+      "y": 13475.0
+    },
+    {
+      "name": "Beendorf",
+      "x": 15194.5,
+      "y": 588.08
+    },
+    {
+      "name": "Hödingen",
+      "x": 16287.2,
+      "y": 7220.52
+    },
+    {
+      "name": "Seggerde",
+      "x": 14750.3,
+      "y": 11967.9
+    },
+    {
+      "name": "Ribbensdorf",
+      "x": 16321.6,
+      "y": 9760.15
+    },
+    {
+      "name": "Velpke",
+      "x": 5134.61,
+      "y": 18769.5
+    },
+    {
+      "name": "Eschenrode",
+      "x": 17166.9,
+      "y": 5133.0
+    },
+    {
+      "name": "Gross Bartensleben",
+      "x": 16675.8,
+      "y": 353.37
+    },
+    {
+      "name": "Wahrstedt",
+      "x": 7553.58,
+      "y": 19252.2
+    },
+    {
+      "name": "Gehrendorf",
+      "x": 11167.7,
+      "y": 17743.4
+    },
+    {
+      "name": "Lockstedt",
+      "x": 13726.2,
+      "y": 16171.4
+    },
+    {
+      "name": "Everingen",
+      "x": 15735.6,
+      "y": 14224.6
+    },
+    {
+      "name": "Klinze",
+      "x": 17758.1,
+      "y": 12167.6
+    },
+    {
+      "name": "Bartensleben",
+      "x": 18378.6,
+      "y": 371.55
+    },
+    {
+      "name": "Behnsdorf",
+      "x": 19584.5,
+      "y": 8450.05
+    },
+    {
+      "name": "Hörsingen",
+      "x": 19897.8,
+      "y": 4553.68
+    },
+    {
+      "name": "Belsdorf",
+      "x": 19532.2,
+      "y": 11324.3
+    },
+    {
+      "name": "Bösdorf",
+      "x": 14195.7,
+      "y": 19413.1
+    },
+    {
+      "name": "Eickendorf",
+      "x": 19022.1,
+      "y": 14362.5
+    },
+    {
+      "name": "Rätzlingen",
+      "x": 16999.6,
+      "y": 17959.4
+    },
+    {
+      "name": "Kathendorf",
+      "x": 18377.7,
+      "y": 17635.0
+    }
+  ]
+};
 Arma3Map.Maps.gm_weferlingen_summer = {
   CRS: MGRS_CRS(0.01575, 0.01575, 323),
   "worldName": "gm_weferlingen_summer",
@@ -11790,152 +12056,6 @@ Arma3Map.Maps.kunduz = {
       "name": "Darreh",
       "x": 4856.81,
       "y": 4923.84
-    }
-  ]
-};
-Arma3Map.Maps.kunduz_river = {
-  CRS: MGRS_CRS(0.0315, 0.0315, 323),
-  "worldName": "kunduz_river",
-  "tilePattern": "/maps/kunduz_river/{z}/{x}/{y}.png",
-  "maxZoom": 5,
-  "minZoom": 0,
-  "defaultZoom": 2,
-  "attribution": "&copy; Bohemia Interactive",
-  "tileSize": 323,
-  "center": [
-    5120,
-    5120
-  ],
-  "worldSize": 10240.0,
-  "preview": null,
-  "dlc": null,
-  "title": "Kunduz River",
-  "steamWorkshop": null,
-  "cities": [
-    {
-      "name": "Dhar Ghaffari",
-      "x": 5345.4,
-      "y": 5589.9
-    },
-    {
-      "name": "Shek Ka",
-      "x": 4875.7,
-      "y": 5948.6
-    },
-    {
-      "name": "Tal Gozar",
-      "x": 4236.5,
-      "y": 4649.8
-    },
-    {
-      "name": "Masjid Muallem",
-      "x": 4860.3,
-      "y": 3968.4
-    },
-    {
-      "name": "Tappeh Ka",
-      "x": 4523.5,
-      "y": 6538.7
-    },
-    {
-      "name": "Masjid Ahmad",
-      "x": 3931.4,
-      "y": 6175.9
-    },
-    {
-      "name": "Mor Sheykh",
-      "x": 7004.3,
-      "y": 4475.0
-    },
-    {
-      "name": "Baba Rahim",
-      "x": 6282.2,
-      "y": 3299.4
-    },
-    {
-      "name": "Anbar Tappeh",
-      "x": 5454.2,
-      "y": 7691.5
-    },
-    {
-      "name": "Kar Shek",
-      "x": 3785.2,
-      "y": 7543.7
-    },
-    {
-      "name": "Darreh",
-      "x": 5341.9,
-      "y": 8294.7
-    },
-    {
-      "name": "Gerdan",
-      "x": 3951.1,
-      "y": 8687.5
-    },
-    {
-      "name": "Omar Khel",
-      "x": 7603.0,
-      "y": 7960.9
-    },
-    {
-      "name": "Mugdudkhila",
-      "x": 8964.7,
-      "y": 5131.13
-    },
-    {
-      "name": "Jama Masjid",
-      "x": 6051.4,
-      "y": 1334.5
-    },
-    {
-      "name": "Maghdoot Khel",
-      "x": 8913.1,
-      "y": 6373.8
-    },
-    {
-      "name": "Chumchuq Jar",
-      "x": 8480.9,
-      "y": 2616.6
-    },
-    {
-      "name": "Laghi Auliya",
-      "x": 9126.3,
-      "y": 3605.2
-    },
-    {
-      "name": "Esa Khan",
-      "x": 5221.2,
-      "y": 9611.6
-    },
-    {
-      "name": "Nazar Bay",
-      "x": 7675.3,
-      "y": 9223.1
-    },
-    {
-      "name": "Taher Kamar",
-      "x": 3608.2,
-      "y": 9774.7
-    },
-    {
-      "name": "Qazako Jumat",
-      "x": 2150.3,
-      "y": 9320.3
-    },
-    {
-      "name": "Naqel",
-      "x": 9049.2,
-      "y": 9074.9
-    },
-    {
-      "name": "Chahar Dara",
-      "x": 9457.9,
-      "y": 1411.1
-    },
-    {
-      "name": "Qarya Laghi",
-      "x": 9110.0,
-      "y": 743.7
     }
   ]
 };
@@ -18346,6 +18466,267 @@ Arma3Map.Maps.tem_anizay = {
     }
   ]
 };
+Arma3Map.Maps.tem_lang_dan = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 259),
+  "worldName": "tem_lang_dan",
+  "tilePattern": "/maps/tem_lang_dan/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 259,
+  "center": [
+    4096,
+    4096
+  ],
+  "worldSize": 8192.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Lang Dan",
+  "steamWorkshop": null,
+  "cities": [
+    {
+      "name": "East Lang Dan",
+      "x": 4461.93,
+      "y": 3683.72
+    },
+    {
+      "name": "Lang Dan",
+      "x": 3593.38,
+      "y": 3826.45
+    },
+    {
+      "name": "North Lang Dan",
+      "x": 4651.38,
+      "y": 4414.34
+    },
+    {
+      "name": "West Lang Dan",
+      "x": 3510.26,
+      "y": 4429.98
+    },
+    {
+      "name": "Laa Suk",
+      "x": 3994.61,
+      "y": 3155.23
+    },
+    {
+      "name": "Ki Jo",
+      "x": 4287.87,
+      "y": 3108.35
+    },
+    {
+      "name": "Ra Ympy",
+      "x": 5064.6,
+      "y": 3552.96
+    },
+    {
+      "name": "Hottu Tu",
+      "x": 4651.79,
+      "y": 5073.65
+    },
+    {
+      "name": "Ka Pus",
+      "x": 4389.59,
+      "y": 5315.7
+    },
+    {
+      "name": "Ja Kal",
+      "x": 5320.15,
+      "y": 4565.63
+    },
+    {
+      "name": "Ki Hau",
+      "x": 3514.81,
+      "y": 5431.64
+    },
+    {
+      "name": "Vaan Hei",
+      "x": 5476.62,
+      "y": 4804.79
+    },
+    {
+      "name": "Kula Rin",
+      "x": 3055.67,
+      "y": 5283.38
+    },
+    {
+      "name": "Na Ky",
+      "x": 4986.96,
+      "y": 2734.56
+    },
+    {
+      "name": "Si Tus",
+      "x": 3525.35,
+      "y": 2553.56
+    },
+    {
+      "name": "Ta Il",
+      "x": 5429.44,
+      "y": 5079.05
+    },
+    {
+      "name": "Si Rii",
+      "x": 3901.94,
+      "y": 5771.08
+    },
+    {
+      "name": "To Mai",
+      "x": 2325.74,
+      "y": 4043.32
+    },
+    {
+      "name": "Si Ve",
+      "x": 4434.0,
+      "y": 2297.83
+    },
+    {
+      "name": "Runa Pe",
+      "x": 2821.57,
+      "y": 2780.53
+    },
+    {
+      "name": "Ri Hii",
+      "x": 5054.07,
+      "y": 5691.13
+    },
+    {
+      "name": "Ka Kuk",
+      "x": 3949.2,
+      "y": 2104.03
+    },
+    {
+      "name": "Ma Pii",
+      "x": 2019.92,
+      "y": 4553.06
+    },
+    {
+      "name": "Lu Tau",
+      "x": 2077.26,
+      "y": 3062.43
+    },
+    {
+      "name": "Ro Mo",
+      "x": 1467.82,
+      "y": 4575.63
+    },
+    {
+      "name": "La Ki",
+      "x": 1352.06,
+      "y": 4196.99
+    },
+    {
+      "name": "Ka Rans",
+      "x": 1318.19,
+      "y": 4204.42
+    },
+    {
+      "name": "Te Vaa",
+      "x": 1858.3,
+      "y": 2039.47
+    },
+    {
+      "name": "Pi Kor",
+      "x": 1051.81,
+      "y": 3525.42
+    },
+    {
+      "name": "Set Sak",
+      "x": 2146.9,
+      "y": 6711.24
+    },
+    {
+      "name": "Ma Ah",
+      "x": 5019.52,
+      "y": 7283.04
+    },
+    {
+      "name": "Tale Hiu",
+      "x": 1049.14,
+      "y": 5493.62
+    },
+    {
+      "name": "Ri Met",
+      "x": 6467.5,
+      "y": 6800.92
+    },
+    {
+      "name": "Ku Kurk",
+      "x": 1575.26,
+      "y": 6673.13
+    },
+    {
+      "name": "Pu Korp",
+      "x": 544.396,
+      "y": 3265.34
+    },
+    {
+      "name": "NeRin",
+      "x": 369.439,
+      "y": 4486.74
+    },
+    {
+      "name": "Taja Joh",
+      "x": 475.394,
+      "y": 5166.31
+    },
+    {
+      "name": "Ka Penk",
+      "x": 2019.73,
+      "y": 7342.58
+    },
+    {
+      "name": "Ven Ah",
+      "x": 6458.41,
+      "y": 7292.78
+    },
+    {
+      "name": "Ku Las",
+      "x": 6913.99,
+      "y": 7081.06
+    },
+    {
+      "name": "Kero Lon",
+      "x": 708.501,
+      "y": 6489.7
+    },
+    {
+      "name": "Si Kuu",
+      "x": 5910.16,
+      "y": 277.629
+    },
+    {
+      "name": "Ta Ran",
+      "x": 1164.85,
+      "y": 1017.54
+    },
+    {
+      "name": "Ra Kau",
+      "x": 1218.71,
+      "y": 7260.42
+    },
+    {
+      "name": "Vi Kah",
+      "x": 1428.31,
+      "y": 7585.01
+    },
+    {
+      "name": "Vu Koi",
+      "x": 561.578,
+      "y": 6934.14
+    },
+    {
+      "name": "Si Kek",
+      "x": 806.504,
+      "y": 7531.83
+    },
+    {
+      "name": "Sa Kis",
+      "x": 7240.38,
+      "y": 7787.33
+    }
+  ]
+};
 Arma3Map.Maps.tem_suursaariv = {
   CRS: MGRS_CRS(0.0315, 0.0315, 388),
   "worldName": "tem_suursaariv",
@@ -20068,6 +20449,97 @@ Arma3Map.Maps.vtf_korsac = {
   "dlc": null,
   "title": "Korsac",
   "steamWorkshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=3043043427",
+  "cities": [
+    {
+      "name": "Myro",
+      "x": 4671.52,
+      "y": 3436.94
+    },
+    {
+      "name": "Cherny Shakal",
+      "x": 3857.72,
+      "y": 5110.46
+    },
+    {
+      "name": "Rostok",
+      "x": 2980.0,
+      "y": 2590.0
+    },
+    {
+      "name": "Nozyba",
+      "x": 4887.53,
+      "y": 2049.53
+    },
+    {
+      "name": "Czero",
+      "x": 2281.17,
+      "y": 2530.16
+    },
+    {
+      "name": "Zeleny Doliny",
+      "x": 4039.72,
+      "y": 1336.9
+    },
+    {
+      "name": "Nizhnegorsk",
+      "x": 1691.16,
+      "y": 2695.04
+    },
+    {
+      "name": "Novaya Zelen",
+      "x": 1773.85,
+      "y": 5660.38
+    },
+    {
+      "name": "Kirvansk",
+      "x": 5236.95,
+      "y": 7148.22
+    },
+    {
+      "name": "Nizkiy",
+      "x": 4735.8,
+      "y": 773.2
+    },
+    {
+      "name": "Zerno",
+      "x": 7251.63,
+      "y": 2841.75
+    },
+    {
+      "name": "Nikovskaya",
+      "x": 811.88,
+      "y": 4974.47
+    },
+    {
+      "name": "Borzoisk",
+      "x": 1841.41,
+      "y": 1085.71
+    },
+    {
+      "name": "Lynsk",
+      "x": 7035.79,
+      "y": 1367.33
+    }
+  ]
+};
+Arma3Map.Maps.vtf_korsac_winter = {
+  CRS: MGRS_CRS(0.0315, 0.0315, 259),
+  "worldName": "vtf_korsac_winter",
+  "tilePattern": "/maps/vtf_korsac_winter/{z}/{x}/{y}.png",
+  "maxZoom": 5,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "attribution": "&copy; Bohemia Interactive",
+  "tileSize": 259,
+  "center": [
+    4096,
+    4096
+  ],
+  "worldSize": 8192.0,
+  "preview": null,
+  "dlc": null,
+  "title": "Korsac (Winter)",
+  "steamWorkshop": null,
   "cities": [
     {
       "name": "Myro",
