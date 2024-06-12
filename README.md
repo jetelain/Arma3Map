@@ -2,6 +2,14 @@
 
 Tool to display [Arma 3](https://arma3.com/) maps in a web browser using [Leaflet](https://leafletjs.com/).
 
+-----
+
+This repository is deprecated, it's being replaced by https://github.com/jetelain/GameMapStorage/wiki.
+
+You can still create PR on this repository, a bridge exists to import data on the new system.
+
+-----
+
 # Supported maps
 
 | [Tanoa](tanoa.html)                                                                  | [X-CAM Taunus](taunus.html)                                                            | [Kujari](kujari.html)                                                                  |

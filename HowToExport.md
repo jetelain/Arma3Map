@@ -1,5 +1,11 @@
 # How to export a map for Arma3Map
 
+-----
+
+This procedure is deprecated, see https://github.com/jetelain/GameMapStorage.Arma3/wiki for the up to date procedure.
+
+-----
+
 Note: You need a computer with at least 8 GB of memory (exporter will need up to 2GB to be added to game requirements).
 
 1. Download Export mod on Workshop : https://steamcommunity.com/sharedfiles/filedetails/?id=2403150951
